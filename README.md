@@ -1,0 +1,2 @@
+# linkstar_frontend_static
+linkstar_frontend_static
