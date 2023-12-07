@@ -1,0 +1,2 @@
+webpackJsonp([34],{2034:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),n.d(t,"Logout",function(){return a});var o=n(0),u=n.n(o),r=n(19),c=n(28),l=n(68),a=function(e){var t=e.userRole;return e.logout(),sessionStorage.clear(),u.a.createElement(r.d,{to:"/"+t+"/login"})},i=function(e){return{logout:function(){return e(Object(l.k)())}}};t.default=Object(c.b)(null,i)(a)}});
+//# sourceMappingURL=Logout.5a733fae.chunk.js.map

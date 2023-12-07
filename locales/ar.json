@@ -1,0 +1,3616 @@
+{
+  "common": {
+    "cancelSubscription": "إلغاء الاشتراك",
+    "undisclosed": "غير معلوم",
+    "contactNumber": "رقم الهاتف",
+    "emailAddress": "البريد الإلكتروني",
+    "saved": "تم الحفظ",
+    "savedJobs": "وظائف محفوظة",
+    "keyword": "الكلمات الرئيسية",
+    "preferences": "التفضيلات",
+    "emailFrequency": "تكرار البريد الإلكتروني",
+    "seeMore": "عرض المزيد",
+    "internshipsByDepartment": "التدريب حسب القسم",
+    "internshipsByIndustry": "التدريب حسب المجال",
+    "graduateJobsByDepartment": "وظائف الخريجين حسب القسم",
+    "graduateJobsByIndustry": "وظائف الخريجين حسب المجال",
+    "for": "من أجل",
+    "created": "تم الإنشاء",
+    "saveSearchCriteriaSuccess": "تم الأمر بنجاح! تم حفظ بحثك",
+    "saveSearchCriteriaError": "حدث خطأ ما أثناء حفظ البحث",
+    "drivingLicenseWithValue": "رخصة القيادة: {{value}}",
+    "update": "تحديث",
+    "date": "التاريخ",
+    "from": "من",
+    "to": "إلى",
+    "shareViaFacebook": "مشاركة عبر فيسبوك",
+    "shareViaTwitter": "مشاركة عبر تويتر",
+    "shareViaLinkedin": "مشاركة عبر لينكد إن",
+    "shareViaWhatsapp": "مشاركة عبر واتس آب",
+    "shareViaEmail": "إرسال عبر البريد الإلكتروني",
+    "copyLink": "نسخ الرابط",
+    "viewMessage": "عرض الرسالة",
+    "myApplications": "تطبيقاتي",
+    "profileRating": "تقييم الحساب الشخصي",
+    "unlimited": "غير محدود",
+    "completed": "تم الانتهاء منه",
+    "addToFavourite": "إضافة إلى المفضلة",
+    "provideCompanyDetails": "إدخال بيانات الشركة",
+    "or": "أو",
+    "ok": "حسناً",
+    "video": "فيديو",
+    "gallery": "معرض الصور",
+    "socialProfiles": "حسابات التواصل الاجتماعي",
+    "readOurStory": "قراءة قصتنا",
+    "showMore": "عرض المزيد",
+    "viewMore": "عرض المزيد",
+    "hideMore": "إخفاء المزيد",
+    "searchResults": "نتيجة البحث",
+    "editJobOffer": "تعديل عرض العمل",
+    "backToAdmin": "العودة إلى لوحة الإشراف",
+    "impersonatingUser": "أنت تنتحل شخصية",
+    "moveTo": "نقل إلى",
+    "cv": "السيرة الذاتية",
+    "optional": "اختياري",
+    "privacyTerm": "تسجيل الدخول يعني قبولك للشروط والأحكام وسياسة الخصوصية الخاصة بنا {{termsAndConditionsAndPrivacyPolicy}}.",
+    "termsAndConditionsAndPrivacyPolicy": "تسجيل الدخول يعني قبولك للشروط والأحكام وسياسة الخصوصية الخاصة بنا",
+    "nationality": "الجنسية",
+    "dateOfBirth": "تاريخ الميلاد",
+    "gender": "الجنس",
+    "inviteToInterview": "دعوة إلى مقابلة عمل",
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "dashboard": "لوحة البيانات",
+    "availability": "التوفر",
+    "thisIsDemoAccount": "هذا حسابك التجريبي. لديك وصول محدود للبحث في مجتمعنا ونشر الوظائف",
+    "profileCompletion": "استكمال الحساب الشخصي",
+    "updateProfile": "تحديث الحساب الشخصي",
+    "viewProfile": "عرض الحساب الشخصي",
+    "seeRatingDetails": "عرض تفاصيل التقييم",
+    "changeDates": "تغيير التاريخ",
+    "completeProfile": "إكمال الحساب الشخصي",
+    "description": "الشرح",
+    "employers": "أصحاب العمل",
+    "jobs": "الوظائف",
+    "profile": "الحساب الشخصي",
+    "company": "الشركة",
+    "editCompany": "تعديل الشركة",
+    "companies": "الشركات",
+    "resources": "مصادر",
+    "studentVisa": "فيزا الطلاب",
+    "parentVisa": "فيزا الأهل",
+    "spouseVisa": "فيزا الزوج",
+    "visitVisa": "فيزا زيارة",
+    "emiratiVisa": "من الإمارات",
+    "citizenVisa": "مواطن خليجي",
+    "employeeVisa": "فيزا عمل",
+    "noVisa": "لا أملك فيزا",
+    "saveAndContinue": "الحفظ والمتابعة",
+    "yes": "نعم",
+    "yesIDo": "نعم",
+    "no": "لا",
+    "noIDont": "لا",
+    "university": "الجامعة",
+    "cancel": "إلغاء",
+    "submit": "إدخال",
+    "submitting": "يتم الإدخال...",
+    "leaveAndSave": "حفظ",
+    "leave": "مغادرة",
+    "saveAsDraft": "الحفظ كمسودة",
+    "stay": "البقاء",
+    "discardChanges": "تجاهل التغييرات",
+    "leaveWithoutSaving": "المغادرة دون حفظ",
+    "loading": "يتم التحميل",
+    "fetchingData": "يتم جمع البيانات",
+    "loadingJobOffers": "يتم تحميل بيانات الوظائف",
+    "unsavedChanges": "لم يتم حفظ التغييرات",
+    "unsavedChangesDescription": "لديك بعض التغييرات غير المحفوظة. هل أنت متأكد من المغادرة الآن؟",
+    "present": "الآن",
+    "delete": "حذف",
+    "deleteSure": "هل أنت متأكد من حذف هذا البند؟",
+    "previousStep": "الخطوة السابقة",
+    "volunteering": "التطوع",
+    "studentOrganisation": "منظمة طلابية",
+    "threeItemsMaximum": "3 بنود كحد أقصى",
+    "noItemsMaximum": "{{number}} بنود كحد أقصى",
+    "noItemsMaximumNotice": "يمكنك اختيار حتى {{number}} بنود",
+    "noResults": "لم يتم إيجاد أيّ نتائج",
+    "uploadedDocuments": "الملفات المحمّلة",
+    "uploadedDate": "Uploaded date",
+    "uploadFileInfo": " قم بالسحب والإفلات لتحميل مستندات جديدة أو{{uploadButton}} قم بتحميل الملفات من الكمبيوتر",
+    "uploadProfilePhotoInfo": " قم بالسحب والإفلات لتحميل صور جديدة أو{{uploadButton}}قم بتحميل الملفات من الكمبيوتر",
+    "uploadEmployerProfilePhotoInfo": " سحب وإفلات أو تحميل {{uploadButton}} ملف من جهاز الكمبيوتر الخاص بك. يجب ألا تتجاوز صورة الحساب 5 ميجابايت وأن تكون من الامتدادات التالية: png، jpg، jpeg.",
+    "uploadVideoInfo": " قم بالسحب والإفلات لتحميل الفيديوهات أو{{uploadButton}} قم بتحميل الملفات من الكمبيوتر",
+    "uploadVideoLoading": "يتم تحميل الفيديو، يرجى الانتظار...",
+    "createProfilePhoto": "إنشاء صورة للحساب الشخصي",
+    "cropImage": "قص الصورة",
+    "choose": "اختيار",
+    "select": "تحديد",
+    "save": "حفظ",
+    "sendInvitation": "إرسال الدعوة",
+    "apply": "تقديم طلب",
+    "uploadProgress": "يتم التحميل",
+    "uploadedFile": "تم تحميل الملف",
+    "uploadedVideo": "تم تحميل الفيديو",
+    "changeFile": "تغيير الملف",
+    "changePhoto": "تغيير الصورة",
+    "roleDescription": "شرح الوظيفة",
+    "requirementsToApply": "المتطلبات لتقديم الطلب",
+    "asap": "على الفور",
+    "locationUnavailable": "الموقع غير متوفر",
+    "specificDate": "تاريخ محدد",
+    "saveDraft": "حفظ المسودة",
+    "postJob": "نشر الوظيفة",
+    "posted": "تم النشر",
+    "jobType": {
+      "internship": "فترة تدريب",
+      "graduate_job": "وظيفة للمتخرجين",
+      "volunteering": "تطوّع",
+      "event_promotion": "ترويج الفعاليات",
+      "freelance": "حسابهم الخاص"
+    },
+    "jobTypeDescription": {
+      "internship": "بديل لـ2-6 أشهر",
+      "graduate_job": "مستوى بدائي، دوام كامل",
+      "volunteering": "خبرة غير مدفوعة",
+      "event_promotion": "مدفوع، مؤقت",
+      "freelance": "تعاقدي"
+    },
+    "updated": "تحديث",
+    "post": "نشر",
+    "preview": "معاينة",
+    "edit": "تعديل",
+    "share": "مشاركة",
+    "expires": "ينتهي في",
+    "goBackToOffers": "العودة إلى قائمة الوظائف",
+    "search": "بحث",
+    "readMore": "اقرأ المزيد",
+    "readLess": "اقرأ أقل",
+    "follow": "تابع",
+    "goBackToMyJobs": "العودة إلى وظائفي",
+    "expiresAt": "ينتهي في: {{date}}",
+    "sendMessage": "إرسال رسالة",
+    "viewInvitation": "عرض الدعوة",
+    "about": "حول",
+    "generalInfo": "معلومات عامة",
+    "age": "العمر",
+    "drivingLicence": "رخصة قيادة",
+    "carCapacity": "ملكية السيارة",
+    "yearsOld": "عدد السنوات",
+    "graduationDate": "تاريخ التخرج",
+    "current": "الحالي",
+    "website": "الموقع الإلكتروني",
+    "websites": "مواقع إلكترونية",
+    "phoneNumber": "رقم الهاتف",
+    "email": "البريد الإلكتروني",
+    "attachedCv": "السيرة الذاتية المرفقة",
+    "myAccount": "حسابي",
+    "jobOffers": "الوظائف المنشورة",
+    "activeJobs": "وظيفة نشطة",
+    "activeJobs_plural": "وظائف نشطة({{count}})",
+    "candidates": "المرشحون",
+    "companyProfile": "حساب الشركة",
+    "settings": "الإعدادات",
+    "appliedJobs": "الوظائف المقدّم عليها",
+    "followedCompanies": "الشركات المتابَعة",
+    "testimonials": "شهادات التوصية",
+    "olivsPick": "القائمة القصيرة من قبل Oliv",
+    "expired": "منتهي",
+    "accepted": "تم القبول",
+    "rejected": "عدم القبول",
+    "interviewAccepted": "تم قبول المقابلة",
+    "interviewDeclined": "تم رفض المقابلة",
+    "messageEmployer": "إرسال لصاحب العمل",
+    "inviteToApply": "دعوة لتقديم الطلب",
+    "moreFilters": "فلاتر إضافية",
+    "allFilters": "كل الفلاتر",
+    "clearFilters": "إزالة الفلاتر",
+    "hideFilters": "إخفاء الفلاتر",
+    "ageWithNumber": "العمر: {{age}}",
+    "sortedBy": "التصنيف حسب",
+    "talkToSales": "التكلم مع المبيعات",
+    "viewDetails": "عرض التفاصيل",
+    "buyCvSearch": "شراء بحث السير الذاتية",
+    "orTalkToSales": "أو التحدث مع قسم المبيعات",
+    "talkToSalesTemplate": "مرحباً، كنت آمل في معرفة المزيد عن أسعار Oliv",
+    "moreCandidates": "المزيد من المرشحين",
+    "relevancy": "الصلة",
+    "repost": "إعادة نشر",
+    "reactivate": "إعادة تفعيل",
+    "new": "جديد",
+    "uploadedImages": "الصور التي تم تحميلها",
+    "showUnviewed": "عرض غير المقروءة فقط",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "savePassword": "حفظ كلمة المرور",
+    "changePassword": "تغيير كلمة المرور",
+    "id": "الهوية",
+    "availabilityExpired": "التوفر ينتهي في",
+    "updateAvailability": "تعديل الحساب الشخصي لتحديث التوفر.",
+    "notProvided": "غير مزود.",
+    "editProfile": "تعديل الحساب الشخصي",
+    "aboutMe": "نبذة عني",
+    "changeEmailAddress": "تغيير البريد الإلكتروني",
+    "descriptionWritingTips": "نصائح لكتابة الشرح",
+    "needHelp": "هل تحتاج للمساعدة؟",
+    "gotIt": "الأمر واضح",
+    "currentlyUnavailable": "غير متوفر حالياً.",
+    "salaryGuide": "دليل المرتبات",
+    "okGotIt": "حسناً، فهمت الأمر.",
+    "changePersonalDetails": "تغيير البيانات الشخصية",
+    "changeDetails": "تغيير البيانات",
+    "saveChanges": "حفظ التغييرات",
+    "learnMoreOnOliv": " اعرف المزيد حول Oliv",
+    "markAsDefault": "اجعله افتراضياًً",
+    "default": "افتراضي",
+    "accept": "قبول",
+    "reject": "عدم قبول",
+    "decline": "رفض",
+    "confirm": "تأكيد",
+    "private": "خاص",
+    "public": "عام",
+    "hireMe": "وظّفني",
+    "replyToInvitation": "الرد على دعوة ",
+    "savedSearches": "تم الحفظ",
+    "saveSearch": "حفظ البحث",
+    "send": "إرسال",
+    "filtersWithCount": "{{count}} فلتر",
+    "filtersWithCount_plural": "{{count}} فلتر",
+    "lastMessage": "آخر رسالة",
+    "jobAlerts": "تنبيهات الوظائف",
+    "createJobAlerts": "إنشاء تنبيهات الوظائف",
+    "editJobAlert": "تعديل تنبيهات الوظائف",
+    "createJobAlert": "إنشاء تنبيهات الوظائف",
+    "filters": "الفلاتر",
+    "reset": "إعادة تعيين",
+    "searchForJobs": "البحث عن الوظائف",
+    "applyFilterWithJobsNumber": "التقديم على ({{count}} الوظائف)",
+    "applyFilter": "تطبيق الفلتر",
+    "jobSearch": "البحث عن الوظائف",
+    "sendInvite": "إرسال دعوة",
+    "add": "إضافة",
+    "findJobs": "إيجاد وظائف",
+    "applications": "طلبات التقديم",
+    "done": "تم",
+    "chatWithUs": "تحدّث معنا",
+    "saveAndPublish": "احفظ وانشر",
+    "showMap": "عرض الخريطة",
+    "hideMap": "إخفاء الخريطة",
+    "myProfile": "حسابي",
+    "careerPreferences": "تفضيلات الوظائف",
+    "back": "عودة",
+    "greeting": "مرحباً {{name}}",
+    "uploadDocuments": "تحميل مستندات",
+    "uploadFiles": "تحميل ملفات",
+    "selectUpToThree": "اختر حتى 3",
+    "premium": "ممتاز",
+    "filterBy": "فلترة حسب",
+    "createAccount": "إنشاء حساب",
+    "PostJob": "انشر وظيفة"
+  },
+  "documentTypes": {
+    "cv": "السيرة الذاتية",
+    "project": "مشروع",
+    "portfolio": "محفظة",
+    "certificate": "شهادة"
+  },
+  "authorization": {
+    "cannotBeChanged": "لا يمكن تغيير هذا لاحقاً",
+    "createAccount": "أنشئ حساباً",
+    "login": "تسجيل الدخول",
+    "loginCandidate": "تسجيل دخول المرشح",
+    "loginEmployer": "تسجيل دخول صاحب العمل",
+    "lookingToGetHired": "هل تبحث عن وظيفة؟",
+    "lookingForTalent": "هل تبحث عن توظيف الأفضل؟",
+    "loggingIn": "يتم تسجيل الدخول...",
+    "signUp": "أنشئ حساباً",
+    "selectAccountType": "اختر نوع حسابك",
+    "candidateSignUpCTA": "انضم إلى Oliv واجعل مسيرتك المهنية بسيطة وشخصية ومجزية.",
+    "signUpCTA": "انضم إلى Oliv واجعل مسيرتك المهنية سلسة ومجزية وتعكس شخصية.",
+    "noAccount": "ليس لديك حساب Oliv؟",
+    "alreadyHaveAccount": "هل لديك بالفعل حساب على Oliv؟",
+    "signUpWithFacebook": "إنشاء الحساب عبر فيسبوك",
+    "signUpWithLinkedIn": "إنشاء الحساب عبر لينكد إن",
+    "completeRegistration": "إكمال تسجيل الدخول",
+    "joinInternsme": "Oliv انضم",
+    "getStarted": "ابدأ",
+    "createYourAccount": "أنشئ حساباً",
+    "linkedIn": "LinkedIn",
+    "google": "Google",
+    "orLoginWith": "أو سجّل الدخول مع",
+    "orSignupWith": "أو أنشئ حساباً مع",
+    "joinOrganisationAccount": "انضم إلى {{organisationName}} فريق الحسابات",
+    "joinOrganisationAccountDescription": " تساعدك Oliv في اكتشاف المواهب الناشئة وإدارة التطبيقات والتوظيف - كل ذلك في مكان واحد.",
+    "signupThanksTitle": "شكراً لإنشاء حساب على Oliv",
+    "signupThanksSubtitle": " نحتاج فقط إلى تأكيد تسجيلك قبل البدء. انتقل إلى البريد الوارد الخاص بك لتأكيد <1> بريدك الإلكتروني. </ 1>",
+    "signupThanksDescription": {
+      "didntReceiveEmail": "لم تستلم أيّ بريد إلكتروني؟",
+      "correctEmail": "هل <1><0>{{email}}</0></1> هو عنوانك الصحيح؟",
+      "checkSpam": "تحقق من صندوق الرسائل العشوائية",
+      "havingTrouble": "لا زلت تعاني من مشكلة؟",
+      "contact": "تواصل معنا على <1>team@oliv.com</1>"
+    },
+    "isThirtyTwoOrAbove": " تتمثل مهمة Oliv في تمكين توظيف الشباب للطلاب والخريجين الجدد الذين يبحثون عن خبرة في العمل. بناءً على تاريخ ميلادك، لا يمكنك إنشاء ملف تعريف للباحثين عن عمل على Oliv.",
+    "learMore": "معرفة المزيد حول هذا",
+    "isBetweenTwentyEightAndThirtyTwo": " فقط للمعرفة - مهمة Oliv هي مساعدة الطلاب والخريجين الجدد في العثور على خبرة في العمل. بناءً على تاريخ ميلادك، سنحتاج إلى معرفة مقدار الخبرة السابقة في العمل لديك لتحديد أهليتك لمنصة Oliv. كقاعدة عامة، نقبل فقط الباحثين عن عمل مع 6 سنوات أو أقل من الخبرة في العمل. إذا كنت أنت كذلك - يرجى المتابعة إلى إنشاء الملف الشخصي!",
+    "signupCancelTitle": "تم حذف معلوماتك!",
+    "signupCancelDescripton": {
+      "info": " هذا تأكيد على أنه تم حذف أي معلومات شخصية قمت بإدخالها على Oliv.",
+      "farewell": " نتمنى لك الأفضل في البحث عن الوظيفة المناسبة!",
+      "signature": "Oliv فريق",
+      "anyQuestions": "هل لديك أيّ أسئلة؟"
+    }
+  },
+  "forms": {
+    "profilePicture": {
+      "label": "صورة الحساب الشخصي"
+    },
+    "educationSystem": {
+      "label": "نظام التعليم",
+      "placeholder": "اختر نظام التعليم"
+    },
+    "select": {
+      "placeholderEmpty": "--- يرجى الاختيار ---"
+    },
+    "email": {
+      "label": "البريد الإلكتروني",
+      "placeholder": "أدخل عنوان بريدك الالكتروني"
+    },
+    "companyEmail": {
+      "label": "عنوان البريد الإلكتروني للشركة",
+      "placeholder": "أدخل عنوان بريدك الالكتروني"
+    },
+    "lastName": {
+      "label": "اسم العائلة",
+      "placeholder": "اسم العائلة"
+    },
+    "firstName": {
+      "label": "الاسم الأول",
+      "placeholder": "الاسم الأول"
+    },
+    "phoneNumber": {
+      "label": "رقم الهاتف",
+      "placeholder": "مثلاً، 5x xxx xxxx"
+    },
+    "password": {
+      "label": "كلمه المرور",
+      "placeholder": "الحد الأدنى 6 رموز"
+    },
+    "newPassword": {
+      "label": "كلمة المرور الجديدة",
+      "placeholder": "الحد الأدنى 6 رموز"
+    },
+    "repeatNewPassword": {
+      "label": "أعد كتابة كلمة المرور الجديدة",
+      "placeholder": "الحد الأدنى 6 رموز"
+    },
+    "retypeNewPassword": {
+      "label": "إعادة كتابة كلمة المرور"
+    },
+    "oldPassword": {
+      "label": "كلمة المرور الحالية"
+    },
+    "gender": {
+      "label": "الجنس",
+      "male": "ذكر",
+      "female": "أنثى"
+    },
+    "nationality": {
+      "label": "الجنسية",
+      "placeholder": "تحديد الجنسية"
+    },
+    "currency": {
+      "label": "اختر العملة",
+      "placeholder": "اختر العملة"
+    },
+    "dateOfBirth": {
+      "label": "تاريخ الميلاد",
+      "placeholder": "تحديد تاريخ",
+      "tooltipLabel": "لم تحتاج Oliv إلى ذلك؟",
+      "tooltipContent": " نهتم بخصوصيتك ونأخذها على محمل الجد، وهذا يعني أنّ الطريقة التي نعالج بها معلوماتك تعتمد على إذا كنت بالغًا أو طفلاً."
+    },
+    "countryOfResidence": {
+      "label": "بلد الإقامة",
+      "placeholder": "تحديد بلد الإقامة"
+    },
+    "city": {
+      "label": "المدينة",
+      "placeholder": "يرجى تحديد مدينة من القائمة"
+    },
+    "visaStatus": {
+      "label": "حالة التأشيرة في الإمارات العربية المتحدة",
+      "placeholder": "تحديد وضع الفيزا"
+    },
+    "drivingLicence": {
+      "label": "هل لديك رخصة قيادة؟"
+    },
+    "ownCar": {
+      "label": "هل تملك سيارة؟"
+    },
+    "highSchoolName": {
+      "label": "اسم المدرسة",
+      "placeholder": "مثلاً مدرسة Oliv"
+    },
+    "universityName": {
+      "label": "اسم الجامعة",
+      "placeholder": "مثلاً، جامعةOliv"
+    },
+    "degree": {
+      "label": "الدرجة العلمية",
+      "placeholder": "الدرجة العلمية"
+    },
+    "major": {
+      "label": "رئيسية",
+      "placeholder": "مثلاً، إدارة أعمال"
+    },
+    "specialisation": {
+      "label": "التخصص",
+      "placeholder": "مثلاً، مستشار مبيعات"
+    },
+    "graduationMonth": {
+      "label": "تاريخ التخرج / تاريخ التخرج المتوقع",
+      "placeholder": "تحديد الشهر"
+    },
+    "graduationYear": {
+      "label": " ",
+      "placeholder": "تحديد السنة"
+    },
+    "gradingSystem": {
+      "label": "نظام الدرجات",
+      "placeholder": "مثلاً، نظام مئوي"
+    },
+    "gradeFormat": {
+      "label": "نمط الدرجات",
+      "placeholder": "مثلاً، مئوية"
+    },
+    "gradeValue": {
+      "label": "القيمة",
+      "placeholder": "يرجى الكتابة"
+    },
+    "location": {
+      "label": "الموقع",
+      "placeholder": "البحث عم الموقع"
+    },
+    "course": {
+      "label": "اسم الدورة / الشهادة...",
+      "placeholder": "اسم الدورة / الشهادة"
+    },
+    "organisation": {
+      "label": "المنظمة",
+      "placeholder": "مثلاً، كورسيرا"
+    },
+    "organisationName": {
+      "label": "اسم المنظمة",
+      "placeholder": "مثلاً، كورسيرا"
+    },
+    "yearOfCompletion": {
+      "label": "تاريخ الإكمال",
+      "placeholder": "عام الإكمال"
+    },
+    "courseCertificateName": {
+      "label": "اسم الدورة / الشهادة",
+      "placeholder": "مثلاً، تذوق الزيتون"
+    },
+    "companyName": {
+      "label": "اسم الشركة",
+      "placeholder": " مثلاً،Oliv"
+    },
+    "companySize": {
+      "label": "حجم الشركة",
+      "placeholder": "حجم الشركة"
+    },
+    "companyDescription": {
+      "label": "وصف الشركة",
+      "placeholder": "وصف الشركة"
+    },
+    "companyWebsiteURL": {
+      "label": "رابط موقع الشركة",
+      "placeholder": " مثلاً،https://company.com"
+    },
+    "companySocialProfiles": {
+      "label": "الحسابات الاجتماعية للشركة",
+      "placeholder": "الحسابات الاجتماعية للشركة"
+    },
+    "perks": {
+      "label": "الامتيازات",
+      "placeholder": "مثلاً، إمكانية ارتداء الملابس غير الرسمية"
+    },
+    "position": {
+      "label": "المنصب",
+      "placeholder": "مثلاً، تنفيذي النمو"
+    },
+    "startDate": {
+      "label": "تاريخ البدء",
+      "placeholder": "تاريخ البدء"
+    },
+    "endDate": {
+      "label": "تاريخ الانتهاء",
+      "placeholder": "تاريخ الانتهاء"
+    },
+    "interests": {
+      "label": " ",
+      "placeholder": "يرجى التحديد"
+    },
+    "role": {
+      "label": "المنصب",
+      "placeholder": "مثلاً، أمين"
+    },
+    "employmentType": {
+      "label": "نوع الوظيفة",
+      "placeholder": "مثلاً، تطوّعية"
+    },
+    "industry": {
+      "label": "المجال",
+      "placeholder": "مثلاً، التصميم"
+    },
+    "preferredIndustry": {
+      "label": "المجال المفضل",
+      "placeholder": "مثلاً، التصميم"
+    },
+    "preferredDepartment": {
+      "label": "القسم المفضل",
+      "placeholder": "مثلاً، الخدمات اللوجستية"
+    },
+    "preferredLocation": {
+      "label": "الموقع المفضل",
+      "placeholder": "يرجى التحديد..."
+    },
+    "activityType": {
+      "label": "نوع النشاط",
+      "placeholder": "مثلاً، تنظيم الفعاليات"
+    },
+    "skills": {
+      "placeholder": "مثلاً، إدارة مشروع",
+      "disabledPlaceholder": "تم تحديد بالفعل {{number}} مهارات"
+    },
+    "jobOfferCv": {
+      "placeholder": "تحديد سيرة ذاتية من المكتبة"
+    },
+    "language": {
+      "label": "اللغة",
+      "placeholder": "اللغة"
+    },
+    "socialNetworks": {
+      "label": "الشبكات الاجتماعية"
+    },
+    "linkedIn": {
+      "placeholder": "لينكد إن"
+    },
+    "instagram": {
+      "placeholder": "إنستغرام"
+    },
+    "twitter": {
+      "placeholder": "تويتر"
+    },
+    "startJobOfferDate": {
+      "label": "متى يبدأ العمل؟"
+    },
+    "jobDuration": {
+      "label": "مدة العمل",
+      "placeholder": "تحديد"
+    },
+    "jobTitle": {
+      "label": "المنصب",
+      "placeholder": "مثلاً، متدرب تسويقي"
+    },
+    "jobCategory": {
+      "label": "فئة العمل"
+    },
+    "permanentJobOpportunity": {
+      "label": "هل أنت على استعداد لتحويل المتدربين إلى موظفين دائمين؟"
+    },
+    "message": {
+      "label": "الرسالة",
+      "placeholder": "الوصف..."
+    },
+    "jobOffers": {
+      "label": "منشورات الوظيفة",
+      "placeholder": "تحديد منشورات الوظيفة"
+    },
+    "currentEmailAddress": {
+      "label": "البريد الإلكتروني الحالي"
+    },
+    "newEmailAddress": {
+      "label": "البريد الإلكتروني الجديد",
+      "placeholder": " مثلاً، example@domain.com"
+    },
+    "roleDescription": {
+      "label": "وصف المنصب",
+      "placeholder": "مثلاً، نص كمثال"
+    },
+    "requirementsToApply": {
+      "label": "متطلبات التقديم للعمل",
+      "placeholder": "مثلاً، نص كمثال"
+    },
+    "coverLetter": {
+      "placeholder": "مثلاً، نص كمثال"
+    },
+    "jobOfferNotification": {
+      "placeholder": "أرغب في استلام تنبيهات وتحديثات الوظائف عبر البريد الإلكتروني"
+    },
+    "promotionalNotification": {
+      "placeholder": " أرغب في استلام رسائل إلكترونية ترويجية من شركاء Oliv."
+    },
+    "systemNotification": {
+      "placeholder": "أرغب في استلام تحديثات النظام والترويجية حول النظام الأساسي لـOliv."
+    },
+    "weeklyCandidateNotification": {
+      "placeholder": "أريد أن أتلقى أفضل المرشحين لرسائل البريد الإلكتروني"
+    },
+    "applicationNotificationEnabled": {
+      "placeholder": " أرغب في استلام تنبيهات النظام والتحديثات حول النظام الأساسي لـOliv"
+    },
+    "weeklyActiveJobSummaryEnabled": {
+      "placeholder": "أريد تلقي رسائل البريد الإلكتروني الأسبوعية"
+    },
+    "completeProfileAlert": {
+      "placeholder": "تنبيهي من أجل إكمال حسابي الشخصي"
+    },
+    "interestingJobsAlert": {
+      "placeholder": "تنبيهي حول الوظائف التي قد أكون مهتمًا بها"
+    },
+    "declinedMessage": {
+      "label": "الرسالة",
+      "placeholder": "رسالتك..."
+    },
+    "saveSearchName": {
+      "label": "Name"
+    },
+    "includeNotification": {
+      "label": "إرسال رسالة إلى مقدم الطلب"
+    },
+    "messageTemplate": {
+      "label": "نموذج الرسالة",
+      "placeholder": "اختر أحد نماذج الرسائل",
+      "noAnswer": "لا جواب",
+      "applicationSubmitted": "تم تقديم الطلب",
+      "shortlisting": "وضع في قائمة مختصرة"
+    },
+    "subject": {
+      "label": "الموضوع"
+    },
+    "searchKeyword": {
+      "label": "بحث الكلمات الرئيسية",
+      "placeholder": "إيجاد الكلمات الرئيسية"
+    },
+    "emailFrequency": {
+      "label": "تكرار ورود البريد الإلكتروني",
+      "placeholder": "اختيار تكرار ورود البريد الإلكتروني"
+    },
+    "jobType": {
+      "label": "نوع العمل",
+      "placeholder": "اختيار نوع العمل"
+    },
+    "department": {
+      "label": "القسم",
+      "placeholder": "مثلاً، النقل"
+    },
+    "commitmentType": {
+      "label": "توع الالتزام",
+      "placeholder": "اختيار نوع الالتزام"
+    },
+    "teamMembers": {
+      "placeholder": "أدخل عنوان البريد الإلكتروني لأعضاء الفريق"
+    },
+    "teamMembersConversation": {
+      "label": "اختيار أعضاء الفريق",
+      "placeholder": "اختيار"
+    },
+    "postJobForm": {
+      "tooltips": {
+        "completeCompanyProfile": " يحتاج ملف تعريف شركتك إلى إكماله بواسطة مسؤول فريقك, {{adminFullName}}",
+        "noJobPosts": "مسؤول فريقك  {{adminFullName}}يحتاج لشراء إمكانية نشر وظيفة. لم يتبق شواغر."
+      }
+    },
+    "handicapDeclaration": {
+      "yes": "نعم، أعاني من إعاقة",
+      "no": "لا، لا أعاني من أيّ إعاقة",
+      "notDisclose": "أفضل عدم الإجابة",
+      "furtherInformation": "معلومات إ"
+    },
+    "permissions": {
+      "title": "الأذونات",
+      "admin": {
+        "label": "المشرف",
+        "description": "يمكن الوصول إلى جميع منشورات الوظيفة، وإدارة الإعدادات بما في ذلك الفواتير وأعضاء الفريق"
+      },
+      "manager": {
+        "label": "المدير",
+        "description": "يمكن إدارة منشورات الوظائف على أساس الأذونات وإمكانية الوصول"
+      },
+      "applications": {
+        "label": "إدارة التطبيقات",
+        "description": " يمكن إدارة المتقدمين والدردشة وإرسال طلبات المقابلة وإرسال السير الذاتية لوظائف معينة"
+      },
+      "jobPosts": {
+        "label": "تعديل منشورات الوظائف",
+        "description": "يمكن إنشاء منشور وظيفة جديد وتعديل منشور وظيفة معينة"
+      },
+      "cvSearch": {
+        "label": "استخدام البحث عن السير الذاتية",
+        "description": "يمكن الاتصال بالملفات وإرسال السير الذاتية"
+      },
+      "companyProfile": {
+        "label": "تعديل حساب الشركة",
+        "description": "إمكانية تعديل حساب الشركة"
+      },
+      "purchasing": {
+        "label": "الشراء",
+        "description": "يمكن شراء منشورات الوظائف ونتائج البحث عن السيرة الذاتية"
+      }
+    },
+    "assignJobPosts": {
+      "title": "تعيين منشورات الوظائف",
+      "descriptionAdmin": "يمكن عرض الطلبات المقدمة لجميع منشورات الوظائف",
+      "descriptionMember": "يمكن عرض الطلبات المقدمة لمنشورات وظائف محددة",
+      "jobStatus": "حالة الوظيفة",
+      "statuses": {
+        "all": "الجميع",
+        "active": "نشط",
+        "draft": "مسودة",
+        "inactive": "غير مفعل"
+      },
+      "jobPosts": "منشورات الوظيفة"
+    },
+    "salaryExpectations": {
+      "experienceOnly": {
+        "label": "Experience only",
+        "description": "I'm prioritising work experience for now and can accept unpaid internships or work.",
+        "details": "Estimated average monthly salary range {{amount}}"
+      },
+      "expenseCoverage": {
+        "label": "Expense coverage",
+        "description": "I'm looking for my expenses to be covered via a small stipend.",
+        "details": "Estimated average monthly salary range {{amount}}"
+      },
+      "graduateWage": {
+        "label": "Graduate wage",
+        "description": "I'm looking for a full time living wage for a recent graduate."
+      },
+      "notSure": {
+        "label": "I'm not sure",
+        "description": "I haven't really thought about this, I'd like to update this section later."
+      }
+    }
+  },
+  "errors": {
+    "messageTooShort": " يجب ألا يقل طول الرسالة عن {{chars}}",
+    "messageIsARequiredField": "حقل الرسالة مطلوب",
+    "emptyEducationForHighSchool": "يرجى إضافة مدرسة ثانوية واحدة على الأقل",
+    "emptyEducationForUniversity": "يرجى إضافة جامعة واحدة على الأقل",
+    "generic": "يوجد خطأ غير معروف. يرجى الاتصال بفريقنا للتكنولوجيا",
+    "atLeastNSkills": "عليك تحديد على الأقل {{count}} مهارة.",
+    "atLeastOneTeamMember": "يجب عليك اختيار عضو واحد على الأقل في الفريق",
+    "dateSame": "عليك تغيير التاريخ",
+    "dateBefore": "يرجى اختيار تاريخ أبكر",
+    "dateLater": "يرجى اختيار تاريخ أقدم",
+    "requiredField": "{{field}} حقل مطلوب",
+    "passwordTooShort": "كلمة المرور يجب أن تتكون من {{chars}} أحرف على الأقل",
+    "invalidEmail": "البريد الإلكتروني غير صالح",
+    "emailNotProvided": "البريد الإلكتروني مطلوب",
+    "emailAlreadyTaken": "البريد الإلكتروني مستخدم مسبقاً",
+    "invalidPhoneNumber": "رقم الهاتف غير صالح",
+    "invalidField": "{{field}} غير صالح",
+    "descriptionTooShort": "الوصف يجب أن يكون {{chars}} رمزاً على الأقل",
+    "descriptionIsARequiredField": "حقل الوصف مطلوب",
+    "emailDomainBlackList": "يرجى كتابة بريد العمل الإلكتروني",
+    "invalidLinkNoHttp": " الرابط غير صالح. بروتوكول Http/https مطلوب",
+    "invalidLink": "الرابط غير صالح",
+    "roleDescriptionTooShort": "وصف المنصب يجب أن يكون{{chars}} رمزاً",
+    "textFieldTooShort": "{{field}} يجب أن يكون {{chars}} رمزاً",
+    "textFieldTooLong": "{{field}} لا يمكن أن يكون أكثر من {{chars}} رمزاً",
+    "requirementsTooShort": "يجب أن تكون متطلبات تقديم الطلب على الأقل{{chars}} رمزاً",
+    "roleDescriptionTooLong": "لا يمكن لوصف الوظيفة أن يكون أطول من {{chars}} رمزاً",
+    "requirementsTooLong": "لا يمكن أن يكون وصف متطلبات التقديم للوظيفة أطول من{{chars}} رمزاً",
+    "coverLetterTooShort": "على رسالة طلب العمل أن تكون {{chars}} رمزاً",
+    "coverLetterTooLong": "لا يمكن أن تكون رسالة طلب العمل أطول من {{chars}} رمزاً",
+    "fileUnsupported": "عذراً، ولكن تنسيق الملف هذا غير مدعوم.",
+    "imageTooLarge": "هذه الصورة تتجاوز حد{{limit}} ميجابايت. يرجى اختيار غيرها",
+    "invalidSalary": "قيمة المرتب غير صالحة",
+    "repeatPassword": "كلمة المرور الجديدة لا تتطابق مع كلمة مرور المؤكدة.",
+    "wrongCurrentPassword": ".كلمة المرور الحالية الخاصة بك غير صالحة",
+    "atLeastOneField": "عليك إضافة {{field}} واحد على الأقل ",
+    "atLeastOneActivity": "يجب عليك ذكر نشاط واحد على الأقل",
+    "salaryMinValue": "يجب أن تكون القيمة الدنيا لتوقعات المرتبات أكبر من صفر",
+    "timeSlotGeneral": "يجب إدخال قيمة زمنية واحدة على الأقل",
+    "confirmDoesntMatch": "نص التأكيد غير متطابق. اكتب \"{{confirmWord}}\" للتأكيد.",
+    "termsAgree": "عليك قبول الشروط والأحكام للانضمام إلى Oliv.",
+    "dateFromPast": "التاريخ لا يمكن أن يكون قديماً",
+    "searchNameTaken": "اسم البحث هذا مأخوذ بالفعل",
+    "underageAgreeRequired": "يرجى تأكيد موافقة الوالدين",
+    "transactionCreateError": "حدث خطأ ما أثناء إنشاء المعاملة",
+    "emailsRequired": "يجب تقديم عنوان بريد إلكتروني واحد على الأقل",
+    "emailsNotValid": "عنوان بريد إلكتروني غير صالح: {{emails}}",
+    "emailsAlreadyTaken": "عنوان بريد إلكتروني مستخدم من قبل: {{emails}}",
+    "emailsAlreadyInvited": "تمت دعوة هذا البريد الإلكتروني بالفعل: {{emails}}",
+    "emailsDomainBlacklist": "البريد الإلكتروني ليس لديه مجال شركة: {{emails}}",
+    "atLeastOneJobType": "يجب عليك اختيار نوع وظيفة واحد على الأقل"
+  },
+  "alerts": {
+    "addJobOfferToBookmarks": "رائع! تم حفظ {{jobTitle}} لوقت لاحق ",
+    "removeJobOfferFromBookmarks": " تمت إزالة {{jobTitle}}من الوظائف المحفوظة الخاصة بك",
+    "addJobOfferToBookmarksFailed": "حدث خطأ ما عند حفظ الوظيفة",
+    "deleteJobAlertSuccess": "تمت إزالة تنبيه الوظيفة الخاص بك",
+    "deleteJobAlertError": "فشل في حذف تنبيه الوظيفة. حاول مرة أخرى",
+    "editJobAlertSuccess": "تم تحديث تنبيه الوظيفة بنجاح",
+    "editJobAlertError": "لم يتم تحديث تنبيه الوظيفة. حاول مرة أخرى",
+    "createJobAlertSuccess": "رائع! لقد قمت بإعداد تنبيه وظيفة جديد",
+    "createJobAlertError": "فشل في حفظ تنبيه الوظيفة. حاول مرة أخرى",
+    "invitationToApplySent": "تم إرسال دعوة المقابلة بنجاح.",
+    "invitationToApplySentError": "لم يتم إرسال دعوة المقابلة. يرجى المحاولة مجدداً.",
+    "interviewInvitationSent": ".تم إرسال دعوة المقابلة بنجاح",
+    "interviewInvitationSentError": "لم يتم إرسال دعوة المقابلة. يرجى المحاولة مجدداً.",
+    "formSuccessfullySaved": "تم حفظ النموذج بنجاح!",
+    "formSuccessfullyRemoved": "تم حذف الرابط بنجاح!",
+    "jobOfferApplicationSaved": "تم إرسال طلب التقديم للوظيفة بنجاح!",
+    "jobOfferApplicationError": "حدث خطأ ما عند إرسال طلب التقديم للوظيفة.",
+    "jobOfferApplicationBulkUpdateSuccess": " تم تغيير حالات المتقدمين المختارة بنجاح إلى{{status}}.",
+    "jobOfferApplicationBulkUpdateFailed": "لم يتم تغيير حالات المتقدمين بنجاح. يرجى المحاولة لاحقاً.",
+    "jobOfferApplicationBulkDownloadSuccess": "تم الأمر بنجاح! تم إرسال رابط تنزيل السير الذاتية المحددة لمقدمي الطلبات إلى بريدك الإلكتروني.",
+    "jobOfferApplicationBulkDownloadFailed": "لم يتم تنزيل السير الذاتية المحددة. يرجى المحاولة لاحقاً.",
+    "jobOfferApplicationStatusChangedToundecided": "{{candidateName}} انتقل بنجاح إلى قائمة عدم التأكيد ",
+    "jobOfferApplicationStatusChangedToshortlisted": "{{candidateName}} انتقل إلى القائمة المختصرة بنجاح. رائع!",
+    "jobOfferApplicationStatusChangedTocontacted": "{{candidateName}} انتقل بنجاح إلى القائمة التي تم الاتصال بها ",
+    "jobOfferApplicationStatusChangedTointerviewed": "{{candidateName}} انتقل المتقدم بنجاح إلى قائمة المقابلة ",
+    "jobOfferApplicationStatusChangedTohired": "لقد قمت بتعيين {{candidateName}}! يسعدنا هذا للغاية ",
+    "jobOfferApplicationStatusChangedTodeclined": "{{candidateName}} تم رفضه ",
+    "jobOfferApplicationStatusChangeFailed": " حدث خطأ ما. هل يمكنك المحاولة مرة أخرى؟ ",
+    "savingFormFailed": "حدث خطأ ما عند حفظ النموذج. يرجى المحاولة لاحقاً.",
+    "registrationSuccess": "لقد تم إنشاء حسابك. يرجى التحقق من بريدك الإلكتروني والنقر على زر التحقق",
+    "loginFailed": "بريدك الإلكتروني أو كلمة المرور ليست صحيحة. يرجى المحاولة لاحقاً.",
+    "loginWithSocialFailed": " يبدو أن خطأ ما حدث أثناء عملية تسجيل الدخول. حاول مجدداً",
+    "inactiveAccount": "لم يتم التحقق من عنوان بريدك الإلكتروني بعد. يرجى التحقق من بريدك الوارد أو<a href=\"{{link}}\">انقر هنا</a>لإرسال رسالة التحقق مرة أخرى",
+    "activationEmailResent": "يرجى التحقق من بريدك الإلكتروني والنقر على زر التحقق",
+    "educationRemoved": "تم إزالة التفاصيل الأكاديمية المحددة بنجاح.",
+    "invalidForm": "بعض الحقول المطلوبة غير مكتملة. يرجى ملء جميع الحقول المطلوبة للمتابعة",
+    "filesRejected": "ملف واحد أو أكثر من الملفات غير صالحة",
+    "failedToRemoveFile": "{{name}} لم تتم إزالته. يرجى المحاولة لاحقاً.",
+    "maxFileCount": "يمكنك تحميل حتى {{count}} ملفات.",
+    "fileRemoved": "الملف '{{name}}' تمت إزالته بنجاح",
+    "fileRejected": "الملف الذي تم تحميله إما غير صالح أو تالف. يرجى اختيار ملف مختلف.",
+    "fileUpdated": "الملف '{{name}}' تم تحديثه بنجاح",
+    "fileUploaded": "الملف '{{name}}' تم التحميل بنجاح ",
+    "fileToLarge": "يتجاوز حجم هذا الملف {{limit}} ميجابايت. يرجى اختيار ملف مختلف",
+    "photoUploaded": "تم تحميل صورة الحساب الشخصي بنجاح.",
+    "photoRemoved": "تمت إزالة صورة الحساب الشخصي بنجاح.",
+    "logoRemoved": "تمت إزالة شعار الشركة بنجاح.",
+    "imageFileUploaded": "تم تحميل الصورة بنجاح.",
+    "imageFileRemoved": "تمت إزالة الصورة بنجاح.",
+    "fillRequiredJobOfferFields": "لنشر وظيفة تحتاج إلى ملء الحقول المطلوبة",
+    "postingJobOfferFailed": "حدث خطأ ما عند نشر الوظيفة. يرجى المحاولة مجدداً",
+    "editingDeactivated": "لا يمكنك تعديل منشور وظيفة غير نشطة",
+    "sendResetPasswordRequest": " يرجى التحقق من بريدك الإلكتروني والنقر على زر إعادة تعيين كلمة المرور",
+    "resetPasswordSuccess": "تم تغيير كلمة المرور الخاصة بك بنجاح",
+    "resetPasswordFailed": "حدث خطأ ما عند تغيير كلمة المرور",
+    "bulkInterviewInvitationSent": "تم إرسال دعوات لمقابلة العمل بنجاح إلى مقدّم الطلب المختار",
+    "bulkInterviewInvitationSentError": "لم يتم إرسال دعوات المقابلة الخاصة بك. يرجى المحاولة مجدداً",
+    "bulkSendMessagesSuccess": "تم إرسال الرسائل بنجاح إلى مقدّمي الطلبات المختارين",
+    "bulkSendMessagesError": "لم يتم إرسال رسائلك. يرجى المحاولة مجدداً.",
+    "changeEmailSuccess": " يرجى التحقق من بريدك الإلكتروني والنقر على زر تغيير البريد الإلكتروني",
+    "changeEmailFailed": "حدث خطأ ما عند تغيير البريد الإلكتروني",
+    "jobOfferInvalid": " يبدو أن منشور وظيفتك يفتقد إلى بعض التفاصيل. يرجى إضافة التفاصيل المفقودة حتى نتمكن من نشرها على الفور",
+    "deleteAccountSuccess": " تم حذف حسابك بنجاح. شكراً لاستخدام Oliv",
+    "deleteAccountFailed": "حدث خطأ ما عند حذف الحساب.",
+    "availabilityUpdated": " تم تحديث التوفر بنجاح.",
+    "deleteSearchSuccess": "تم حذف بحثك بنجاح",
+    "deleteSearchFailed": "حدث خطأ ما عند حذف البحث",
+    "fileExists": "اسم الملف مستخدم بالفعل",
+    "subscriptionPlanCancelSuccess": "تم إلغاء خطة الاشتراك بنجاح",
+    "subscriptionPlanCancelFailed": "حدث خطأ ما أثناء إلغاء خطة الاشتراك",
+    "jobOfferSuccessfullySaved": {
+      "active": "{{jobTitle}}تم النشر! استعد لاكتشاف بعض المواهب الرائعة ",
+      "draft": "تم حفظ منشور وظيفتك كمسودة",
+      "inactive": "{{jobTitle}} تم سحب النشر! لن يتم استلام المزيد من الطلبات"
+    },
+    "sendOrganisationInviteSuccess": "لقد أرسلنا دعوتك لفريقك للانضمام إلى Oliv",
+    "sendOrganisationInviteFailed": "حدث خطأ ما أثناء إرسال الدعوة",
+    "joinChannelFailed": "حدث خطأ ما أثناء الانضمام إلى المحادثة",
+    "addTeamMemberToConversationSuccess": "تمت إضافة أعضاء فريقك إلى المحادثة بنجاح",
+    "socialLoginFailed": {
+      "linkedIn": " عذراً، تواصلنا مع LinkedInلا يعمل الآن. يمكنك محاولة الاشتراك عبر البريد الإلكتروني",
+      "google": " عذراً، تواصلنا مع Googleلا يعمل الآن. يمكنك محاولة الاشتراك عبر البريد الإلكتروني"
+    },
+    "editPermissionsSuccess": "تم تغيير تصاريح أعضاء الفريق بنجاح",
+    "editPermissionsFailed": "حدث خطأ ما أثناء تغيير تصاريح أعضاء الفريق",
+    "notAllowedPermission": "ليس لديك التصاريح الصحيحة. اطلب من المسؤول إمكانية الوصول",
+    "updateProfileSuccess": "تم تحديث ملفك الشخصي بنجاح",
+    "updateProfileFailed": "حدث خطأ ما عند تحديث ملف التعريف. يرجى المحاولة مجدداً",
+    "updateAboutMeSuccess": "تم تحديث وصف ملفك الشخصي بنجاح",
+    "updateGeneralInfoSuccess": "تم تحديث معلوماتك العامة بنجاح",
+    "updateEducationSuccess": "تم تحديث تعليمك بنجاح",
+    "updateCertificatesSuccess": "تم تحديث شهاداتك بنجاح",
+    "updateExperienceSuccess": "تم تحديث خبرتك بنجاح",
+    "updateVolunteeringSuccess": "تم تحديث تجارب التطوع بنجاح",
+    "updateSkillsSuccess": "تم تحديث مهاراتك بنجاح",
+    "updateLanguagesSuccess": "تم تحديث لغاتك بنجاح",
+    "updateInterestsSuccess": "تم تحديث اهتماماتك بنجاح",
+    "updateSocialLinksSuccess": "تم تحديث الروابط الاجتماعية الخاصة بك بنجاح",
+    "updateCareerPreferencesSuccess": "تم تحديث تفضيلاتك المهنية بنجاح",
+    "updateCareerPreferencesFailed": "حدث خطأ ما عند تحديث التفضيلات المهنية",
+    "universityDeleteDisabled": "يطلب تاريخ دراسي واحد على الأقل",
+    "highSchoolDeleteDisabled": "يطلب تاريخ تعليم واحد على الأقل",
+    "experienceDeleteDisabled": "يطلب تجربة واحدة على الأقل للتاريخ",
+    "volunteeringDeleteDisabled": "يطلب تجربة تطوعية واحد على الأقل",
+    "certificateDeleteDisabled": "يطلب شهادة واحدة على الأقل",
+    "appliedWithCompleteStatus": " رائع! لقد تلقينا طلبك. بمجرد مراجعة الملف الشخصي من قبل فريقنا، سيتم إرسال طلبك إلى الشركة.",
+    "copied": "نسخ إلى الحافظة"
+  },
+  "profile": {
+    "stepCounter": "الخطوة {{value}} من {{total}}",
+    "about": {
+      "title": "About you"
+    },
+    "basics": {
+      "title": "الأساسيات",
+      "description": {
+        "heading": "مرحباً! أخبرنا القليل عن نفسك.",
+        "text": " ساعدنا في التعرف عليك بشكل أفضل وسنبدأ في إيجاد أفضل الفرص لك! تذكر، سيتم مشاركة التفاصيل الخاصة بك مع فريقنا وأصحاب العمل لدينا في Oliv من أجل التواصل معك."
+      },
+      "handicapDeclaration": {
+        "title": "ذوي الإعاقات وأصحاب الهمم",
+        "description": " لمساعدتنا على تحقيق هدفنا المتمثل في تمكين <1> أصحاب الهمم </1>، ندعوك إلى تقديم معلومات ديموغرافية طواعية. سيؤدي تضمين هذه المعلومات إلى تمكين أصحاب العمل ممن يدعمون أصحاب الهمم على تحديد هويتك"
+      }
+    },
+    "education": {
+      "title": "التعليم",
+      "description": {
+        "heading": "أخبرنا عن خلفيتك التعليمية",
+        "text": "ما هو أعلى مستوى تعليمي تتابعه حالياً أو أكملته؟"
+      },
+      "sections": {
+        "educationDetails": {
+          "label": "التفاصيل الأكاديمية",
+          "text": "أخبرنا ماذا درست. إذا كان لديك أكثر من شهادة، فانقر فوق \"إضافة جامعة جديدة\".",
+          "addNew": "إضافة جامعة جديدة"
+        },
+        "highSchoolEducationDetails": {
+          "addNew": "إضافة مدرسة جديدة"
+        },
+        "additionalCertifications": {
+          "label": "شهادات إضافية",
+          "text": "اذكر أي تدريب أو دورات أو برامج أخرى ترغب في مشاركتها",
+          "addNew": "إضافة شهادات جديدة"
+        },
+        "normalizedGrade": {
+          "title": "درجة معدّلة",
+          "description": " الدرجات من النظم الأكاديمية المختلفة التي يتم توحيدها إلى مجموعة الصفوف من A إلى F."
+        }
+      }
+    },
+    "experience": {
+      "title": "الخبرة",
+      "description": {
+        "heading": "أخبرنا عن خبرتك السابقة.",
+        "text": "أضف تفاصيل حول تدريبك السابق، وظائف الدوام الجزئي أو الكامل. يمكنك ذكر المشاريع المهنية أو التطوعية أو الهوايات."
+      },
+      "sections": {
+        "workExperience": {
+          "label": "خبرة العمل",
+          "text": " يرجى إضافة تجربة عملك. إذا لم تكن لديك خبرة، فيمكنك إضافة إنجازات أكاديمية أو دورات دراسية أو نوادٍ أو مشاريع عملت عليها.",
+          "hasExperience": "هل لديك أيّ خبرة عمل؟",
+          "iCurrentlyWorkHere": "أعمل هنا حالياً",
+          "description": " يرجى شرح المسؤوليات الرئيسية الخاصة بك في هذا المنصب. اذكر أيّ مشاريع أو إنجازات خاصة على الأقل 30 رمزاً))",
+          "addNew": "إضافة شركة جديدة"
+        },
+        "volunteering": {
+          "label": "الأنشطة التطوعية أو الهوايات",
+          "header": "نشاطات التطوع أو الأنشطة الأخرى",
+          "errorLabel": "التطوع أو الأنشطة الأخرى",
+          "text": "كيف تقضي وقتك خارج دوام العمل أو المدرسة",
+          "iCurrentlyVolunteerHere": "أنا حالياً مشارك في هذا",
+          "addNew": "إضافة نشاط جديد",
+          "options": {
+            "volunteering": "التطوّع",
+            "studentOrganisations": "المنظمات/النوادي الطلابية"
+          }
+        },
+        "interests": {
+          "label": "الاهتمامات",
+          "text": "اختر اهتماماتك الخاصة. يمكن أن تكون هذه الأمور من التي تقوم بها بالفعل أو مجرد أن تريد معرفة المزيد عنها."
+        },
+        "skills": {
+          "label": "المهارات",
+          "text": "سنستخدم هذه المهارات لإظهار الفرص الأكثر ملاءمة لك حتى تختار بحكمة - يمكنك فقط إضافة ثماني مهارات"
+        }
+      },
+      "autoApproveConfirmation": {
+        "title": "تأكيد الحجز مطلوب",
+        "description": "يبدو أنّ لديك 6 سنوات أو أكثر من الخبرة في العمل. هل أنت متأكد من أنك تريد متابعة إنشاء ملف تعريف على Oliv؟ معظم الفرص الوظيفية للمبتدئين في Oliv تكون مرتباتها ما بين 1500 دولار - 3500 دولار كإجمالي الراتب شهرياً، اعتماداً على المجال والموقع",
+        "options": {
+          "approve": "أفهم ذلك تماماً وأنا مهتم بفرص العمل في مجموعة الرواتب هذه.",
+          "decline": " لا أرغب في المتابعة وأود أن يحذف Olivأي معلومات شخصية قمت بإدخالها"
+        }
+      }
+    },
+    "preferences": {
+      "title": "التفضيلات",
+      "description": {
+        "heading": "أخبرنا عن تفضيلاتك",
+        "text": "أخبرنا بالتفاصيل حول نوع الفرص التي تبحث عنها."
+      },
+      "sections": {
+        "salaryExpectations": {
+          "label": "توقعات المرتب",
+          "text": "ما هي توقعاتك لمرتبك؟",
+          "paidAndUnpaid": "مدفوع وغير مدفوع",
+          "paid": "مدفوع فقط",
+          "average": " ساعدنا في العثور لك على وظائف تناسب توقعاتك. ستكون هذه المعلومات مرئية فقط لفريق Oliv"
+        },
+        "profileVisibility": {
+          "label": "مدى إمكانية رؤية الحساب الشخصي",
+          "text": "<0> لديك القدرة على التحكم في مدى ظهور معلومات حسابك الشخصي. يتيح لك الحساب الشخصي العام بمشاركته مع إمكانية الوصول إليه عبر محركات البحث. سيكون الحساب الشخصي الخاص مرئياً فقط للمستخدمين المسجلين في Oliv.</0><1> اطلع على مثال نموذج لحساب شخصي عام </1>",
+          "hideProfile": "حدد مدى رؤية حسابك"
+        },
+        "availability": {
+          "label": "التوفر",
+          "text": " يمكنك تعيين مدى التوافر لمدة 90 يوماً فقط بدءاً من اليوم. نوصيك بتحديث تواريخ التوفر بقدر ما يمكنك - وسنرسل إليك بريداً إلكترونياً لتذكيرك، لذلك لا داعي للقلق!"
+        },
+        "jobPreferences": {
+          "label": "تفضيلات العمل",
+          "text": "حدد النوع والمجال والمنصب والموقع المثالي."
+        }
+      }
+    },
+    "additional": {
+      "title": "إضافي",
+      "description": {
+        "heading": "أخبرنا عن نفسك",
+        "text": "ساعدنا وأصحاب العمل في التعرف عليك بشكل أفضل!"
+      },
+      "sections": {
+        "aboutYou": {
+          "label": "نبذة عن نفسك",
+          "text": "اكتب مقدمة سريعة عن نفسك، وأهدافك المهنية، ونوع المناصب التي تبحث عنها. تذكر، هذا هو أول ما سيقرأه أصحاب العمل عنك - أخبر قصتك واجعلها ممتعة!",
+          "description": " مثلاً، مرحباً! أنا خريج حديث من جامعة Oliv بتخصص في الموارد البشرية. أبحث عن فرصة تسمح لي بجمع شغفي بالموارد البشرية وعلم النفس، وبدأ مهنة في حل النزاعات/التواصل خلال الأزمات. أنا أستمتع بالتحدي في العمل عند التعامل من أفراد مختلفين والتوصل إلى حلول للمشاكل الصعبة، وأبقى دائماً هادئاً خلال أصعب المواقف!"
+        },
+        "languages": {
+          "label": "اللغات",
+          "skill": {
+            "reading": "قراءة",
+            "speaking": "محادثة",
+            "writing": "كتابة"
+          },
+          "degree": {
+            "basic": "أساسي",
+            "intermediate": "متوسط",
+            "fluent": "بطلاقة"
+          },
+          "addNew": "إضافة لغة جديدة",
+          "errorLabel": "اللغة"
+        },
+        "websites": {
+          "selectType": "تحديد نوع",
+          "placeholder": "صفحتك الرئيسية أو حافظتك أو مشروعك، مثل: website.com ",
+          "addAnotherWebsite": "إضافة موقع آخر",
+          "websiteTypes": {
+            "website": "موقع إلكتروني",
+            "project": "مشروع",
+            "portfolio": "حافظة",
+            "other": "أخرى"
+          }
+        },
+        "files": {
+          "selectType": "تحديد نوع",
+          "placeholder": "اسم ملفك، مثلاًCV.pdf "
+        },
+        "socialProfiles": {
+          "label": "الحسابات الاجتماعية"
+        },
+        "additionalDocuments": {
+          "label": "المستندات الإضافية",
+          "text": " قم بتحميل ما يصل إلى 5 مستندات (بما في ذلك المشاريع أو الحافظات أو الشهادات) التي ستساعد في تعزيز طلبك. ستتمكن من إرفاق أي ملف بحجم أقل من 5 ميجابايت، بهذه التنسيقات: doc ، docx ، xls ، xlsx ، pdf ، png ، jpg ، jpeg. ضع في اعتبارك، ستكون هذه الملفات مرئية لفريقنا وأصحاب العمل المسجلين في Oliv...."
+        },
+        "CV": {
+          "label": "السيرة الذاتية",
+          "text": " قم بتحميل ما يصل إلى 5 مستندات (بما في ذلك المشاريع أو الحافظات أو الشهادات) التي ستساعد في تعزيز طلبك. ستتمكن من إرفاق أي ملف بحجم أقل من 5 ميجابايت، بهذه التنسيقات: doc ، docx ، xls ، xlsx ، pdf ، png ، jpg ، jpeg. ضع في اعتبارك، ستكون هذه الملفات مرئية لفريقنا وأصحاب العمل المسجلين في Oliv....",
+          "defaultCvTooltip": "سيتم عرض سيرتك الذاتية الافتراضية لأصحاب العمل عند بحثهم عن مرشحين مناسبين لشواغر محددة"
+        }
+      }
+    },
+    "media": {
+      "title": "الإعلام",
+      "description": {
+        "heading": "أظهر ابتسامتك!",
+        "text": "أضف صورة و/أو فيديو للسيرة الذاتية لإظهار من أنت لأصحاب العمل."
+      },
+      "sections": {
+        "profilePhoto": {
+          "label": "صورة الحساب الشخصي",
+          "text": "حمّل صورة لك بأحد هذه التنسيقات: .png ، .jpg ، .jpeg (الحد الأقصى 5 ميجابايت)"
+        },
+        "videoCV": {
+          "label": "فيديو السيرة الذاتية",
+          "text": " من المحتمل أن يكون مدى رؤية المرشحين ممن يمتلكون فيديو للسيرة الذاتية أكبر بـ9 مرات من قبل أصحاب العمل. حمّلفيديوللسيرة الذاتية مدته بين 30-60 ثانية تعرّف فيه عن نفسك. يمكنك التحدث عن أهدافك المهنية والمهارات أو أيّ مشاريع خاصة، ونوع المناصب التي تهتم بها...."
+        }
+      }
+    },
+    "availabilityTooltip": {
+      "available": " نطلب من المرشحين في Oliv تحديث توفرهم كل 3 أشهر. أكد هذا المرشح أنه متوفر حالياً ومتاح لأي فرص جديدة",
+      "notAvailable": " نطلب من المرشحين في Oliv تحديث توفرهم كل 3 أشهر. لم يؤكد هذا المرشح توفره حالياً. قد يكون أو لا يكون متاحاً لفرص جديدة"
+    }
+  },
+  "accountVerification": {
+    "success": "تم التحقق من حسابك. سجّل الدخول!",
+    "fail": "حدث خطأ ما، يرجى التواصل معنا."
+  },
+  "changeEmail": {
+    "success": "تم تغيير بريدك الإلكتروني. سجِّل الدخول باستخدام عنوان البريد الإلكتروني الجديد.",
+    "fail": "حدث خطأ ما، يرجى التواصل معنا."
+  },
+  "remove": {
+    "educationDetails": {
+      "title": "إزالة البيانات الأكاديمية",
+      "description": "هل أنت متأكد من أنك تريد إزالة البيانات الأكاديمية المحددة؟"
+    },
+    "highSchoolEducationDetails": {
+      "title": "إزالة تفاصيل المدرسة",
+      "description": "هل أنت متأكد من أنك تريد إزالة تفاصيل المدرسة المحددة؟"
+    },
+    "certificates": {
+      "title": "إزالة شهادة",
+      "description": " هل أنت متأكد من أنك تريد إزالة الشهادة المحددة؟"
+    },
+    "experienceDetails": {
+      "title": "إزالة بيانات الخبرة",
+      "description": "هل أنت متأكد من أنك تريد إزالة بيانات الخبرة المحددة؟"
+    },
+    "volunteeringDetails": {
+      "title": "إزالة بيانات التطوّع",
+      "description": "هل أنت متأكد من أنك تريد إزالة بيانات التطوّع المحددة؟"
+    },
+    "languageDetails": {
+      "title": "إزالة بيانات اللغة",
+      "description": "هل أنت متأكد من أنك تريد إزالة بيانات اللغة المحددة؟"
+    },
+    "websites": {
+      "title": "إزالة الموقع الإلكتروني",
+      "description": "هل أنت متأكد من أنك تريد إزالة الموقع الإلكتروني المحدد؟"
+    },
+    "photo": {
+      "title": "إزالة صورة",
+      "description": "هل أنت متأكد من أنك تريد إزالة الصورة المحددة؟"
+    },
+    "video": {
+      "title": "إزالة فيديو السيرة الذاتية",
+      "description": "هل أنت متأكد من أنك تريد إزالة الفيديو المحدد؟"
+    },
+    "file": {
+      "title": "إزالة {{name}}",
+      "description": "هل أنت متأكد من أنك تريد إزالة الملف {{name}}?"
+    },
+    "fileGeneric": {
+      "title": "إزالة ملف",
+      "description": "هل أنت متأكد من أنك تريد إزالة الملف؟"
+    },
+    "jobOffer": {
+      "title": "إزالة نشر الوظيفة",
+      "description": "هل أنت متأكد من أنك تريد إزالة نشر الوظيفة المحددة؟"
+    },
+    "cvAttached": {
+      "title": "إزالة السيرة الذاتية",
+      "description": " هل أنت متأكد من أنك تريد حذف السيرة الذاتية هذه؟ لقد قمت بإرفاق السيرة الذاتية هذه بطلب لوظيفة واحدة على الأقل في Oliv. سيؤدي حذفها إلى سحب جميع طلبات التقديم مع هذه السيرة الذاتية....",
+      "confirm": "نعم، احذف السيرة الذاتية"
+    },
+    "cvAttachedConfirm": {
+      "title": "تأكيد",
+      "description": "كإجراء احترازي، نود فقط التأكد من أنك لم تضغط على الحذف عن طريق الخطأ. يرجى ملاحظة أن هذا الإجراء لا يمكن التراجع عنه. بمجرد حذف السيرة الذاتية، لا يمكن استرجاع جميع طلبات التقديم السابقة بهذه السيرة الذاتية وسيتم إزالتها نهائياً من Oliv.هل أنت متأكد من أنك تريد حذف السيرة الذاتية هذه؟",
+      "confirm": "نعم، احذف السيرة الذاتية"
+    },
+    "savedSearch": {
+      "title": "حذف ما تم حفظه",
+      "description": "هل أنت متأكد من أنك تريد حذف هذا البحث المحفوظ؟",
+      "confirm": "نعم، احذف",
+      "cancel": "لا، إلغاء"
+    },
+    "socialLinks": {
+      "title": "إزالة الرابط الاجتماعي",
+      "description": "هل تريد بالتأكيد إزالة الرابط الاجتماعي المحدد؟"
+    }
+  },
+  "jobOffer": {
+    "editAJob": {
+      "description": {
+        "heading": "تعديل نشر الوظيفة"
+      }
+    },
+    "tag": {
+      "isFeatured": "تتضمن"
+    },
+    "postAJob": {
+      "description": {
+        "heading": "نشر وظيفة",
+        "text": "أخبرنا عن المنصب وعن المتقدم المثالي"
+      },
+      "jobDescription": {
+        "label": "وصف الوظيفة",
+        "text": "شارك مسؤوليات ومتطلبات هذا الدور. (300 - 2000 رمز)"
+      },
+      "location": {
+        "label": "الموقع",
+        "text": "أدخل موقع شركتك."
+      },
+      "availability": {
+        "label": "التوفر",
+        "text": "أضف تفاصيل حول نوع الالتزام الذي يتطلبه هذا الدور",
+        "duration": {
+          "options": {
+            "overSixMonths": "أكثر من 6 أشهر",
+            "oneToSixmonths": "من 3 إلى 6 أشهر",
+            "oneToThreeMonths": "من 1 إلى 3 أشهر",
+            "lessThanOneMonth": "أقل من شهر واحد",
+            "lessThenOneWeek": "أقل من أسبوع واحد"
+          }
+        },
+        "commitment": {
+          "title": "الالتزام",
+          "fullTime": {
+            "label": "دوام كامل",
+            "description": "أكثر من 30 ساعة/الأسبوع"
+          },
+          "partTime": {
+            "label": "دوام جزئي",
+            "description": "أقل من 30 ساعة/الأسبوع"
+          },
+          "flexible": {
+            "label": "دوام مرن",
+            "description": "حسب جدول المرشح الزمني"
+          }
+        }
+      },
+      "salary": {
+        "label": "المرتب",
+        "text": "مشاركة تفاصيل التعويض. تحقق من دليلنا للمساعدة.",
+        "warning": "نوصي بتضمين المرتب الأساسي. فرص العمل بمرتب تجذب مواهب أفضل.",
+        "typeOfJob": {
+          "label": "هل لهذا العمل مرتب؟",
+          "typePaid": "مدفوع",
+          "typeUnpaid": "غير مدفوع",
+          "typeToBeDiscussed": "للمناقشة لاحقاً"
+        }
+      },
+      "skills": {
+        "label": "المهارات المفضلة",
+        "text": "سيتم استخدام هذه المهارات لمطابقة المرشحين ذوي الصلة بهذه الوظيفة. يمكنك إضافة ما يصل إلى 5 مهارات مفضلة"
+      },
+      "languages": {
+        "label": "اللغات المفضلة",
+        "text": "سيتم استخدام هذا للتحقق من الطلاقة المنطوقة للغات التي اخترتها بين المتقدمين"
+      },
+      "preferredGender": {
+        "male": {
+          "label": "ذكر"
+        },
+        "female": {
+          "label": "أنثى"
+        },
+        "undisclosed": {
+          "label": "لا فرق"
+        },
+        "title": "الجنس المفضل"
+      },
+      "additionalPreferences": {
+        "title": "تفضيلات إضافية",
+        "coverLetterRequired": "أطلب إرفاق رسالة طلب العمل",
+        "preferredVideoCv": "أفضل المرشحين ممن يملكون فيديو للسيرة الذاتية",
+        "preferredExperience": "أفضل المرشحين مع خبرة عمل سابقة",
+        "isPrivate": " أظهر فقط لأفراد مجتمع Oliv",
+        "autoShortlistingTitle": "القائمة المختصرة من قبل أوليفيا",
+        "autoShortlisting": "قائمة مختصرة لأفضل المرشحين بالنسبة لي",
+        "autoShortlistingDescription": " للحصول على أفضل تجربة في Oliv، نوصي باستخدام أوليفيا لهذا المنصب"
+      },
+      "notifications": {
+        "title": "الإشعارات",
+        "newApplications": "الحصول على إشعارات البريد الإلكتروني للتطبيقات الجديدة"
+      },
+      "notificationsSection": {
+        "label": "أعضاء الفريق",
+        "text": "ادعُ فريقك لمساعدتك في العثور على المواهب وإجراء مقابلة معها وتوظيفها",
+        "teamMembersLabel": "اختيار أعضاء الفريق",
+        "inviteTeam": "ادعُ أعضاء الفريق"
+      },
+      "externalLink": {
+        "addLink": {
+          "title": "رابط موقع التوظيف الخارجي",
+          "label": "أضف رابطاً إلى موقع الوظيفي الخارجي"
+        },
+        "url": {
+          "label": "إضافة رابط"
+        }
+      }
+    },
+    "jobDetails": {
+      "title": "تفاصيل العمل",
+      "description": "اكتب عنوان بسيط للوظيفة لجذب المتقدمين إلى وظيفتك.",
+      "applyForThisJob": "قدّم بطلب لهذه الوظيفة",
+      "applyNow": "تقدّم بالطلب الآن",
+      "postedOn": "تم النشر",
+      "employmentType": "نوع التوظيف",
+      "availability": "التوفر",
+      "jobCategory": "فئة الوظيفة",
+      "compensation": "التعويض",
+      "startDate": "تاريخ البدء",
+      "deadline": "الموعد النهائي",
+      "aboutThisRole": "نبذة حول هذا المنصب",
+      "requirementsToApply": "متطلبات التقدّم",
+      "jobSkills": "المهارات",
+      "jobLocation": "الموقع",
+      "applyForJob": "التقدّم للوظيفة",
+      "unpaid": "غير مدفوعة",
+      "tbd": "للمناقشة لاحقاً",
+      "viewJobDetails": "عرض تفاصيل الوظيفة",
+      "alreadyApplied": "لقد أرسلت طلب تقديم لهذه الوظيفة سابقاً",
+      "duration": "المدة"
+    },
+    "jobTemplate": {
+      "title": "تحديد نموذج",
+      "description": " استخدم أحد النماذج الشائعة للبدء في نشر وظيفتك. سيؤدي ذلك تلقائياً إلى ملء الوظيفة بالتفاصيل ذات الصلة. كما أننا نوصي بشدة تعديل وظيفتك المنشورة لجعلها فريدة من نوعها وتعكس تماماً المنصب الذي تعرضه. ",
+      "fields": {
+        "label": "ابدأ بالكتابة أو استخدم نموذجاً",
+        "blank": "ابدأ بالكتابة",
+        "popular": "نماذج شائعة",
+        "previous": "الوظيفة السابقة"
+      },
+      "selectTemplate": {
+        "label": "تحديد نموذج"
+      }
+    },
+    "jobDetailsDrawer": {
+      "applyForAJob": "تقدّم بطلب!",
+      "alerts": {
+        "videoCv": {
+          "title": "يفضل إرفاق فيديو للسيرة الذاتية عند تقديم طلب لهذه الوظيفة",
+          "text": "يعزز فيديو السيرة الذاتية من فرصك في الحصول على هذه الوظيفة."
+        }
+      },
+      "sections": {
+        "coverLetter": {
+          "label": "رسالة طلب العمل",
+          "text": "<0> صاحب العمل هذا طلب رسالة طلب عمل. يرجى مشاركة سبب اهتمامك بهذه الوظيفة، ولماذا تعتقد أنك الأفضل، وأيّ تفاصيل أخرى قد تذهل صاحب العمل! إذا كنت بحاجة إلى المساعدة، فألقِ نظرة على </0><1> دليل رسائل طلبات العمل.</1>",
+          "textOptional": "وضّح سبب رغبتك في العمل هنا وما الذي يجعلك مناسباً لهذا الدور"
+        },
+        "selectCv": {
+          "label": "تحديد سيرتك الذاتية",
+          "text": "<0> تفضل وأرفق سيرتك الذاتية لتقديم الطلب! تذكر توضيح خبرتك ذات الصلة في الجزء العلوي. إذا كنت بحاجة إلى مساعدة في إنشاء سيرة ذاتية،</0><1> فاطلع على هذا الدليل! </1>"
+        },
+        "additionalDocuments": {
+          "label": "مستندات إضافية",
+          "text": " يمكنك إضافة أي شيء آخر سيعزز طلبك، مثلاً، روابط إلى محفظتك وتصميم وعينات عمل أو مشاريع نهائية"
+        }
+      },
+      "externalLink": {
+        "applyBtn": "تقدم على موقع الشركة",
+        "sections": {
+          "selectCv": {
+            "label": "شارك سيرتك الذاتية",
+            "text": "{{companyName}} تفضل لاستلام طلبك مباشرة على موقعه على الانترنت. شارك سيرتك الذاتية هنا وأكمل طلبك على موقع الشركة."
+          }
+        }
+      }
+    },
+    "invitationToApply": {
+      "status": {
+        "contacted": "تم التواصل",
+        "applied": "تم التقديم",
+        "invited_to_apply": "تمت الدعوة للتقدّم"
+      },
+      "alerts": {
+        "noJobOffersAvailableToApply": {
+          "title": "لا وظائف متاحة",
+          "text": "لا توجد وظائف منشورة نشطة حالياً أو قمت بدعوة هذا المرشح للتقدم بطلب لجميع منشوراتك النشطة"
+        }
+      }
+    },
+    "similarJobs": "وظائف مماثلة",
+    "companySection": {
+      "title": "أخبرنا عن شركتك",
+      "description": " هذه فرصة رائعة لإخبار المرشحين بما تفعله شركتك ولماذا يجب أن يكونوا متحمسين للعمل معك. سيظهر هذا في جميع مشاركات عملك وملف تعريف شركتك"
+    }
+  },
+  "employer": {
+    "jobOffers": {
+      "heading": "وظائفي",
+      "createJob": "أنشئ وظيفة",
+      "jobOffersType": {
+        "active": "نشط",
+        "draft": "مسودة",
+        "drafts": "مسودات",
+        "inactive": "غير مفعل",
+        "declined": "تم الرفض",
+        "applied": "تم تقديم الطلب",
+        "viewed": "تم العرض",
+        "interviewRequested": "تم طلب مقابلة عمل",
+        "hired": "تم التوظيف"
+      },
+      "emptyState": {
+        "applied": "<0> لا توجد طلبات نشطة. </0><1><0> <0> عرض فرص العمل </0> </0> للبدء </1>",
+        "declined": "<0> لا يوجد شيء هنا بعد. </0> <1> وهذا شيء جيد. </1>",
+        "default": "<0> لا يوجد شيء هنا حتى الآن. </0> <1> حاول التقدم إلى المزيد من الوظائف المناسبة لك أو <1> <0> أكاديمية أوليف </0> </1> لتعزيز قدراتك الملف الشخصي </1>",
+        "active": "ليس لديك وظائف نشطة. انقر فوق نشر وظيفة للبدء في نشر وظيفة شاغرة أو أحد النماذج الخاصة بنا",
+        "draft": "ليس لديك وظائف شاغرة",
+        "inactive": "لا يوجد لديك وظائف غير نشطة"
+      },
+      "untitled": "منشورات وظائف دون عنوان",
+      "atCompany": "في {{name}}",
+      "jobTypes": {
+        "internship": "تدريب",
+        "graduate_job": "وظيفة للمتخرجين",
+        "volunteering": "تطوّع",
+        "event_promotion": "فعاليات ترويجية",
+        "freelance": "حسابهم الخاص"
+      },
+      "internshipLeadingToPermanent": "تؤدي إلى دوام كامل",
+      "commitmentTypes": {
+        "over_30_hrs_weekly": "دوام كامل",
+        "less_than_30_hrs_weekly": "دوام جزئي",
+        "i_dont_know_yet": "دوام مرن",
+        "Part-time": "دوام جزئي",
+        "Flexible": "دوام مرن",
+        "Full-time": "دوام كامل"
+      },
+      "counters": {
+        "applicants": "المتقدمون",
+        "shortlisted": "القائمة المختصرة",
+        "contacted": "تم الاتصال",
+        "interviewed": "تم طلب مقابلة عمل",
+        "hired": "تم التوظيف"
+      },
+      "findCandidates": "العثور على المرشحين",
+      "InviteTeamMembers": "دعوة أعضاء الفريق",
+      "setAsPrivate": "تعيين كخاص",
+      "setAsPublic": "تعيين كعام",
+      "deactivate": "غير مفعل",
+      "privateJobTooltip": " سيتم إخفاء منشور الوظيفة هذا عن محركات البحث العامة Google و LinkedInوغيرها"
+    },
+    "applicants": {
+      "applicantsType": {
+        "undecided": "متردد",
+        "shortlisted": "القائمة المختصرة",
+        "contacted": "تم الاتصال",
+        "interviewed": "تم طلب مقابلة عمل",
+        "hired": "تم التوظيف",
+        "declined": "تم الرفض"
+      },
+      "allApplicants": "كل المتقدمين",
+      "allFoundApplicants": "كل الطلبات الموجودة",
+      "missingCoverLetter": "لم يرفق هذا المتقدّم رسالة طلب عمل.",
+      "attachedCv": "السيرة الذاتية المرفقة",
+      "attachedDocuments": "المستندات المرفقة",
+      "application": "طلب التقديم",
+      "backToApplicants": "العودة إلى المتقدمين",
+      "visaStatus": {
+        "student_visa": "فيزا الطلاب",
+        "parent_visa": "فيزا الأهل",
+        "spouse_visa": "فيزا الزوج",
+        "visit_visa": "فيزا زيارة",
+        "emirati_visa": "إماراتي",
+        "gcc_citizen": "مواطن خليجي",
+        "employee_visa": "فيزا عمل",
+        "no_visa": "دون فيزا"
+      },
+      "noVideoCv": "لم يتم تحميل الفيديو.",
+      "emptyState": "لا يوجد لديك{{status}}متقدمين",
+      "shortlistApplicantTooltip": "إضافة المتقدّم إلى القائمة المختصرة",
+      "declineApplicantTooltip": "رفض المتقدّم",
+      "chatApplicantTooltip": "مراسلة المتقدّم",
+      "phoneApplicantTooltip": "رقم الهاتف",
+      "emailApplicantTooltip": "البريد الإلكتروني"
+    },
+    "candidates": {
+      "backToCandidates": "العودة إلى المرشحين",
+      "documentsLabel": "المستندات",
+      "selectedCandidates": "تحديد {{count}} مرشح",
+      "selectedCandidates_plural": "تم تحديد {{count}} مرشح",
+      "profileRatingTooltipCandidate": "فرز المرشحين على تصنيف ملفهم الشخصي هنا",
+      "profileRatingTooltipApplicant": "فرز المرشحين على تصنيف ملفهم الشخصي هنا",
+      "profileRatingTooltipLinkText": "عملية الفرز",
+      "candidateAvailabilityTooltipCandidate": " يحدد المرشحون التواريخ عندما يكونوا منفتحين على الفرص. يمكنهم تحديد التواريخ لمدة 90 يوماً قبل طلب تحديث توافرهم.",
+      "candidateAvailabilityTooltipApplicant": " يقوم المتقدّمون بتحديد التواريخ عندما يكونوا متاحين للفرص. يمكنهم تحديد التواريخ لمدة 90 يوماً قبل طلب تحديث توافرهم.",
+      "shortListApplicantTooltip": "إضافة المتقدّم إلى القائمة المختصرة",
+      "declineApplicantTooltip": "رفض المتقدّم",
+      "chatApplicantTooltip": "مراسلة المتقدّم",
+      "shouldBuyCredits": " وصول تفاصيل الاتصال من أجل {{priceWithCurrency}}/mo",
+      "useCreditToInvite": "استخدام الرصيد لدعوة المرشح",
+      "contactDetailsModalTitle": "استخدم الرصيد للكشف عن تفاصيل الاتصال",
+      "emptyState": "لسوء الحظ، لا يوجد حالياً أي مرشح يطابق بحثك",
+      "candidateSearchPricing": {
+        "mainHeader": "المجتمع الأول في العالم لفرز الشباب المهنيين",
+        "properties": {
+          "first": "فلاتر البحث المتقدم والتصنيف </0> للاختصار والانتقال إلى المستوى المثالي",
+          "second": "رتب حسب الصلة والنشاط الحديث </0> للعثور على موهبة ملائمة ومتاحة",
+          "third": "شاهد ملفات فيديو للسيرة الذاتية </0> نظراً لوجود المزيد من السمات على الورق"
+        },
+        "buyButton": " الحصول على بحث السيرة الذاتية من أجل {{currencyWithPrice}}/mo",
+        "liveDemo": "عرض توضيحي حيّ"
+      }
+    },
+    "settings": {
+      "membershipDetails": "تفاصيل العضوية",
+      "personalDetails": "تفاصيل شخصية",
+      "emailAndPassword": "كلمة المرور/البريد الإلكتروني",
+      "membershipAddOns": "إضافات العضوية",
+      "notifications": "التنبيهات",
+      "membership": {
+        "serviceNames": {
+          "jobSlots": "الوظائف الشاغرة",
+          "jobPosts": "منشورات الوظيفة",
+          "credits": "رصيد",
+          "dedicatedShortlisting": "خدمة القوائم المختصرة المخصصة",
+          "databaseSearch": "بحث قاعدة البيانات",
+          "companyPage": "صفحة الشركة"
+        },
+        "alerts": {
+          "expired": " انتهت عضويتك. استمر في استخدام ميزات Oliv عبر التواصل بفريقنا على<1>team@oliv.com</1>",
+          "cancelled": "تم إلغاء عضويتك. استمر في استخدام ميزات Oliv عبر التواصل بفريقنا على<1>team@oliv.com</1>",
+          "inactive": "تم إرسال رابط الدفع إلى بريدك الإلكتروني. يرجى استكمال الدفع حتى نتمكن من تفعيل عضويتك تلقائياًً"
+        },
+        "empty": {
+          "title": "توظيف قادة المستقبل لشركتك",
+          "description": "ابدأ باختيار الخيار المناسب لك",
+          "cta": "عرض الأسعار",
+          "contact": "<0>التحدث إلى قسم المبيعات</0> أو الاتصال على الرقم <2><0>{{supportPhoneNumber}}</0></2>"
+        },
+        "unlimitedAmount": "غير محدود",
+        "cancelPlan": {
+          "label": "إلغاء الخطة",
+          "title": "هل أنت متأكد أنك تريد الإلغاء؟",
+          "description": "بالإلغاء <1>y ستفقد الوصول إلى أول مجتمع معروض في العالم من المحترفين.</1> إذا قمت بتأكيد اشتراكك الآن وإنهائه، فلا يزال بإمكانك الوصول إليه حتى <3><0>{{expiryDate}}</0><3>."
+        }
+      },
+      "questions": "<0>هل تملك أيّ أسئلة حول عضويتك؟ تواصل معنا عبر</0><1>team@oliv.com</1><2>أو</2><3>04 432 4500</3><4>لنتمكن من المساعدة.</4>",
+      "items": "عناصر",
+      "total": "الإجمالي",
+      "remaining": "الباقي",
+      "expiryDate": "تاريخ الانتهاء",
+      "teamMembers": {
+        "title": "أعضاء الفريق",
+        "emptyState": {
+          "title": "توظيف أفضل الناس في المجتمع مع أفضل الناس لديك",
+          "description": " أدعو زملائك في الفريق للبدء في التعاون في نشر الوظائف ومراجعة التطبيقات وتوظيف أفضل المواهب",
+          "cta": "دعوة عضو الفريق"
+        },
+        "manageTeamMembers": {
+          "title": "إدارة أعضاء الفريق",
+          "teamMember": "عضو الفريق",
+          "emailAddress": "البريد الإلكتروني",
+          "role": "الدور"
+        },
+        "pendingInvitations": {
+          "title": "الدعوات قيد الانتظار",
+          "inviteSent": "تم إرسال الدعوة"
+        },
+        "roles": {
+          "admin": "المشرف",
+          "organisation_manager": "المدير"
+        }
+      }
+    },
+    "saveSearch": {
+      "emptyState": "لا يوجد شيء هنا! لم تقم بحفظ أي عمليات بحث حتى الآن"
+    },
+    "inactiveMembershipPricing": {
+      "title": "جذب المواهب ذات الصلة، وليس فقط طلبات التقديم",
+      "description": "ابدأ في نشر الوظائف عن طريق اختيار الخيار المناسب لك",
+      "cta": "انظر الأسعار"
+    }
+  },
+  "meta": {
+    "candidate": {
+      "title": {
+        "profile": "حسابي",
+        "jobs": "الوظائف",
+        "dashboard": "{{firstName}} طلبات تقديم | Oliv",
+        "savedJobs": "الوظائف المحفوظة | Oliv",
+        "jobAlerts": "تنبيهات الوظائف | Oliv",
+        "personalDetails": "التفاصيل الشخصية | Oliv",
+        "notifications": "التنبيهات | Oliv",
+        "profileView": "{{firstName}} Oliv حساب | Oliv",
+        "chat": "دردشة | Oliv"
+      }
+    },
+    "candidatePublicProfile": {
+      "description": " اطلع على {{firstName}} الملف الشخصي الاحترافي على Oliv، منصة مهنية مصممة للشباب الموهوبين. تعرف على المزيد حول {{firstName}} الخلفية المهنية والتعليمية على {{universityName}}."
+    },
+    "employer": {
+      "title": {
+        "searchProfiles": "البحث في الملفات الشخصية | Oliv",
+        "postJob": " انشر وظيفة | Oliv",
+        "companyProfile": "حساب الشركة | Oliv",
+        "settings": "الإعدادات | Oliv",
+        "personalDetails": "التفاصيل الشخصية | Oliv",
+        "notifications": "التنبيهات | Oliv",
+        "teamMembers": "أعضاء الفريق | Oliv",
+        "dashboard": {
+          "active": "{{companyName}} الوظائف النشطة في | Oliv",
+          "draft": "{{companyName}} وظائف مسودة | Oliv",
+          "inactive": "{{companyName}} وظائف غير نشطة | Oliv"
+        }
+      }
+    }
+  },
+  "modals": {
+    "salaryExpectations": {
+      "title": "Update salary expectation",
+      "description": "Help us find you jobs that match your expectations. This information is only visible to the Oliv team."
+    },
+    "messageEmployer": {
+      "title": "مراسلة صاحب العمل",
+      "label": "الرسالة",
+      "description": " احصل على إشعار برسالة مخصصة تصل مباشرة إلى صندوق الوارد الخاص بصاحب العمل Oliv",
+      "messagesLeft": "{{count}} رسائل {{total}} متوفرة في خطة Oliv Plus الخاصة بك ",
+      "cta": "لست متأكداً ما تكتب؟ اطلع على دليلنا للإلهام والتوصيات"
+    },
+    "republishJob": {
+      "confirmPostUsage": {
+        "title": "هل أنت متاكد؟",
+        "description": " سيؤدي إعادة نشر هذه الوظيفة إلى استخدام منشور وظيفة أخرى، لديك {{count}} منشورات وظيفة متبقية. هل ترغب في إعادة نشر هذه الوظيفة",
+        "submitButton": "نعم، أعد النشر"
+      },
+      "noJobsLeft": {
+        "title": "لا توجد منشورات وظائف",
+        "description": "سيؤدي إعادة نشر هذه الوظيفة إلى استخدام منشور وظيفة أخرى، ولم يتبق لك أي منشور وظيفة",
+        "submitButton": "شراء منشورات الوظائف"
+      }
+    },
+    "editJobAlert": {
+      "title": "تعديل وظيفة التنبيه",
+      "description": "تساعد اهتماماتك المهنية في تحديد الوظائف التي يُنصح بها"
+    },
+    "deleteJobAlert": {
+      "title": "هل تريد حذف تنبيه الوظيفة؟",
+      "description": "سيتم حذف تنبيه الوظيفة هذا. يمكنك دائماً إعداد تنبيهات الوظائف الجديدة"
+    },
+    "updateAvailability": {
+      "title": "يبدو أنك غير متاح حالياً",
+      "editTitle": "تعديل التوفر",
+      "content": "يبدو أنك غير متوفر حالياًللاستفادةمنالفرصة. للتأكد من أن حسابك الشخصي وطلبات العمل المستقبلية مرئية لأصحاب العمل، يجب أن يكون لديك تواريخ توافر صالحة. قم بتحديثها أدناه."
+    },
+    "updatedPolicies": {
+      "title": "لقد قمنا بتحديث سياسة الخصوصية الخاصة بنا.",
+      "content": "<0>لقد قمنا مؤخراً بتحديث <1> سياسة الخصوصية </1>وفقاً للائحة العامة لحماية البيانات بالاتحاد الأوروبي (GDPR). يُرجى النقر أدناه لمعرفة المزيد. </0><1>الاستمرار في استخدام Oliv، يعني موافقتك على الشروط والأحكام المحدثة</1>",
+      "submitButton": "أوافق",
+      "cancelButton": "اعرف المزيد"
+    },
+    "jobOfferApplicationBulkDownloadSuccess": {
+      "title": "السير الذاتية المقدّمة المرسلة",
+      "description": "تم الأمر بنجاح! لقد أرسلنا رابطاً للسير الذاتية المقدمة"
+    },
+    "companyProfileIncomplete": {
+      "title": "تزويد بيانات الشركة",
+      "description": "نرغب في مساعدتك في نشر وظيفتك، ولكن يرجى أولاً إخبار المتقدمين المحتملين بالمزيد عن شركتك. سيتم حفظ وظيفتك كمسودة، حتى يمكنك الرجوع إليها لاحقاً",
+      "descriptionShort": "نرغب في مساعدتك في نشر وظيفتك، ولكن يرجى أولاً إخبار المتقدمين المحتملين بالمزيد عن شركتك"
+    },
+    "inviteToInterview": {
+      "title": "طلب لمقابلة عمل",
+      "description": " يبدو أنك عثرت على ملاءمة جيدة! للحصول على نصائح حول إجراء مقابلات مع المرشحين وتحقيق أفضل انطباع,",
+      "link": "اطلع على دليلنا.",
+      "timeSlotsTitle": "الفترات الزمنية",
+      "timeSlotsContent": "اقترح ما يصل إلى 3 شواغر زمنية للمرشح للاجتماع في الوقت المناسب",
+      "addNewSlot": "إضافة شاغر زمني"
+    },
+    "inviteToApply": {
+      "title": "دعوة المرشح",
+      "description": "يبدو أنك عثرت على ملاءمة جيدة! ادع هذا المرشح للتقدم إلى وظيفتك"
+    },
+    "notApprovedUserNotice": {
+      "title": "لم تتم الموافقة على حسابك بعد",
+      "description": " لم تتم الموافقة على حسابك بعد من قبل فريقنا. تستغرق الموافقة على الحساب الشخصي عادةً ما بين يومين إلى ثلاثة أيام. إذا مرّ أكثر من 3 أيام، يرجى مراسلتنا عبر البريد الإلكتروني على team@oliv.com للحصول على الموافقة على الفور"
+    },
+    "jobOfferNotComplete": {
+      "title": "تفتقد هذه الوظيفة بعض المعلومات المطلوبة.",
+      "description": "لا يمكن نشر هذه الوظيفة لأن بعض المعلومات المطلوبة مفقودة"
+    },
+    "changeApplicationStatus": {
+      "title": "تغيير الحالة إلى {{status}}",
+      "description": "هل أنت متأكد أنك تريد تغيير الحالة إلى {{status}}؟",
+      "declinedTitle": "رفض المتقدّم"
+    },
+    "noCreditsLeft": {
+      "title": "لا يوجد رصيد كافٍ للحساب",
+      "description": "<0> يبدو أنك قد وصلت إلى حصتك من أرصدة الحساب الشخصي هذا الشهر. يتم استخدام أرصدة الحساب الشخصي لفتح الحسابات الشخصية عن طريق دعوة المرشحين للتقديم، والوصول إلى أرقام التواصل وتحميل السير الذاتية.</0><1><0>هل تريد رصيداً أكثر؟ أعلمنا عبر</0><1>team@oliv.com</1><2>حتى نتمكن من المساعدة </2></1>"
+    },
+    "advisorMessage": {
+      "title": "مراسلة المرشحين"
+    },
+    "deactivateJobOffer": {
+      "title": "إلغاء تنشيط وظيفة",
+      "description": "هل أنت متأكد من أنك تريد إلغاء تنشيط وظيفة {{jobTitle}}?"
+    },
+    "jobOfferExpired": {
+      "title": "قائمة الوظائف هذه لم تعد نشطة",
+      "description": " تم إغلاق قائمة الوظائف هذه. هل ترغب في عرض مشاركات الوظائف النشطة على Oliv؟"
+    },
+    "repostJobOffer": {
+      "title": "إعادة نشر الوظيفة",
+      "description": "هل تريد إعادة تنشيط هذه الوظيفة؟"
+    },
+    "bulkMessages": {
+      "description": "سيحصل المتقدمون المختارون على نفس الرسالة، لكنهم لن يروا المستلمين الآخرين"
+    },
+    "reassessment": {
+      "title": "هل قمت بتحسين حسابك الشخصي؟",
+      "description": " إذا قمت بتحسين أو إجراء بعض التغييرات الهامة على حسابك، يمكنك أن تطلب من فريقنا إعادة تقييم. (الرجاء عدم إساءة استخدام هذه الميزة وطلب فقط إعادة تقييم إذا قمت بإجراء تحسينات هامة على حسابك)."
+    },
+    "applyWhenProfileNotCompleted": {
+      "title": "حسابك غير مكتمل",
+      "description": "يرجى إكمال حسابك قبل التقدّم بطلب الوظائف."
+    },
+    "opportunityTypeHint": {
+      "title": "نوع الوظيفة",
+      "description": "<0><0>التدريب الداخلي:</0></0><1> عمل قصير الأجل، مدفوع أو غير مدفوع، ويستمر عادة بين 2 إلى 6 أشهر ويتم تحصيله خلال الجامعة أو فوراً بعد التخرج. يتلقى المتدربون الإرشاد والتدريب والتعرض لجميع الأقسام المختلفة داخل المؤسسة. </1><2><0>وظيفة للمتخرجين:</0></2><3>برنامج عمل طويل الأجل، مدفوع أو غير مدفوع، ويستمر عادة بين 9 إلى 24 شهراً، وغالباً ما يتم توظيف أفضل الموظفين كموظفين دائمين عند إكمال البرنامج، ويتلقى المتقدمون الإرشاد والتدريب والتعرض لجميع الإدارات المختلفة داخل المؤسسة.</3><4><0>وظيفة بدوام جزئي: </0></4><5> وظيفة تتطلب 15/20 ساعة عمل فقط في الأسبوع. </5><6><0>وظيفة بدوام كامل: </0></6><7> وظيفة تتطلب 40 ساعة عمل في الأسبوع. </7><8><0> العاملون في مجال التطوع/الترويج/الفعاليات: </0></8><9> تقديم دعم أو إنجاز عمل على أساس تطوعي والذي غالباً ما يكون غير مدفوع الأجر أو يعوض بمكافأة صغيرة. </9>"
+    },
+    "profileVisibility": {
+      "title": "مشاركة الحساب",
+      "description": "عليك تعيين حسابك كحساب عام إن كنت تريد مشاركته."
+    },
+    "cvLinkedToApplicationModal": {
+      "title": "لا يمكن حذف السيرة الذاتية هذه.",
+      "description": "لقد قمت بإرفاق هذه السيرة الذاتية لطلب الحصول على وظيفة فيلقد قمت بإرفاق هذه السيرة الذاتية لطلب الحصول على وظيفة في Oliv. بما أن الطلب قد تم إرساله بالفعل إلى صاحب العمل، فلن تتمكن من الحذف. لا يزال بإمكانك تحميل السيرة الذاتية الجديدة إلى حسابك الشخصي وإرفاقها بطلبات العمل المستقبلية. إذا كانت لديك أيّ أسئلة، يرجى<1>التواصل</1>معنا. وسنكون سعداء لتقديم المساعدة."
+    },
+    "requestTimeSlotChange": {
+      "title": "طلب وقت شاغر آخر",
+      "description": " استخدم هذا القسم لطلب أوقات شاغرة مختلفة للمقابلة. يرجى التأكد من ذكر سبب عدم تمكنك من حضور المقابلة خلال الفترة الزمنية المقترحة"
+    },
+    "replyToInterviewInvitation": {
+      "title": "الرد على دعوة المقابلة",
+      "description": "قبول أو رفض طلب المقابلة أو طلب المزيد من المعلومات عبر الدردشة.",
+      "noTimeSlotDescription": " هل لديك أسئلة؟<1>تحدّث</1>مع صاحب العمل لمتابعة ومناقشة هذه الفرصة."
+    },
+    "changeTemplate": {
+      "title": "هل أنت متأكد؟",
+      "content": "ستفقد أي تغييرات غير محفوظة تم إجراؤها. هل أنت متأكد من أنك تريد المتابعة؟",
+      "submitButton": "نعم، أنا متأكد",
+      "cancelButton": "إلغاء"
+    },
+    "ORGANISATION": {
+      "MEMBERSHIP": {
+        "NO_PLAN": {
+          "title": "قم بترقية حسابك",
+          "description": " هذا حساب تجريبي. أنشأناه لتوضح كيف يمكنك استخدام Oliv لنشر الوظائف وعرض الملفات الشخصية  وإدارة طلبات التقديم، وحتى بناء العلامة التجارية لصاحب العمل مع مجتمعنا. سيتواصل فريقنا قريبًا ليطلعك على خططنا والإجابة على أي أسئلة قد تكون لديك.",
+          "contact": " لا تستطيع الانتظار؟ <1> تحدث إلى المبيعات </ 1> أو اتصل على الرقم <3>{{supportPhoneNumber}}</3>"
+        },
+        "EXPIRED": {
+          "title": "تجديد عضويتك",
+          "description": " انتهت عضويتك على Oliv",
+          "contact": " تحتاج إلى تجديد عضويتك أو تحتاج إلى دعم إضافي؟ <1> تحدث إلى فريقنا </ 1> أو اتصل على الرقم <3>{{supportPhoneNumber}}</3>"
+        },
+        "FEATURE_UNAVAILABLE": {
+          "title": "قم بترقية حسابك",
+          "description": " هذا حساب تجريبي. أنشأناه لتوضح كيف يمكنك استخدام Oliv لنشر الوظائف وعرض الملفات الشخصية  وإدارة طلبات التقديم، وحتى بناء العلامة التجارية لصاحب العمل مع مجتمعنا. سيتواصل فريقنا قريبًا ليطلعك على خططنا والإجابة على أي أسئلة قد تكون لديك.",
+          "contact": " لا تستطيع الانتظار؟ <1> تحدث إلى المبيعات </ 1> أو اتصل على الرقم <3>{{supportPhoneNumber}}</3>"
+        },
+        "NO_JOB_POSTS_LEFT": {
+          "title": "لقد نفدت منشورات الوظائف",
+          "description": "لقد نفدت منشورات وظائف حسابك",
+          "contact": " تحتاج إلى نشر وظيفة جديدة أو تتطلب دعم إضافي؟ <1> تحدث إلى فريقنا </ 1> أو اتصل على الرقم <3>{{supportPhoneNumber}}</3>"
+        },
+        "JOB_POSTS_FEATURE_EXPIRED": {
+          "title": "انتهت صلاحية وصولك إلى منشورات الوظائف",
+          "description": " انتهت صلاحية وصولك إلى منشورات وظائف على Oliv",
+          "contact": " تحتاج إلى نشر وظيفة جديدة أو تتطلب دعم إضافي؟ <1> تحدث إلى فريقنا </ 1> أو اتصل على الرقم <3>{{supportPhoneNumber}}</3>"
+        },
+        "NO_JOB_SLOTS_LEFT": {
+          "title": "لقد نفدت فرص العمل الشاغرة",
+          "description": "وظائفك الشاغرة كلها قيد الاستخدام حاليًا. يجب إلغاء تنشيط وظيفة من أجل نشر وظيفة جديدة",
+          "contact": " تحتاج إلى نشر وظيفة جديدة أو تتطلب دعم إضافي؟ <1> تحدث إلى فريقنا </ 1> أو اتصل على الرقم <3>{{supportPhoneNumber}}</3>"
+        },
+        "JOB_SLOTS_FEATURE_EXPIRED": {
+          "title": "انتهت صلاحية وصولك إلى منشورات الوظائف",
+          "description": " انتهت صلاحية وصولك إلى منشورات وظائف على Oliv",
+          "contact": " تحتاج إلى نشر وظيفة جديدة أو تتطلب دعم إضافي؟ <1> تحدث إلى فريقنا </ 1> أو اتصل على الرقم <3>{{supportPhoneNumber}}</3>"
+        }
+      }
+    },
+    "createJobAlert": {
+      "title": "إنشاء تنبيه وظيفة",
+      "description": "تساعد اهتماماتك المهنية في تحديد الوظائف التي ينصح بها"
+    },
+    "inactiveMembershipJobsPricing": {
+      "title": "لننشر الوظيفة",
+      "description": "ابدأ في نشر الوظائف عن طريق اختيار الخيار المناسب لك. سيتم حفظ وظيفة عملك كمسودة",
+      "cta": "عرض الأسعار"
+    },
+    "inviteTeamMembers": {
+      "title": "دعوة أعضاء الفريق للتعاون",
+      "description": "امنح فريقك إمكانية الوصول إلى",
+      "jobPosts": "نشر أو تعديل أو حذف منشورات الوظائف",
+      "candidates": "الحسابات وتنزيل السير الذاتية",
+      "hint": "تريد دعوة أكثر من عضو في الفريق؟ أدخل عناوين البريد الإلكتروني مفصولة بفواصل"
+    },
+    "addTeamMemberToConversation": {
+      "title": "أعضاء الفريق",
+      "description": "أضف أعضاء الفريق للانضمام إلى المحادثة",
+      "cta": "إضافة عضو الفريق"
+    },
+    "deleteOrganisationMember": {
+      "title": "هل تريد حقًا حذف عضو الفريق هذا؟",
+      "description": " ستؤدي إزالة أعضاء فريقك إلى حذف جميع بياناتهم والوصول إليها. سيتم تخصيص جميع الوظائف المنشورة من قبلهم لك"
+    },
+    "unsavedInvalidJobOffer": {
+      "title": "معلومات مطلوبة مفقودة",
+      "description": " توجد معلومات مطلوبة مفقودة في التغييرات التي أجريتها. هل أنت متأكد من أنك تريد تجاهل تلك التغييرات؟"
+    },
+    "editTeamMembersPermissions": {
+      "title": "تغيير إمكانية وصول أعضاء الفريق"
+    },
+    "editDetails": {
+      "title": "تعديل التفاصيل"
+    },
+    "editPitch": {
+      "title": "تعديل لمحة عني"
+    },
+    "editGeneralInfo": {
+      "title": "تعديل المعلومات العامة"
+    },
+    "editEducation": {
+      "title": "تعديل الدراسة"
+    },
+    "addEducation": {
+      "title": "إضافة معلومات الدراسة"
+    },
+    "addExperience": {
+      "title": "أضف تفاصيل الخبرة"
+    },
+    "editExperience": {
+      "title": "تعديل تفاصيل الخبرة"
+    },
+    "editCertificate": {
+      "title": "تعديل تفاصيل الشهادة"
+    },
+    "addCertificate": {
+      "title": "إضافة تفاصيل الشهادة"
+    },
+    "editVolunteering": {
+      "title": "تعديل تفاصيل التطوع"
+    },
+    "addVolunteering": {
+      "title": "إضافة تفاصيل التطوع"
+    },
+    "editSkills": {
+      "title": "تعديل المهارات"
+    },
+    "addLanguage": {
+      "title": "إضافة لغة"
+    },
+    "editLanguage": {
+      "title": "تعديل لغة"
+    },
+    "uploadFile": {
+      "title": "تحميل ملف"
+    },
+    "editInterests": {
+      "title": "تعديل الاهتمامات"
+    },
+    "editSocialLinks": {
+      "title": "تعديل روابط الحسابات الاجتماعية"
+    },
+    "autoApproveSignUpAgeConfirmation": {
+      "title": "التأكيد مطلوب",
+      "description": "مهمة Oliv هي مساعدة الطلاب والخريجين الجدد في العثور على خبرة في العمل. كقاعدة عامة، نحن نقبل فقط الباحثين عن عمل ممن لديهم بضع سنوات من الخبرة فقط. يطلب التحقق منك أنك ما زلت ترغب في إنشاء حساب على Oliv والتقدم للفرص الوظيفية للمبتدئين المتاحة على المنصة",
+      "options": {
+        "continue": " أفهم وأرغب في التقدم بطلب للحصول على فرص وظيفية على مستوى المبتدئين في Oliv، وكثير منها يعطي الأولوية للتدريب على باقات الأجور الكبيرة",
+        "decline": " لا أرغب في متابعة إنشاء الحساب، وأود أن يحذف Oliv أي معلومات شخصية قمت بإدخالها حتى الآن"
+      }
+    },
+    "manualPayment": {
+      "title": "Update payment details",
+      "cta": "Charge me now"
+    },
+    "newCompanySignUp": {
+      "title": "تهانينا!",
+      "description": "لقد حصلت على وظيفة واحدة مجانية. كن أول من يختار من مجموعتنا التي تضم أكثر من 400000 مرشح موهوب."
+    }
+  },
+  "commitmentJobOfferFilters": {
+    "over_30_hrs_weekly": "أكثر من 30 ساعة أسبوعياً",
+    "less_than_30_hrs_weekly": "أقل من 30 ساعة أسبوعياً",
+    "i_dont_know_yet": "لا أعلم بعد"
+  },
+  "rating": {
+    "needsImprovement": "يحتاج الى تحسين",
+    "couldBeBetter": "يمكن أن يكون أفضل",
+    "autoApproved": {
+      "header": "تمت الموافقة على ملفك الشخصي! ",
+      "description": " يمكنك التقديم على الوظائف فيOliv ، وسيكون بمقدور أصحاب العمل المعتمدين الاتصال بك. ستجد أدناه بعض توصيات لتحسين الملف الشخصي من  Oliv"
+    },
+    "assessment": {
+      "bad": {
+        "label": "لم تتم الموافقة على حسابك بعد",
+        "description": "رصيد حسابك الشخصي منخفض للغاية. اعرض التعليقات وقم بإجراء التحسينات على حسابك الشخصي لطلب إعادة تقييم"
+      },
+      "average": {
+        "label": "يمكن لحسابك الشخصي أن يكون أفضل",
+        "description": " يمكنك تحسين حسابك الشخصي. اعرض حسابك وقم بإجراء التحسينات من أجل طلب تقييم أفضل"
+      },
+      "good": {
+        "label": "حسابك الآن يبدو رائعاً!",
+        "description": "رائع! تمت الموافقة على حسابك الشخصي. حافظ على تحسين حسابك الشخصي لتلقي فرص عمل ذات صلة"
+      }
+    },
+    "assessmentDashboard": {
+      "not_approved": {
+        "label": "لم تتم الموافقة على حسابك الشخصي",
+        "description": " اضبط حسابك بناءً على تعليقات فريق Olivواطلب مراجعته مرة أخرى"
+      },
+      "bad": {
+        "label": "تمت الموافقة على حسابك الشخصي",
+        "description": " حسابك الشخصي يحتاج إلى تحسين. قم بإجراء تغييرات بناءً على تعليقات فريق Oliv واطلب مراجعته مجدداً"
+      },
+      "average": {
+        "label": "تمت الموافقة على حسابك الشخصي",
+        "description": " بداية رائعة! قم بإجراء بعض التغييرات بناءً على تعليقات فريق Oliv لجذب انتباه المزيد من أصحاب العمل"
+      },
+      "good": {
+        "label": "تمت الموافقة على حسابك الشخصي",
+        "description": "حسابك الشخصي يبدو رائعاً! حافظ على تحديث حسابك لاستلام فرص العمل ذات الصلة"
+      }
+    },
+    "improvements": {
+      "link": {
+        "0": "اعرف أكثر",
+        "1": "المزيد من النصائح"
+      },
+      "grammarAndSpelling": {
+        "label": "قواعد اللغة والإملاء",
+        "description": {
+          "0": " صحح نصوص الشرح والوصف لضمان عدم وجود أي أخطاء إملائية أو نحوية. نعرف أنّ الأمرقد يكون بسيطاً، لكنه هام. جرّب أدوات مثل Grammarly للحصول على مساعدة إضافية",
+          "1": " صحح نصوص الشرح والوصف لضمان عدم وجود أي أخطاء إملائية أو نحوية. نعرف أنّ الأمرقد يكون بسيطاً، لكنه هام. جرّب أدوات مثل Grammarly للحصول على مساعدة إضافية"
+        }
+      },
+      "aboutMe": {
+        "label": "نبذة عني",
+        "description": {
+          "0": " عادة هذا يكون من أول الأمور التي سيشاهدها صاحب العمل في حسابك الشخصي. تجنب البيانات العامة واكتب جملاً شخصية أكثر. تعدّ الكتابة عنك وعن خلفيتك وأهدافك المهنية مكاناً رائعاً للبدء. اعرف المزيد←",
+          "1": " عادة هذا يكون من أول الأمور التي سيشاهدها صاحب العمل في حسابك الشخصي. تجنب البيانات العامة واكتب جملاً شخصية أكثر. تعدّ الكتابة عنك وعن خلفيتك وأهدافك المهنية مكاناً رائعاً للبدء. اعرف المزيد←"
+        }
+      },
+      "previousWork": {
+        "label": "جودة ومحتوى العمل السابق",
+        "description": {
+          "0": "قد تكون كتابة وصف حول خبرة العمل أمر صعب للغاية - من المهم عدم كتابة نصوص طويلة، بل إضافة التفاصيل الكافية. جرّب استخدام هذا التنسيق: تم إنجاز [X] كما تم القياس بواسطة [Y] عبر القيام [Z]. اعرف المزيد←",
+          "1": "قد تكون كتابة وصف حول خبرة العمل أمر صعب للغاية - من المهم عدم كتابة نصوص طويلة، بل إضافة التفاصيل الكافية. جرّب استخدام هذا التنسيق: تم إنجاز [X] كما تم القياس بواسطة [Y] عبر القيام [Z]. اعرف المزيد←"
+        }
+      },
+      "extracurricular": {
+        "label": "الجودة والمحتوى من خارج المناهج الدراسية",
+        "description": {
+          "0": "قد تكون كتابة وصف حول الأنشطة أمر صعب للغاية - من المهم عدم كتابة نصوص طويلة، بل إضافة التفاصيل الكافية. جرّب استخدام هذا التنسيق: تم إنجاز [X] كما تم القياس بواسطة [Y] عبر القيام [Z]. اعرف المزيد←",
+          "1": "قد تكون كتابة وصف حول الأنشطة أمر صعب للغاية - من المهم عدم كتابة نصوص طويلة، بل إضافة التفاصيل الكافية. جرّب استخدام هذا التنسيق: تم إنجاز [X] كما تم القياس بواسطة [Y] عبر القيام [Z]. اعرف المزيد←"
+        }
+      },
+      "profilePhoto": {
+        "label": "جودة صورة الحساب الشخصي",
+        "description": {
+          "0": "يفضل الناس دائماً رؤية الصور، استخدم صورتك لإظهار شخصيتك اللطيفة. استخدم صورة بجودة عالية من الرأس إلى الكتفين أو الرأس إلى الخصر، ولا تنسَ أن تبتسم! اعرف المزيد←",
+          "1": "يفضل الناس دائماً رؤية الصور، استخدم صورتك لإظهار شخصيتك اللطيفة. استخدم صورة بجودة عالية من الرأس إلى الكتفين أو الرأس إلى الخصر، ولا تنسَ أن تبتسم! اعرف المزيد← "
+        }
+      },
+      "quality": {
+        "label": "جودة الصوت والفيديو",
+        "description": {
+          "0": "جرّب استخدام كاميرا عالية الجودة لالتقاط فيديو في الوضع الأفقي. عادة ما تكون الخلفية العادية أو الفاتحة في ضوء النهار هي الأفضل. للحصول على صوت مثالي، حاول استخدام الميكروفون أو التسجيل في غرفة هادئة فارغة. اعرف المزيد ←",
+          "1": "جرّب استخدام كاميرا عالية الجودة لالتقاط فيديو في الوضع الأفقي. عادة ما تكون الخلفية العادية أو الفاتحة في ضوء النهار هي الأفضل. للحصول على صوت مثالي، حاول استخدام الميكروفون أو التسجيل في غرفة هادئة فارغة. اعرف المزيد ←"
+        }
+      },
+      "creativity": {
+        "label": "الإبداع بالفيديو",
+        "description": {
+          "0": " هذه فرصتك لإظهار شخصيتك الرائعة لأصحاب العمل على منصتنا. تأكد من إضفاء لمستك الخاصة والشخصية ومحاولة تجنب عبارات عامة. اعرف المزيد←",
+          "1": " هذه فرصتك لإظهار شخصيتك الرائعة لأصحاب العمل على منصتنا. تأكد من إضفاء لمستك الخاصة والشخصية ومحاولة تجنب عبارات عامة. اعرف المزيد← "
+        }
+      },
+      "fluencyAndTone": {
+        "label": "انسيابية الفيديو ونبرة الصوت",
+        "description": {
+          "0": "حتى تكون القصة ذات مغزى يجب أن تكون مصدر إلهام. أخبر قصتك بوضوح وشغف. أظهر لأصحاب العمل شخصيتك وما يمكنك القيام به وما ستفعله مستقبلاً. اعرف المزيد← ",
+          "1": "حتى تكون القصة ذات مغزى يجب أن تكون مصدر إلهام. أخبر قصتك بوضوح وشغف. أظهر لأصحاب العمل شخصيتك وما يمكنك القيام به وما ستفعله مستقبلاً. اعرف المزيد← "
+        }
+      },
+      "qualityOfVideoCv": {
+        "label": "جودة فيديو السيرة الذاتية",
+        "description": {
+          "0": "بينما لا تحتاج إلى جودة إنتاج مخرجي هوليوود لفيديو السيرة الذاتية، إلا مستويات الإضاءة المناسبة والصوت الواضح يساعدان بالتأكيد. تتراوح مدة أفضل السير الذاتية للفيديو من 30 إلى 90 ثانية، وتركز على عرض الشخصية والحماسة للعمل"
+        }
+      }
+    }
+  },
+  "myApplications": {
+    "applied": {
+      "text": "تم تقديم طلب",
+      "tooltipText": "هذا القسم يظهر الوظائف التي قدّمت بطلب عليها."
+    },
+    "viewed": {
+      "text": "تم العرض",
+      "tooltipText": "طلبات التقديم في طريقها الصحيح! لقد رأى أصحاب العمل حسابك الشخصي لهذه الوظائف الشاغرة"
+    },
+    "interviewRequested": {
+      "text": "تم طلب مقابلة عمل",
+      "tooltipText": "رائع! لقد تمت دعوتك لإجراء مقابلة للوظائف التالية. تأكد من الرد بسرعة"
+    },
+    "hired": {
+      "text": "تم التوظيف",
+      "tooltipText": "مبروك! لقد تلقيت عرضاًللوظيفة (الوظائف) التالية. يرجى الرد في أقرب وقت ممكن"
+    },
+    "declined": {
+      "text": "تم الرفض",
+      "tooltipText": "للأسف تم رفض طلبك لهذه الوظائف"
+    }
+  },
+  "searchPlaceholders": {
+    "candidatesSearch": "ابحث عن الكلمات الأساسية والمهارات والتخصصات والمزيد",
+    "jobOfferSearch": "ابحث عن الكلمات الأساسية والمهارات والشركات وأكثر "
+  },
+  "searchAttributes": {
+    "major": "الاختصاص",
+    "university": "جامعة",
+    "city": "المدينة",
+    "country": "Country",
+    "jobType": "نوع الوظيفة",
+    "department": "القسم",
+    "commitment": "الالتزام",
+    "industry": "المجال",
+    "employmentType": "نوع الوظيفة",
+    "availability": "التوفر",
+    "duration": "المدة",
+    "location": "الموقع",
+    "nationality": "الجنسية",
+    "visaStatus": "وضع الفيزا",
+    "language": "اللغة",
+    "degreeStatus": "حالة الشهادة",
+    "age": "العمر",
+    "gender": "الجنس",
+    "videoCv": "فيديو السيرة الذاتية",
+    "specialisations": "التخصصات",
+    "availableNow": "متوفر الآن",
+    "driversLicence": "رخصة قيادة",
+    "countryOfResidence": "الدولة",
+    "showUnviewedOnly": "عرض ما لم يتم عرضه فقط",
+    "category": "الفئة",
+    "companyType": "نوع الشركة",
+    "easyApply": "تقديم سهل",
+    "easyApplyTooltip": " التقديم فقط على الوظائف في Oliv، وليس على مواقع الوظيفية الخارجية ",
+    "loggedInAt": {
+      "title": "آخر نشاط",
+      "sevenDays": "7 أيام",
+      "thirtyDays": "30 يوماً",
+      "ninetyDays": "90 يوماً",
+      "lastYear": "آخر سنة",
+      "allTime": "خلال كل الوقت"
+    },
+    "datePosted": {
+      "title": "تاريخ النشر",
+      "all": "الكل",
+      "day": "اليوم الفائت",
+      "threeDays": "3 أيام الفائتة",
+      "week": "الأسبوع الفائت",
+      "month": "الشهر الفائت"
+    },
+    "viewed": {
+      "label": "تم العرض",
+      "all": "كل",
+      "viewed": "تم عرضه",
+      "unviewed": "لم يتم عرضه"
+    },
+    "contacted": {
+      "label": "تم التواصل",
+      "all": "الكل",
+      "contacted": "تم التواصل",
+      "notContacted": "لم يتم التواصل"
+    }
+  },
+  "roles": {
+    "candidate": "مرشح",
+    "employer": "موظف",
+    "guest": "زائر"
+  },
+  "payment": {
+    "confirmation": {
+      "authorised": {
+        "text": " شكراً للدفع. سيتم تفعيل حسابك تلقائياً. للحصول على أي توضيحات، يُرجى التواصل معنا دون تردد {{contactTeam}}",
+        "title": "تمت الموافقة على دفعتك!"
+      },
+      "cancelled": {
+        "text": " لقد ألغيت دفعتك. يمكنك تجربة الدفع مرة أخرى باستخدام الرابط المرسل إلى بريدك الإلكتروني أو بالنقر فوق الزر \"المحاولة مجدداً\" أدناه",
+        "title": "تم إلغاء دفعتك"
+      },
+      "declined": {
+        "text": "حدث خطأ ما ولم يتم إكمال دفعتك. يرجى مراجعة تفاصيل الدفع والمحاولة مرة أخرى.",
+        "title": "تم رفض دفعتك"
+      }
+    },
+    "details": {
+      "welcomeOliv": "أهلاً بك في Oliv!",
+      "purchaseIntroduction": " أنت على بعد خطوة واحدة من إيجاد أفضل المواهب وإطلاق مهنة أخرى في الشرق الأوسط - تهانينا! إذا كانت لديك أي أسئلة واستفسارات، فلا تتردد في التواصل معنا {{contactTeam}}",
+      "purchaseValid": "رابط الدفع صالح حتى",
+      "vatIdentifier": "InternsME DMCC TRN",
+      "purchaseDetails": "تفاصيل الشراء",
+      "paymentDetails": "تفاصيل الدفع",
+      "membershipDetails": "خطة العضوية •{{count}}شهر",
+      "membershipDetails_plural": "خطة العضوية •{{count}}شهور",
+      "items": "عناصر",
+      "quantity": "العدد",
+      "numberOfMonths": "عدد الأشهر",
+      "jobSlots": "شواغر الوظائف",
+      "jobPosts": "منشورات الوظائف",
+      "databaseSearch": "بحث قاعدة البيانات",
+      "dedicatedShortlistingService": "خدمة القوائم المختصرة المخصصة",
+      "credits": "رصيد",
+      "companyPage": "صفحة الشركة",
+      "totalPrice": "السعر الإجمالي",
+      "vat": "ضريبة القيمة المضافة",
+      "grandTotal": "المجموع العام"
+    },
+    "continue": {
+      "authorised": "الاستمرار باستعمال Oliv",
+      "cancelled": "المحاولة مجدداً",
+      "declined": "المحاولة مجدداً"
+    },
+    "loading": "يتم تحميل تفاصيل المعاملة...",
+    "processing": "يتم معالجة الدفعة، يرجى الانتظار..."
+  },
+  "order": {
+    "title": "قريب جداً من توظيف أفضل المواهب",
+    "summary": "ملخص",
+    "review": "مراجعة",
+    "checkout": "الدفع",
+    "questions": {
+      "employer": "لديك أسئلة؟ <1>تحدث إلى قسم المبيعات</1>",
+      "candidate": "لديك أسئلة؟<1>تحدث إلى قسم الدعم</1>"
+    },
+    "perJobPost": "لكل منشور وظيفة",
+    "numberOfJobPosts": "عدد الوظائف المنشورة",
+    "jobPostBenefitsTitle": "تشمل جميع خطط Oliv",
+    "databaseSearchBenefitsTitle": "يشمل البحث عن السير الذاتية",
+    "cvSearch": "البحث عن السير الذاتية",
+    "cvStartingAt": "البدء من {{priceWithCurrency}}/شهرياً",
+    "olivPlus": {
+      "title": " تقريبا عضو Oliv Plus ",
+      "productName": "Oliv Plus",
+      "onlyPriceMonth": "فقط {{price}}/شهرياً",
+      "monthlyPlan": "خطة شهرية",
+      "applicationBoosts": "تعزيز طلبات التقديم",
+      "directMessages": "رسائل خاصة",
+      "tooltips": {
+        "applicationBoosts": " تعزيز طلبات التقديم الخاصة بك إلى أعلى قائمة أصحاب العمل. تضاعف هذه الميزة رؤية طلب التقديم الخاص بك للفرص الوظيفية التي تريدها أكثر من غيرها",
+        "directMessages": " تميّز عن غيرك عن طريق بدء المناقشة مع صاحب العمل. تصل الرسائل الخاصة إلى صندوق الوارد الخاص بـ Oliv"
+      },
+      "productBenefits": {
+        "title": " تشمل جميع خطط Oliv Plus",
+        "list": {
+          "boostApplications": "تعزيز طلبات التقديم",
+          "messageEmployers": "مراسلة أصحاب العمل الذين تم التحقق منهم",
+          "support": "الحصول على دعم الأولوية"
+        },
+        "renewText": " سيتم تجديد عضوية Oliv Plusتلقائيًا كل 30 يومًا",
+        "termsText": " يمكنك الإلغاء في أي وقت. تحقق من <1>الشروط والأحكام</1>الكاملة",
+        "checkoutText": "Your payment will be processed by Checkout Ltd, licensed by the UK Financial Conduct Authority under license 900816. Your credit card details are not stored on Oliv."
+      }
+    }
+  },
+  "company": {
+    "form": {
+      "edit": {
+        "title": "تعديل بيانات الشركة",
+        "description": "قدّم مرشحين مع التفاصيل عن شركتك"
+      },
+      "extraFeatures": {
+        "title": "بيانات إضافية عن الشركة",
+        "description": "أضف لمسة مميزة على حساب شركتك والوظائف المنشورة عن طريق إضافة صورة غلاف، فيديو ومعرض صور"
+      },
+      "sections": {
+        "description": {
+          "label": "وصف الشركة",
+          "text": "قدّم وصفاً موجزاً، أخبر المرشحين بما تفعله شركتك ولماذا عليهم أن يتحمسوا للعمل معك. (ملاحظة: سيظهر هذا الوصف في جميع مشاركاتك وحسابك الشخصي للشركة.)"
+        },
+        "logo": {
+          "label": "شعار الشركة",
+          "text": " قم بتحميل شعار شركتك. تأكد من أنه لا يتجاوز 5 ميجابايت وأن يكون بأحد التنسيقات التالية: png, jpg, jpeg."
+        },
+        "coverPhoto": {
+          "label": "صورة الغلاف",
+          "text": "قم بتحميل صورة ليتم عرضها كصورة غلاف على صفحة شركتك. تأكد من أنه لا يتجاوز 5 ميجابايت وأن يكون بأحد التنسيقات التالية: png, jpg, jpeg."
+        },
+        "perks": {
+          "label": "الامتيازات",
+          "text": "اختر حتى 6 أمور من شأنها أن تشجع المرشحين لبدء حياتهم المهنية مع شركتك"
+        },
+        "video": {
+          "label": "فيديو",
+          "text": "أضف مقطع فيديو إلى صفحة شركتك ومنشورات الوظائف لتمييز شركتك عن المتقدمين المحتملين"
+        },
+        "images": {
+          "label": "الصور",
+          "text": " قم بتحميل ما يصل إلى 6 صور لمنح المرشحين لمحة عما تفعله شركتك وكيف يبدو يوم عمل ما. تأكد من أن الصور لا تتجاوز 5 ميجابايت وأن تكون بأحد التنسيقات التالية: png ، jpg ، jpeg."
+        },
+        "unavailableMediaSections": {
+          "label": "صورة الغلاف والفيديو والصور",
+          "text": "أضف لمسة مميزة على صفحة شركتك عبر فتح إمكانية الوصول لإضافة صورة غلاف أو مقطع فيديو أو صور. تواصل معنا عبر<1><0>{{email}}</0></1>أو اتصل بنا على <3><0>{{phone}}</0></3>"
+        }
+      }
+    },
+    "location": "الموقع",
+    "perks": "الامتيازات",
+    "company": "الشركة",
+    "description": "الوصف",
+    "companyProfile": "حساب الشركة",
+    "locationNotSpecified": "الموقع الأساسي غير محدد",
+    "descriptionPlaceholder": "لم تقدم هذه الشركة أي وصف حتى الآن.",
+    "IndustryNotSpecified": "لم يتم تحديد المجال"
+  },
+  "chat": {
+    "unreadMessages": "You have <strong>{{count}} unread</strong> message",
+    "unreadMessages_plural": "You have <strong>{{count}} unread</strong> messages",
+    "recentMessages": "الرسائل",
+    "noMessagesYet": "لا توجد رسائل بعد",
+    "applicantPosition": "مقدم طلب لمنصب",
+    "candidatePosition": "المرشح لمنصب",
+    "viewJobDetails": "عرض تفاصيل الوظيفة",
+    "dismissChat": "رفض الدردشة",
+    "typeYourMessageHere": "اكتب رسالتك هنا...",
+    "loadingMessages": "يتم تحميل الرسائل",
+    "loadingChannel": "تحميل المحادثة",
+    "beginningOfConversation": "هذه بداية محادثاتك مع {{name}}.",
+    "noChats": "لا تملك أيّ محادثات حالياً",
+    "messagesEmptyState": {
+      "employer": "بحث عن المرشحين أو اختيار مقدم طلب واعد لبدء محادثة",
+      "candidate": "لا تيأس! أصحاب العمل سيتواصلون معك في وقت قريب!"
+    },
+    "selectChat": "يرجى تحديد دردشة لبدء المراسلة",
+    "showPreviousMessages": "عرض الرسائل السابقة",
+    "dismissConfirmation": {
+      "title": "هل تريد حقاً إنهاء هذه الدردشة",
+      "text": "لن تمكن المرشح من التواصل معك بعد رفض الدردشة",
+      "confirm": "نعم، إلغاء الدردشة"
+    },
+    "dismissed": {
+      "employer": "لقد رفضت هذه الدردشة. انقر على زر \"إلغاء حظر الدردشة\" الزر في الجزء العلوي لإرسال الرسائل.",
+      "candidate": "رفض صاحب العمل هذه المحادثة."
+    },
+    "unblockChat": "إلغاء حظر الدردشة",
+    "interviewRequest": "قبول أو رفض طلب المقابلة أو اطلب المزيد من المعلومات",
+    "interviewRequestResponse": {
+      "accept": "شكراً جزيلاً على الدعوة لإجراء مقابلة لوظيفة {{position position}}.أقدر هذه الفرصة، وأتطلع إلى إجراء مقابلات مع {{companyName}}.",
+      "reject": "شكراً جزيلاً على التفكير بتوظيفي لمنصب {{positionTitle}} ودعوتي إلى إجراء مقابلة مع {{companyName}} ومع ذلك، أرغب في سحب طلبي لهذا المنصب. وأقدّر للغاية وقتكم لمراجعة طلب التقديم مرة أخرى، شكراً لذلك."
+    },
+    "defaultMessage": {
+      "title": "موجودون للمساعدة",
+      "description": " فيما يلي بعض الإرشادات المفيدة حول التواصل مع أصحاب العمل على Oliv",
+      "ctaButton": "اعرف أكثر"
+    },
+    "joinActiveChannel": "{{candidateName}} في محادثة نشطة مع فريقك، هل ترغب في الانضمام؟",
+    "joinConversation": "انضم إلى المحادثة",
+    "openChat": "فتح الدردشة",
+    "settingUp": "إعداد غرفة الدردشة الخاصة بك. نحن متحمسون كذلك",
+    "filters": {
+      "all": "الكل",
+      "premium": "أعضاء بريميوم",
+      "jobApplicant": "متقدم للوظيفة",
+      "invitedCandidate": "مرشح مدعو",
+      "myInvites": "دعواتي",
+      "myApplications": "طلبات التقديم",
+      "olivPlus": "Oliv Plus",
+      "olivia": "Olivia",
+      "shortlistByOlivia": "Shortlist by Olivia"
+    },
+    "tags": {
+      "all": "الكل",
+      "premium": "Premium",
+      "jobApplicant": "متقدم للوظيفة",
+      "invitedCandidate": "مرشح مدعو",
+      "myInvites": "دعواتي",
+      "myApplications": "طلبات التقديم",
+      "olivPlus": "Oliv Plus"
+    },
+    "awaitingToReplyTooltip": " في انتظار رد صاحب العمل. ستتمكن من متابعة هذه المحادثة بمجرد أن يرد صاحب العمل على سلسلة المحادثات هذه. <1>هنا</1> بعض النصائح حول أفضل الطرق لبدء المحادثات على Oliv",
+    "read": "اقرأ",
+    "delivered": "تم التوصيل",
+    "candidatesAwaitingToReply": "{{count}} مرشح في انتظار ردك",
+    "candidatesAwaitingToReply_plural": "{{count}} مرشح في انتظار ردك",
+    "oliviaIsTyping": "أوليفيا تكتب",
+    "botClosableMessage": {
+      "employer": "مرحبا! أنا أوليفيا، روبوت Oliv لإعداد القائمة المختصرة. عندما تنشر وظيفة ما، فإنني أراقب عن كثب المرشحين الذين قد يكونون مناسبين تماماً ولائحة المرشحين المختصرة لك. قبل وضع قائمة مختصرة لأي مرشح، أعيد تأكيد اهتمامهم وتوفرهم وقبولهم لموقع العمل والأجر، بناءً على ما قمت بإدخاله في منشور وظيفتك. عادةً ما أقوم بتقديم قوائم مختصرة خلال 7-10 أيام من نشر الوظيفة وسأرسل تحديثات كل أسبوع أو نحو ذلك",
+      "candidate": " مرحباً! أنا أوليفيا، روبوت Oliv لإعداد القائمة المختصرة. أبحث عن مرشحين رائعين مثلك لوضع قائمة مختصرة مباشرة لأصحاب العمل في Oliv. إذا كنت تعتقد أنك قد تكون مؤهلاً قويًا لوظيفة ما، فسأحتاج لطرح بعض الأسئلة لتأكيد اهتمامك وتوفرك، يرجى إكمال جميع أسئلتي في غضون 3 أيام من أجل أن تكون ضمن القائمة المختصرة. من أجل أي أسئلة أو استفسارات أخرى، يمكن التواصل معنا في أيّ وقت عبر <b><u>olivia@oliv.com</u></b>"
+    },
+    "botDeclineConfirm": "هل أنت واثق؟",
+    "botDeclineWithDescriptionConfirm": "Are you sure? Bear in mind that there <strong>may</strong> be scope for discussion about this, if you receive an offer."
+  },
+  "terms": {
+    "termsAndConditions": "الشروط والأحكام",
+    "Basic": " هذه الشروط والأحكام تحكم علاقتك مع Oliv (نحن أو أعمالنا). يرجى قراءتها بعناية لأنها تؤثر على حقوقك والتزاماتك بموجب القانون. في حالة إبرام أي معاملة مع نشاط تجاري (سواء عبر البريد الإلكتروني أو المحادثة الهاتفية أو كتابة أو بشكل شخصي أو عبر أي وسيلة أخرى)، يتم تطبيق الشروط والأحكام هذه والتحكم في كل معاملة. إذا كان لديك أي أسئلة حول الشروط والأحكام، يرجى التواصل معنا. هذه الشروط والأحكام، تم تعديلها من وقت لآخر، (\"هذه الشروط\") تنطبق على استخدامك لموقعنا، www.oliv.com (\"الموقع\") يجب عليك مراجعة وحفظ نسخة من هذه الشروط والأحكام للرجوع إليها في المستقبل. تعتبر جميع السياسات والإجراءات والمبادئ التوجيهية التي تظهر على الموقع من وقت لآخر (\"السياسات\") مدرجة في هذه الشروط. تعني \"أنت/الخاص بك\" شخصك أنت، مستخدم الموقع.",
+    "privacyNotice": {
+      "title": "إشعار الخصوصية",
+      "description": "نأخذ في Oliv خصوصية مستخدمينا بكل جدية. تم تحديث<1><0> سياسة الخصوصية الخاصة </0></1> بنا وفقاً للائحة العامة لحماية البيانات (GDPR) للاتحاد الأوروبي. يرجى قراءة النص بعناية وقبول شروطنا فقط في حال كنت توافق عليها.",
+      "agree": "أوافق على <١>الشروط والأحكام</١>.",
+      "underageAgree": " يرجى الطلب من أحد الوالدين أو الوصي بمراجعة هذه المستندات، وقيامه بذلك يعني قراءته وقبوله <iv>سياسة الخصوصية</1> الخاصة بـ Oliv و<3> الشروط والأحكام</3>"
+    }
+  },
+  "contactPage": {
+    "contactUs": "تواصل معنا",
+    "aboutUs": "نبذة عنا",
+    "aboutUsMore_1": "تعتبر Oliv بوابة إلكترونية مصممة للشباب في منطقة الشرق الأوسط وشمال أفريقيا. نقوم بتوفير صلة الوصل بين الطلاب الموهوبين والخريجين الجدد وبين أصحاب العمل الرائدين في مجال التدريب الداخلي ووظائف الدوام الجزئي ووظائف المستويات العليا.",
+    "aboutUsMore_2": "يبلغ معدل البطالة بين الشباب في منطقة الشرق الأوسط وشمال أفريقيا ضعفي المعدل العالمي تقريباً - ونحاول جاهدين حل هذه المشكلة من خلال التكنولوجيا، وتمكين المجتمعات وبناء الشراكات.",
+    "companyName": "Oliv مركز دبي للسلع المتعددة",
+    "companyAddressBuilding": "International Business Tower",
+    "companyAddressFloorAndOffice": "Office 1101",
+    "companyAddressDevelopment": "Business Bay",
+    "companyAddressCity": "دبي، الإمارات العربية المتحدة",
+    "companyPostCode": "ص.ب. 309119",
+    "companyPhoneNumber": "04 432 4500",
+    "companyEmailAddress": "team@oliv.com"
+  },
+  "pricingPage": {
+    "headingPricing": "تسعير مبسط",
+    "aboutPricing": "تخلّص من وكالات التوظيف المكلفة ووكالات العمل غير الموثوقة. تم تصميم خيارات تسعير مرنة لتناسب متطلباتك المالية.",
+    "questionsPricing": "https://projects.invisionapp.com/d/main/default/#/console/12166634/274456266/inspect",
+    "haveAnyQuestions": "هل لديك أسئلة؟",
+    "plans": {
+      "single": {
+        "howManyHires": "أرغب في توظيف شخص واحد أو شخصين",
+        "planType": "Oliv Lite",
+        "planTypeMore": "احصل على وظيفة شاغرة نشطة لمدة 30 يوماً وبحث عن السير الذاتية",
+        "planTypeAdvantages": "أبرز مزاياOliv Lite",
+        "oneActiveJob": "وظيفة شاغرة نشطة واحدة",
+        "cvSearch": "بحث عن السيرة الذاتية",
+        "handpickedShortlist": "قائمة مختصرة مختارة من 5 مرشحين"
+      },
+      "multiple": {
+        "howManyHires": "أرغب في توظيف عدة أشخاص",
+        "planType": "خطة الاشتراك",
+        "planTypeMore": "ادفع وفقاً للخطة ووظف أكبر عدد ممكن من الأشخاص الذين تحتاجهم",
+        "planTypeAdvantages": "أبرز مزايا خطة الاشتراك:",
+        "cvSearch": "بحث عن السيرة الذاتية",
+        "trackingAndSupport": "نظام تتبع مقدمي الطلبات وإعداد التقارير",
+        "shortlistingSupport": "دعم القائمة المختصرة",
+        "dedicatedManager": "مدير حساب مخصص"
+      }
+    },
+    "faq": {
+      "faqHeading": "الأسئلة الشائعة",
+      "faqQuestions": {
+        "aboutProcess": "ما هي الإجراءات القانونية لتعيين المتدربين الداخليين؟",
+        "aboutProcessAnswer": "توظيف المتدربين أمر قانوني في دولة الإمارات العربية المتحدة وجميع المناطق الحرة. تختلف الإجراءات في كل منطقة تجارية عن أخرى، لذلك قمنا بإنشاء {{internVisaGuide}} للمساعدة. نقترح التواصل مع السلطة التنظيمية المعنية التابعة لك لمعرفة المزيد.",
+        "internVisaGuide": "دليل فيزا المتدربين",
+        "aboutShortlisting": "ماذا تعني القائمة المختصرة؟",
+        "aboutShortlistingAnswer": "سيرسل لك مدير الحساب المخصص قائمة مختصرة من 5 مرشحين ذوي صلة ومتاحين وموهوبين مما يجعل التوظيف أسهل من أي وقت مضى. تتميز خدمة القائمة المختصرة بنسبة نجاح تبلغ 95%.",
+        "aboutPayment": "كم عليّ أن أدفع للمتدربين والموظفين المبتدئين",
+        "aboutPaymentAnswer": "لا تتحكم Oliv بباقة التعويضات التي يقدمها صاحب العمل للمرشح، ولكننا نشجع دائماً نوعاً ما من الراتب لتعزيز جاذبية عرضك. قمنا بإنشاء{{compensationGuide}} للمساعدة.",
+        "compensationGuide": "دليل التعويض",
+        "aboutHiring": "هل يمكنني فقط توظيف متدربين على منصتك؟",
+        "aboutHiringAnswer": "يمكنك بالتأكيد توظيف المتدربين وغيرهم! يمكن استخدام Oliv لوظائف التدريب الداخلي والدوام الجزئي ووظائف الخريجين. مجتمعنا مكون من طلاب وخريجين جدد مع ما يصل إلى 3 سنوات من الخبرة"
+      }
+    },
+    "buttons": {
+      "getStarted": "ابدأ",
+      "contactUs": "تواصل معنا"
+    }
+  },
+  "plansPage": {
+    "HeroSection": {
+      "heading": "احصل على وظيفة أحلامك مع",
+      "description": "احصل على سير ذاتية مخصصة ، وخطابات تغطية مقنعة ، وملفات تعريف لينكد إن الرائعة المصممة من قبل خبراء الصناعة لمساعدتك على التميز"
+    },
+    "heading": "منصة توظيف أكثر من مجرد مساحة إعلانية",
+    "description": " لا داعي للمزيد من وكالات التوظيف باهظة التكلفة وورشات توظيف غير موثوق بها. اختر الخيار المناسب لك",
+    "helpCenterCta": " للمزيد من المعلومات حول الفواتير، راجع <1>مركز المساعدة الخاص بنا</1>",
+    "products": {
+      "jobPost": {
+        "title": "منشور وظيفة",
+        "titlePlural": "منشورات وظائف",
+        "description": "قوائم الوظائف دون عناء: جذب أفضل المواهب وتصفيتها والتواصل معها بسلاسة.",
+        "freeDescription": "ابدأ مجانًا واكتشف مواهبك الشبابية المثالية",
+        "total": "الكلي",
+        "vatInclusive": "شامل ضريبة القيمة المضافة",
+        "selectLabel": "الحفظ مع منشورات متعددة للوظائف",
+        "savings": "حفظ",
+        "customPricing": "أسعار مخصصة",
+        "summaryDescription": "يمكن استخدام منشورات الوظائف في أي وقت حتى 12 شهرًا من تاريخ الشراء",
+        "benefits": {
+          "expiryPeriod": "منشور وظيفة نشط لمدة 30 يوماً",
+          "companyPage": "صفحة شركة العلامات التجارية",
+          "applicantFilters": "تتبع الطلبات المتقدمة ونظام الفلترة",
+          "support": "البريد الإلكتروني والدردشة والمكالمات الدعم",
+          "promotion": "الترويج على وسائل التواصل الاجتماعي",
+          "dedicated": "مدير حساب مخصص"
+        },
+        "freeBtn": "نشر وظائف مجاناً"
+      },
+      "candidate_search": {
+        "title": "بحث المرشح",
+        "titlePlural": "عمليات البحث عن المرشحين",
+        "description": "إطلاق العنان لإمكانات المواهب: ابحث عن المرشحين المثاليين لديك بدقة وسهولة.",
+        "freeDescription": "ابدأ مجانًا واكتشف مواهبك الشبابية المثالية",
+        "total": "المجموع",
+        "vatInclusive": "شاملة ضريبة القيمة المضافة",
+        "selectLabel": "حفظ مع وظائف متعددة",
+        "savings": "يحفظ",
+        "customPricing": "التسعير المخصص",
+        "summaryDescription": "يمكن استخدام منشورات الوظائف في أي وقت لمدة تصل إلى 12 شهرًا من تاريخ الشراء.",
+        "benefits": {
+          "expiryPeriod": "وظيفة الوظيفة نشطة لمدة 30 يوما",
+          "companyPage": "صفحة الشركة ذات العلامات التجارية",
+          "applicantFilters": "نظام تتبع وتصفية مقدم الطلب",
+          "support": "دعم البريد الإلكتروني والدردشة والمكالمات",
+          "promotion": "الترويج على وسائل التواصل الاجتماعي",
+          "dedicated": "مدير حساب مخصص"
+        },
+        "freeBtn": "نشر وظائف مجانا"
+      },
+      "databaseSearch": {
+        "title": "البحث عن السير الذاتية",
+        "vatInclusive": "شامل ضريبة القيمة المضافة",
+        "contacts": "جهات الاتصال",
+        "summaryDescription": " عرض حسابات غير محدودة والاتصال بما يصل حتى 50 حسابًا شهريًا. يتم التجديد كل شهر تلقائيًا حتى <1>أنت تلغي</1> خطتك",
+        "benefits": {
+          "screenedCommunity": "تصنيف المجتمع",
+          "filters": "أكثر من 15 فلتر للبحث والتصنيف",
+          "cvs": "فيديو السيرة الذاتية",
+          "sort": "فرز حسب العلاقة وآخر نشاط"
+        }
+      },
+      "customized": {
+        "title": "مخصص",
+        "description": "للشركات التي تبحث عن حلول توظيف مخصصة",
+        "services": {
+          "payPerHire": "التوظيف",
+          "cvSearch": "بحث السير الذاتية",
+          "jobSlots": "وظائف شاغرة",
+          "subscriptionPlans": "خطط الاشتراك"
+        },
+        "tooltips": {
+          "payPerHire": "يمكنك زيادة جهودك في التوظيف من خلال تلقي قوائم مختصرة مُختارة يدويًا للمتقدمين المؤهلين",
+          "cvSearch": " الوصول إلى أول مجتمع مصنف في العالم من الاحترافيين الشباب مع فلاتر بحث وتصنيف متقدمة لتطبيقها وفقًا لما يناسبك",
+          "jobSlots": " تمثل الوظائف الشاغرة عدد الوظائف التي يمكنك الحصول عليها مباشرة في أي وقت، فتتوفر لديك المرونة التي تحتاجها لملء الأدوار عند عرضها",
+          "subscriptionPlans": " احصل على عدد غير محدود من الموظفين بسعر ثابت على Oliv، حتى تتمكن من تزويد فريقك بمواهب عالية المستوى كلما احتجت إلى ذلك",
+          "contacts": {
+            "contactsHeader": "يتم استخدام رصيد جهات الاتصال عندما تقوم بـ",
+            "cvDownload": "تنزيل سيرة ذاتية",
+            "inviteCandidate": "دعوة مرشح لتقديم طلب لوظيفتك",
+            "revealContact": "الكشف عن تفاصيل الاتصال في حسابك"
+          }
+        }
+      }
+    },
+    "questions": {
+      "title": "الأسئلة",
+      "description": "اتصل على الرقم <1><0>{{supportPhoneNumber}}</0></1> أو <3>الدردشة المباشرة</3>"
+    },
+    "testimonial": {
+      "description": "جودة وتنوع لا يضاهى للمرشحين المتاحين إقليمياً وعالمياً ",
+      "author": "Prathna Jham",
+      "jobDetails": "المستشار الإداري في صفحة مايكل"
+    },
+    "companies": {
+      "title": " تعتمد أفضل العلامات التجارية في العالم على Oliv",
+      "description": "لقد ساعدنا 1000 شركة ناشئة محبوبة، عالمية وغيرها لتوظيف أفضل المواهب",
+      "cta": "قصص العملاء"
+    }
+  },
+  "topMenuBar": {
+    "candidate": "مُرَشَّح",
+    "employer": "صاحب العمل",
+    "careerPro": "مهنةبرو"
+  },
+  "eventStaffing" : {
+    "hero" : {
+      "heading" : "أصبح التوظيف في مناسبتك القادمة أمرًا سهلاً.",
+      "des" : "لقد جعلنا توظيف متطوعين شباب ومتعلمين ومتنوعين وموظفي الفعاليات أمرًا سهلاً على أي نطاق."
+    },
+    "CarouselLogs" : {
+      "heading" : "تعتمد أفضل الشركات في العالم على أوليف لتوظيف المتطوعين والمروجين والموظفين."
+    },
+    "howItWorks" : {
+      "heading" : "كيف نعمل",
+      "content1" : {
+        "slogan" : "جذب",
+        "heading" : "نحن نجذب المواهب وننمي الوعي",
+        "des1" : "قبل البدء بالمشروع، نقضي الكثير من الوقت في طرح الأسئلة وفهم كيف يبدو النجاح بالنسبة لك.",
+        "des2" : "نقوم بعد ذلك ببناء تجربة سريعة الاستجابة عبر الإنترنت والهواتف المحمولة والتي تجسد شخصية شركتك لجذب الأشخاص المناسبين."
+      },
+      "content2" : {
+        "slogan" : "يخطب",
+        "heading" : "نحن نروج لهذا الحدث الخاص بك ونشارك فيه",
+        "des1" : "نحن نستفيد من مجتمعنا من خلال الرسائل داخل التطبيق والبريد الإلكتروني ووسائل التواصل الاجتماعي. تعمل حملاتنا على زيادة الوعي والاهتمام بتوجيه التطبيقات."
+      }
+    },
+    "shortlist" : {
+      "slogan": "القائمة المختصرة",
+      "heading": "نقوم بتصفية المواهب ذات الصلة ووضع قائمة مختصرة لها",
+      "list1": {
+        "title": "فهم الأهداف",
+        "des": "تقييم الأوصاف الوظيفية وفهم الثقافة والشخصية والمهارات التي تقوم بالتوظيف من أجلها للعثور على الوظيفة المثالية."
+      },
+      "list2": {
+        "title": "المصادر والمراجعة",
+        "des": "استخدام خوارزميات المطابقة ومجموعة من مصطلحات البحث وخيارات التصفية لتضييق نطاق المتقدمين الأكثر تأهيلاً."
+      },
+      "list3": {
+        "title": "محاذاة المتطلبات",
+        "des": "التواصل مع المتقدمين للتحقق من احتياجاتك من خلال الأسئلة المؤهلة لمتطلبات محددة مثل المهارات والتعويضات وما إلى ذلك."
+      },
+      "list4": {
+        "title": "المعالجة والتعليقات",
+        "des": "وضع قائمة مختصرة للمتقدمين المؤهلين، والحصول على تعليقاتك وتوفير متطوعين إضافيين لتغطية أي تسرب في اللحظة الأخيرة."
+      }
+    },
+    "quote": {
+      "client1" : {
+        "des" : "لقد كان العمل مع أوليف أحد أفضل القرارات التي اتخذناها كشركة فعاليات. إنهم يقدمون لنا خدمات مصممة خصيصًا لتناسب احتياجاتنا، مما يجعل عملية تجنيد المتطوعين لدينا سهلة للغاية.",
+        "name" : "نور أبو",
+        "designation" : "مدير المجتمع في ExtraCake، معرض الشرق الأوسط للأفلام والقصص المصورة"
+      }
+    },
+    "videoSection" : {
+      "heading" : "مواكبة النمو السريع",
+      "des" : "يتسع مؤتمر Step مع Oliv حيث يتضاعف حجمه ثلاث مرات كل عام. نرحب هذا العام بأكثر من 200 متطوع من جيل الألفية في كل حدث."
+    },
+    "ctaSection" : {
+      "heading" : "حصلت حدث الخروج؟"
+    }
+  },
+  "careerProPage" : {
+    "planPage": {
+      "sections": {
+        "HeroSection": {
+          "heading": "احصل على وظيفة أحلامك مع",
+          "description": "احصل على <b> سيرة ذاتية مخصصة </ b> و <b> رسائل غلاف جذابة </ b> و <b> ملفات شخصية رائعة لـ Linkedin </b> صممها خبراء الصناعة لمساعدتك على التميز."
+        },
+        "pricing": {
+          "heading": "التسعير",
+          "priceCard": [
+            {
+              "id": 1,
+              "package_name": "Basic",
+              "price": "$129"
+            },
+            {
+              "id": 2,
+              "package_name": "Basic De",
+              "price": "$12"
+            },
+            {
+              "id": 3,
+              "package_name": "New",
+              "price": "$29"
+            }
+          ]
+        },
+        "howWorks": {
+          "heading": "كيف تعمل",
+          "list": {
+            "qus1": "1) حدد الحزمة",
+            "ans1": "حدد باقتك وادفع",
+            "qus2": "2) تحديث الملف الشخصي",
+            "ans2": "قم بإنشاء أو إكمال ملف تعريف Oliv الخاص بك",
+            "qus3": "3) تحقق من بريدك الإلكتروني",
+            "ans3": "سيرسل لك فريقنا بريدًا إلكترونيًا لحضور جلسة فردية",
+            "qus4": "4) تبادل المعلومات",
+            "ans4": "مشاركة المعلومات على نفس موضوع البريد الإلكتروني",
+            "qus5": "5) المراجعة",
+            "ans5": "راجع المسودة واحصل على ما يصل إلى ثلاث مراجعات",
+            "qus6": "6) وضع اللمسات الأخيرة",
+            "ans6": "استلم مستنداتك بتنسيقات Word DOC و PDF",
+            "qus7": "7) ابدأ التقديم!",
+            "ans7": "أنت الآن جاهز للتقدم لوظيفة أحلامك"
+          }
+        },
+        "benefits": {
+          "heading": "فوائد",
+          "list1": {
+            "title": "الخبرة المتخصصة",
+            "des": "أبهر المجندين من خلال السير الذاتية التي تركز على المهارات ، ورسائل الغلاف ، وملفات تعريف LinkedIn التي صممها خبراؤنا."
+          },
+          "list2": {
+            "title": "العلامات التجارية المهنية",
+            "des": "تضمن الاستشارة الفردية أن يعكس المحتوى بدقة خلفيتك ويتوافق مع أهدافك."
+          },
+          "list3": {
+            "title": "تصميم متميز",
+            "des": "تعطي تصميماتنا الأولوية لسهولة القراءة والجاذبية المرئية ، مما يترك انطباعًا دائمًا لدى أصحاب العمل."
+          },
+          "list4": {
+            "title": "النهج القائم على البيانات",
+            "des": "تعظيم تأثير سوق العمل الخاص بك من خلال الأدوات المتقدمة والتوصيات الإستراتيجية من الخبراء."
+          },
+          "list5": {
+            "title": "فعال من ناحية الوقت",
+            "des": "توفر لك عمليتنا المبسطة الوقت ، مما يسمح لك بالتركيز على مهام البحث عن وظيفة أخرى."
+          },
+          "list6": {
+            "title": "تحسين الكلمات الرئيسية المستهدفة",
+            "des": "نستخدم تحسين الكلمات الرئيسية لتعزيز قابلية الاكتشاف وتوافق ATS."
+          }
+        },
+        "sampleWork": {
+          "heading": "نموذج العمل"
+        },
+        "reviews": {
+          "client1": {
+            "name": "ديانا سميث",
+            "designation": "موقف الخريجين • Danzas",
+            "paragraph": "“حلل أوليف سيرتي الذاتية قبل العثور على الوظيفة الأنسب لي. إنهم يعرفون حقًا كيفية تلبية احتياجات الخريجين من خلال اختيار المرشحين المناسبين لكل منصب. يعد التسجيل في Oliv أحد أفضل القرارات التي اتخذتها.”"
+          }
+        },
+        "faqs": {
+          "heading": "أسئلة مكررة",
+          "faqQuestions": {
+            "qus1": "هل تم التحقق من السير الذاتية ATS؟",
+            "ans1": "نعم، السير الذاتية معتمدة من ATS، مما يضمن التوافق مع أنظمة تتبع المتقدمين التي يستخدمها مديرو التوظيف.",
+            "qus2": "ما الذي يجب علي فعله لبدء عملية كتابة السيرة الذاتية؟",
+            "ans2": "لبدء عملية كتابة السيرة الذاتية، اختر الحزمة، وقم بالدفع، وقم بإنشاء ملف التعريف الخاص بك أو إكماله. سنقوم بعد ذلك بالتواصل معك عبر البريد الإلكتروني.",
+            "qus3": "كم من الوقت تستغرق العملية؟",
+            "ans3": "تستغرق العملية عادةً 5 أيام، بدءًا من مشاركة المعلومات وحتى استلام المسودة النهائية والعمل عليها.",
+            "qus4": "كيف يمكنني الاتصال بك؟",
+            "ans4": "يمكنك الاتصال بنا عن طريق زيارة موقعنا على الإنترنت، أو إرسال بريد إلكتروني إلينا <b><a href='mailto:team@oliv.com'>team@oliv.com</a></b>، أو ملء بيانات الاتصال استمارة.",
+            "qus5": "إذا كنت بحاجة إلى سيرة ذاتية مخصصة أو خطابات سيرة ذاتية لمجالات مختلفة، فماذا علي أن أفعل؟",
+            "ans5": "إذا كنت بحاجة إلى سير ذاتية مخصصة أو خطابات تغطية لوظائف مختلفة، فما عليك سوى الاتصال بنا لمناقشة الأمر بشكل أكبر.",
+            "qus6": "كيف يمكنك إجراء تعديلات على LinkedIn؟",
+            "ans6": "نقوم بإجراء عمليات تجميل على LinkedIn من خلال تجديد ملفك الشخصي، بما في ذلك المحتوى الذي يجذب الانتباه، وتحسينه باستخدام الكلمات الرئيسية ذات الصلة والمهارات العليا، واقتراح تحسينات للعلامة التجارية للملف الشخصي مثل صور الملف الشخصي، وصور الغلاف، والمشاركات، وتوفير سيرة ذاتية احترافية وشاملة.",
+            "qus7": "هل يمكنني طلب تعديلات على سيرتي الذاتية أو خطاب التقديم؟",
+            "ans7": "نعم، يمكنك طلب 2 إلى 3 مراجعات (بناءً على الحزمة التي تختارها) للتأكد من أن سيرتك الذاتية أو خطاب التقديم يلبي توقعاتك."
+          }
+        }
+      }
+    },
+    "checkout": {
+      "heading": "الدفع",
+      "Navlink": {
+        "careerpro": "1. Career Pro",
+        "checkout": "2. Checkout"
+      },
+      "form": {
+        "title": "أدخل التفاصيل الخاصة بك",
+        "full_name_label": "الاسم الكامل",
+        "full_name_placeholder": "اسمك الكامل",
+        "email_label": "بريد إلكتروني",
+        "email_placeholder": "عنوان البريد الإلكتروني",
+        "phone_label": "رقم التليفون",
+        "phone_placeholder": "رقم التليفون",
+        "description_label": "وصف",
+        "description_placeholder": "تحدث عن المشكلة التي تواجهها",
+        "step1_btn_next": {
+          "invalid": "من فضلك املأ و تابع",
+          "valid": "التالي"
+        },
+        "submit_btn_text": "يُقدِّم"
+      }
+    },
+    "summary": {
+      "title": "ملخص",
+      "total": "المجموع",
+      "VATInclusive": "شامل ضريبة القيمة المضافة"
+    },
+    "promocode": {
+      "input_label": "أضف الرمز الترويجي",
+      "input_label_after_applied": "رمز ترويجي",
+      "input_placeholder": "رمز ترويجي",
+      "btn_text": "يتقدم"
+    },
+    "benefits": {
+      "title": "تتضمن الخطة"
+    }
+  },
+  "aboutPage": {
+    "mainTitle": "نبني التكنولوجيا ونعمل على تمكين مجتمعات الشباب",
+    "mainDescription": "<0> بدأنا في عام 2013، في معالجة مشكلة كبيرة - <1> معدل بطالة شباب بنسبة 30% في منطقة الشرق الأوسط وشمال أفريقيا.</1> تساعد Oliv طلاب الجامعة والخريجين على بدء مسيرتهم المهنية. ونحن جيدون في ذلك.</0> <1>واليوم، هي موطن لآلاف الطلاب والخريجين وتعمل على ملاءمة طموحاتهم مع الفرص المتاحة. أكثر من 1000 شركة من الشركات الناشئة إلى التي أثبتت قوتها في السوق تستخدم Oliv لتوظيف أفضل المواهب الناشئة للحفاظ على خط المواهب الصحية وتنمية أعمالهم للمستقبل.</1><2>هدفنا هو جعل بدء المسيرة المهنية أمرًا بسيطًا وشخصيًا ومجزيًا. هذا ما Oliv تعنيه.</2>",
+    "counters": {
+      "students": " الطلاب والخريجين على Oliv",
+      "businesses": " توظيف الشركات في Oliv",
+      "interviewed": "يتم المقابلة معهم مع كل شهر"
+    },
+    "pressHighlights": {
+      "title": "أخبار الصحافة",
+      "description": " هل أنت مهتم بالكتابة عن Oliv؟ يحب فريقنا العمل مع الصحفيين حول العالم لتبادل القصص والبيانات الفريدة والجذابة",
+      "cta": "عرض موارد الصحافة",
+      "articleOne": " صندوق الابتكارات يدعم شركة دبي الناشئة Oliv",
+      "articleTwo": " InternsME.Com غيرت علاماتها التجارية إلى Oliv.Com لتلبية جميع الفرص على المستوى المبتدئ",
+      "articleThree": " تفوز Oliv بجائزة بدء التشغيل الرقمي لهذا العام - جوائز Enterprise Agility"
+    },
+    "companies": {
+      "title": " أفضل الشركات في العالم تعتمد على Oliv",
+      "description": " أكثر من 1000 شركة تستخدم Oliv للتوظيف في برامج التدريب أو الوظائف بدوام جزئي ووظائف الخريجين الجدد",
+      "cta": "قصص العملاء"
+    },
+    "headquarters": {
+      "title": "المقر في دبي وتنمو بشكل متسارع",
+      "description": " يأتي فريق Oliv مع هدف مشترك عميق. نؤمن بتجميع مواهبنا وشغفنا تجاه مهمتنا. انضم إلينا لتجعل من بدء مسيرتك المهنية أمرًا بسيطًا وشخصيًا وأكثر فائدة",
+      "cta": "عرض الوظائف"
+    },
+    "insideCtaButtons": {
+      "titleCandidates": "الطلاب والخريجين",
+      "descriptionCandidates": "ابدأ حياتك المهنية",
+      "titleEmployers": "أصحاب العمل",
+      "descriptionEmployers": "وظف أهم المواهب الناشئة",
+      "getStarted": "البدء",
+      "learnMore": "اعرف المزيد"
+    }
+  },
+  "employersPage": {
+    "heading": "توظيف أكثر الطلاب والخريجين الموهوبين في الإمارات العربية المتحدة.",
+    "headingMore": "يساعدك Oliv على إتمام عملية التوظيف من مجموعة مختارة من الطلاب الموهوبين والخريجين الجدد للتدريب الداخلي، ووظائف الدوام الجزئي أو الكامل وغيرها.",
+    "learnMore": "Learn more",
+    "enterYourEmail": "أدخل بريدك الالكتروني",
+    "getStared": "ابدأ",
+    "getHired": "هل تريد إيجاد وظيفة أحلامك؟",
+    "forCandidates": "عرض الوظائف",
+    "switchButtons":{
+      "firstOption": "أصحاب العمل",
+      "secondOption": "مُرَشَّح"
+    },
+    "ctaButtons": {
+      "postJob": "نشر وظيفة مجانية",
+      "createDemoAccount": "إنشاء حساب تجريبي"
+    },
+    "testimonial": {
+      "text": " مع Oliv يمكننا تحديد أفضل المواهب المتنوعة – يمكننا المجتمع والتكنولوجيا من تضييق النطاق إلى ما نبحث عنه بالضبط ",
+      "jobTitle": "مدير الموارد البشرية"
+    },
+    "moreClients": " تعتمد أكثر من 1000 شركة على شركة Oliv لتوظيف أفضل المرشحين للوظيفة المبتدئة",
+    "moreClientsCTA": "اطلع كيف تستخدم هذه الشركات Oliv",
+    "aboutOliv": {
+      "moreAbout": "اجذب المواهب ذات الصلة، وليس فقط طلبات لا على التعيين",
+      "communityHeading": "مجموعة مختارة",
+      "communityHeadingMore": "اطلع على مجموعة مختارة بعناية مع تأشيرات دخول جاهزة للحصول على المعلومات السكانية والمهارات الشخصية ومهارات الاتصال",
+      "talentHeading": "Powerful technology",
+      "talentHeadingMore": "منصة واحدة قوية مصممة لمساعدتك على إتاحة الموارد وتصفية وإدارة وإيجاد المرشحين المناسبين لك",
+      "supportHeading": "دعم لا يضاهى",
+      "supportHeadingMore": "مساعدة مخصصة وكل ما تحتاجه لتوظيفه - مواردنا وخبرتنا ودعم التوظيف"
+    },
+    "platformSection": {
+      "communityHeading": "اطلع على مجموعة مختارة وموثوقة",
+      "communityHeadingMore": "يمر كل مرشح عبر عملية فحص لمراجعة حساباتهم الشخصية، التركيبة السكانية والشخصية ومهارات التواصل.",
+      "communityHeadingCTA": "اعرف المزيد حول مجموعتنا",
+      "learnMore": "Our screening process",
+      "applicantsHeading": "استمتع بسهولة التصفح والفرز وتتبع طلبات التقديم",
+      "applicantsHeadingCTA": "اعرف المزيد حول منصتنا",
+      "applicantsFeatures": {
+        "attractTalent": {
+          "title": "اجذب أهم المواهب",
+          "description": "أسس العلامة التجارية الخاصة بك كصاحب عمل مع صفحات الشركة التي تحكي قصتك واحصل على الطلبات المختلفة مع نشر الوظائف"
+        },
+        "getMatched": {
+          "title": "احصل على أروع مطابقة",
+          "description": "تُستخدم البيانات من آلاف التعيينات الناجحة لتشغيل خوارزميات مطابقة تساعدك في العثور على الملاءمة الصحيحة "
+        },
+        "manageApplications": {
+          "title": "تحكم بالطلبات المقدّمة",
+          "description": "صنّف التطبيقات وتتبعها وأدرها من خلال فلترة التوظيف أو الوصول إلى المزيد من المرشحين في مجتمعنا "
+        },
+        "message": {
+          "title": "المراسلة",
+          "description": "تواصل مع المتقدمين المفضلين لديك لطرح المزيد من الأسئلة وإعداد المقابلات والتوظيف "
+        }
+      }
+    },
+    "supportSection": {
+      "heading": "احصل على دعم لا يضاهى",
+      "headingMore": "لا مراكز اتصال، لا للاستعانة بمصادر خارجية، مساعدة شخصية سريعة الاستجابة لضمان إتمام عملية التوظيف",
+      "support": "دعم",
+      "onBoardingAndResources": {
+        "title": "التأهيل والموارد",
+        "description": " أسس كل شيء وابدأ التوظيف فوراً. منذ البداية، يتمتع فريقك بميزة المعرفة والخبرة وأفضل الممارسات."
+      },
+      "dedicatedHiringSupport": {
+        "title": "دعم توظيف مخصص",
+        "description": " احصل على مدير نجاح مخصص لتكثيف جهودك في التوظيف من خلال استلام قوائم مختصرة مختارة من المتقدمين المؤهلين."
+      }
+    },
+    "customersSection": {
+      "ourCustomers": "عملاؤنا",
+      "title": " أفضل الشركات في العالم تعتمد على Oliv",
+      "description": " انضم إلى أكثر من 1000 شركة تعمل على تمكين شباب الشرق الأوسط. لقد ساعدنا العديد من الشركات الناشئة، والشركات العملاقة العالمية، وكل ما بينهما لإيجاد أفضل المواهب الشابة.",
+      "cta": "عرض قصصهم",
+      "quotation": " منذ سنتين تقدمت بطلب لوظيفة في سيفورا عبر Oliv... وأنا الآن أقوم بتوظيف جيلنا القادم",
+      "author": "كريستال غونزاليس",
+      "authorPosition": " مدير الموارد البشرية في سيفورا"
+    },
+    "ctaSection": {
+      "heading": " توظيف أفضل المواهب، أسرع مع Oliv",
+      "description": " يمكنك الاستفادة من مجتمع مصنف، واستخدم التكنولوجيا المصممة لتحقيق أروع ملاءمة واحصل على دعم لا مثيل له في مختلف أمور التوظيف",
+      "headingPlaceholder": "أدخل بريدك الالكتروني",
+      "headingButton": "ابدأ"
+    }
+  },
+  "footer": {
+    "candidates": {
+      "jobSeekers": "الباحثون عن الوظائف",
+      "forJobSeekers": "للباحثين عن الوظائف",
+      "jobs": "الوظائف",
+      "signUp": "أنشئ حساباً",
+      "successStories": "قصص نجاح",
+      "blog": "مدونة",
+      "faq": "الأسئلة الشائعة"
+    },
+    "employers": {
+      "employers": "أصحاب العمل",
+      "forEmployers": "لأصحاب العمل",
+      "emiratisation": "التوطين",
+      "eventStaffing": "التوظيف للفعاليات",
+      "customerStories": "قصص العملاء",
+      "pricing": "الأسعار",
+      "eventStaffing": "توظيف الحدث",
+      "hiring": "الحلول",
+      "aboutOliv": "نبذة حول Oliv",
+      "careers": "الوظائف",
+      "employerBlog": "مدونة صاحب العمل",
+      "solutions": "الحلول"
+    },
+    "common": {
+      "resources": "مصادر",
+      "solutions": "الحلول",
+      "navigation": "التنقل"
+    },
+    "contact": {
+      "company": "مدونة صاحب العمل",
+      "careers": "الوظائف",
+      "careersHiring": "نوظّف حالياً",
+      "press": "الإعلام",
+      "giveUsCall": "اتصل بنا على: {{callNumber}}",
+      "about": "نبذة حول Oliv",
+      "paymentMethods": "طرق الدفع"
+    },
+    "bottom": {
+      "termsOfService": "شروط الخدمة",
+      "privacyPolicy": "سياسة الخصوصية",
+      "contactUs": "اتصل بنا",
+      "copyright": "حقوق الطبع والنشر© {{year}} Oliv. جميع الحقوق محفوظة."
+    }
+  },
+  "accessPermissions": {
+    "button": "ادعو المرشحين للتقدم للوظائف عن طريق شراء البحث عن السير الذاتية",
+    "filter": "قم بترقية عضويتك للوصول.",
+    "accessAlertModal": {
+      "title": "الوظيفة غير متاحة",
+      "description": "<0> هذا حساب تجريبي. لقد أنشأناه لنوضح لك كيف يمكنك استخدام Oliv لنشر مهام، وعرض الحسابات الشخصية، وإدارة مقدمي الطلبات، وحتى بناء علامة صاحب العمل مع مجتمعنا.</0><1> سيتواصل فريقنا بك قريباً لإرشادك إلى خططنا والإجابة عن أي أسئلة قد تكون لديك.</1><2> لا تريد الانتظار؟ <1>{t('common.talkToSales')}</1>أو اتصل على <1>{{supportPhoneNumber}}</1>.</2>",
+      "seeMoreCandidates": "قم بترقية عضويتك للوصول."
+    }
+  },
+  "candidatesPage": {
+    "heading": "وسيلة أفضل لبدء مسيرتك المهنية. أخيراً.",
+    "headingMore": "البحث عن فرص تدريب، وظائف بدوام جزئي و وظائف لحديثي التخرج مع منصة توظيف تهتم بكل عملائها.",
+    "placeholder": "جرّب عناوين الوظائف أو التخصصات أو الكلمات الرئيسية.",
+    "search": "البحث عن الوظائف",
+    "lookingTalents": "هل تريد توظيف أفضل المواهب؟",
+    "forEmployers": "لأصحاب العمل",
+    "brandsOliv": "أكثر من 1000 شركة تستخدم Oliv لتوظيف الطلاب والخريجين الجدد",
+    "switchButtons":{
+      "firstOption": "مُرَشَّح",
+      "secondOption": "أصحاب العمل"
+    },
+    "ctaButtons": {
+      "postJob": "أصحاب العمل",
+      "createProfile": "إنشاء حساب شخصي"
+    },
+    "whyOliv": {
+      "moreAbout": "لماذا Oliv ستعجبك؟",
+      "findHeading": "وظائف تلائمك",
+      "findHeadingMore": "قم بإنشاء حساب شخصي على Oliv وسنعمل على مطابقة مهاراتك وخبراتك مع الفرص الموجودة المناسبة.",
+      "supportHeading": "ناس حقيقيون، دعم حقيقي ",
+      "supportHeadingMore": "فريقنا المتخصص راح يساعدك في كل خطوة في مشوار طريقك للتوظيف، و راح نوفر لك مشورة خبرائنا ومواردنا لبدء مسيرتك المهنية.",
+      "easyHeading": "تقديم طلبات العمل بشكل سهل",
+      "easyHeadingMore": "بمجرد قبولك على منصة Oliv، يمكنك البدء في التقديم على وظائفك المفضلة، وتتبع التقدّم في اجراءات التوظيف، وإعداد تنبيهات للوظائف."
+    },
+    "heroesSection": {
+      "heroesHeading": "تعرّف على أبطالنا",
+      "heroesHeadingMore": "يتم توظيف أفراد مثلك بشكل يومي في Oliv",
+      "heroesHeadingCTA": "تعرّف على مجتمعنا",
+      "ahmedName": "خالد",
+      "ahmedPosition": "خريج برامج التطوير",
+      "ahmedCompany": "مركز دبي للسلع المتعددة",
+      "ahmedAbout": "في غضون ساعة من تقديم طلب الحصول على الوظيفة، تواصل معي ممثلو Oliv وحصلت على موعد لمقابلة العمل في الأسبوع نفسه. كان موقع Oliv مفيداً للغاية وسريع الاستجابة، إنه أفضل مكان بالفعل ليتمكن الطلاب والخريجون من بدء مسيرتهم المهنية بكل سهولة.",
+      "hanaaName": "نعيمة",
+      "hanaaPosition": "متدربة",
+      "hanaaCompany": "كولجيت",
+      "hanaaAbout": "لقد وجدت البداية المثالية لمسيرتي المهنية في Oliv بعد مرور أيام قليلة على تخرجي! وقد شارك الفريق شخصياً في كل مراحل عملية تقديم الطلبات والتأكد من أن استلام الردود بسرعة، الأمر الذي أدى إلى عدم إضاعة أيّ وقت على الإطلاق. شكراً لكم على تخصيص الوقت لمساعدتي.",
+      "pavanName": "مقداد",
+      "pavanPosition": "متدرب",
+      "pavanCompany": "ماستر كارد",
+      "pavanAbout": "حصلت على فرصة للتدرب الداخلي مع ماستر كارد بفضل Oliv. وقد قدّم فريقهم نصائح مفيدة للغاية ووفروا دعماً كبيراً طوال الوقت. ليس لدي أدنى شك في أن Oliv سيبذل أقصى جهده لمساعدتك في الحصول على ما تبحث عنه وتحقيق أهدافك!",
+      "seeMoreStories": "اطلع على قصص أخرى"
+    },
+    "homepageCareerpro": {
+      "heading": "هل تريد الحصول على وظيفة أحلامك؟",
+      "description": "إذا أجبت <b>'نعم'</b>، فإن CareerPro مناسب لك! - خدمة يقودها الخبراء ستساعدك على ترتيب جميع مواد عملية التقديم الخاصة بك وتجهيزها لإبهار مديري التوظيف في غضون <b>6 ثوانٍ.<b/>",
+      "modal": {
+        "heading": "سيكون مديرو التوظيف حريصين على إجراء مكالمة معك للمقابلة، إذا قمت بكتابة وتحرير مواد عملية التقديم الخاصة بك بواسطة خبراء CareerPro!",
+        "description": "فقط أخبرنا عنك وسنقوم بتجهيز جميع المواد لك لتضع قدمك في الباب! فلماذا الانتظار؟👇🏼"
+      }
+    },
+    "ctaSection": {
+      "headingEasyFree": "البداية سهلة. ومجانية بالكامل، بشكل دائم.",
+      "headingPlaceholder": "أدخل بريدك الالكتروني",
+      "headingButton": "ابدأ"
+    },
+    "coursesSection": {
+      "heading": "طوّر مهاراتك مع دوراتنا المجانية.",
+      "description": "أكاديمية Oliv مركز تعليمي فيها دورات مجانية مصممة لمساعدتك على بدء مسيرتك المهنية - تساعدك على كتابة السيرة الذاتية وخطابات العمل وإعداد المقابلات وغير ذلك الكثير.",
+      "cvCourse": {
+        "heading": "مبادئ كتابة السيرة الذاتية",
+        "description": "فرق التوظيف في الشركات تراجع السير الذاتية بمعدل 6 إلى 8 ثوانٍ فقط. ايش راح تكتب على شان تلفت انتباههم؟ ابتكرنا هذا لمساعدتكم..."
+      },
+      "interviewCourse": {
+        "heading": "إجراء المقابلات والمتابعة",
+        "description": "دورة سريعة مؤلفة من 11 خطوة لمساعدة الطلاب والخريجين الجدد في التحضير، والتدريب، وإجراء المقابلات الوظيفية، والمتابعة مع الشركات..."
+      },
+      "free": "Free",
+      "viewCourse": "عرض الدورة"
+    },
+    "promotedJobOffersSection": {
+      "heading": "منصة Oliv عبارة عن شجرة تتبرعم عليها الوظائف، شفت كيف مسوين تشبيه و حركات لأن اسم الشركة زيتون",
+      "cta": "المزيد من الوظائف"
+    }
+  },
+  "jobOfferApplications": {
+    "selectedApplicants": "اختر {{count}} مرشحين",
+    "selectedApplicants_plural": "{{count}}  طلبات تقديم مختارة"
+  },
+  "files": {
+    "downloading": "يتم تحميل الملفات. ستتم إعادة توجيهك تلقائياً إلى المشاركات المهمة في غضون{{timeout}}  ثانية.",
+    "candidateDownloading": "ستتم إعادة توجيهك تلقائياً إلى لوحة البيانات المهمة في غضون{{timeout}}  ثانية."
+  },
+  "navLinks": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "forEmployers": "لأصحاب العمل"
+  },
+  "resetPassword": {
+    "init": {
+      "send": {
+        "title": "أدخل عنوان بريدك الالكتروني.",
+        "text": "ستتلقى رسالة بريد إلكتروني تحتوي على تعليمات لمساعدتك في إعادة تعيين كلمة المرور الخاصة بك."
+      },
+      "success": {
+        "title": "لقد أرسلنا لك رسالة بالبريد الإلكتروني.",
+        "text": " لقد أرسلنا رسالة بريد إلكتروني إلى<1><0>{{email}}</0></1>مع رابط لمساعدتك على إعادة تعيين كلمة المرور الخاصة بك. تحقق من مجلد الرسائل غير المرغوب فيها في حال لم يصلك أيّ تنبيه.",
+        "wrongEmail": "لقد أدخلت البريد الإلكتروني الخاطئ.",
+        "resendEmail": " لم تستلم البريد الإلكتروني؟<1>اضغط هنا</1>وسنرسله مرة أخرى."
+      }
+    },
+    "finish": {
+      "title": "إعادة تعيين كلمة المرور",
+      "text": "أدخل كلمة المرور السرية (6 رموز كحد أدنى)"
+    }
+  },
+  "candidatesList": {
+    "starRatingHover": "{{value}} نجمة أو أكثر",
+    "starRatingHoverMax": "{{value}} نجمة",
+    "sortDropdown": {
+      "Candidates": "الصلة",
+      "CandidatesByLoggedInAtDesc": "آخر تسجيل دخول"
+    }
+  },
+  "jobOffersList": {
+    "title": "البحث عن وظائف التدريب والدراسات العليا",
+    "sortDropdown": {
+      "JobOffers": "الصلة",
+      "jobOffersByPublishedAtDesc": "التاريخ"
+    },
+    "emptyState": "للأسف ، لا توجد وظائف حالياً تطابق بحثك.",
+    "emptyStateMobile": {
+      "title": "لا توجد نتائج",
+      "description": "حاول إزالة الفلاتر أو إعادة صياغة بحثك"
+    },
+    "checkAvailableJobs": "تحقق من الوظائف المتاحة"
+  },
+  "applicantsList": {
+    "sortDropdown": {
+      "Candidates": "الصلة",
+      "CandidatesByApplicationDate": "التاريخ"
+    }
+  },
+  "candidate": {
+    "dashboard": {
+      "notApprovedNotification": {
+        "below": "يجب عليك إكمال 80% على الأقل من حسابك الشخصي للحصول على الموافقة.",
+        "above": "لقد وافقنا على حسابك الشخصي، ولكن قد يستغرق الأمر من يومين إلى 3 أيام. راسلنا عبر البريد الإلكتروني على {{email}} وسنقوم بذلك على الفور!"
+      }
+    },
+    "settings": {
+      "renewalDate": "تاريخ التجديد",
+      "expiryDate": "تاريخ الانتهاء",
+      "applicationBoost": "تعزيز تقديم الطلبات",
+      "messagesToEmployer": "مراسلة صاحب العمل",
+      "membershipDetails": "تفاصيل العضوية",
+      "emailAndPassword": "كلمة المرور/البريد الإلكتروني",
+      "notifications": "التنبيهات",
+      "cancelSuccess": "تم إلغاء اشتراكاتك بنجاح",
+      "cancelError": "حدث خطأ ما. أعد المحاولة من فضلك",
+      "cancelSubscriptionModal": {
+        "title": " هل تريد بالتأكيد إلغاء عضويتك في Oliv Plus؟",
+        "description": "من خلال إلغاء عضويتك، ستظل تحسينات التطبيق غير المستخدمة والرسائل قابلة للاستخدام فقط حتى نهاية دورة الفوترة الحالية. بعد ذلك، سيبقى أي من تطبيقاتك ورسائلك المعززة لأصحاب العمل على حالها. إذا كنت ترغب في استئناف Oliv Plus، فستحتاج إلى بدء عضوية جديدة بعد نهاية دورة الفوترة الحالية",
+        "cancelButton": "لا، شكراً",
+        "submitButton": "نعم، إلغاء"
+      },
+      "alerts": {
+        "inactive": "Your membership is inactive. <1>Start a new membership</1> to resume Oliv Plus."
+      }
+    },
+    "shareProfile": "اطلع على ملفي المهني على#Oliv ، المنصة المهنية المصممة للشباب",
+    "applyForJob": {
+      "shareFilesInfo": "التقديم لهذه الوظيفة، يعني مشاركة حسابك الشخصي في Oliv، والأرقام وطلب الوظيفة والسيرة الذاتية المرفقة مع هذه الشركة"
+    },
+    "publicProfileTitle": "{{firstName}} الحساب المهني",
+    "jobAlerts": {
+      "guestTitle": "اشترك لإنشاء تنبيهات الوظائف",
+      "guestDescription": " تساعدك تنبيهات الوظائف في الحصول على إعلامات حول الوظائف الجديدة التي تطابق تفضيلاتك، حتى لا تفوتك فرصة",
+      "title": "تنبيهات الوظائف",
+      "description": "تساعد اهتماماتك المهنية في تحديد الوظائف التي يُنصح بها",
+      "emptyState": "لا تنبيهات وظائف بعد",
+      "disabledButtonTooltip": "ابدأ بإدخال كلمة رئيسية أو عبارة في شريط البحث لإنشاء تنبيهات الوظائف"
+    },
+    "savedJobs": {
+      "guestTitle": "قم بالتسجيل لحفظ الوظائف في وقت لاحق",
+      "guestDescription": " انضم إلى Oliv واحفظ الوظائف المميزة حتى لا يفوتك الوصول إلى جميع الوظائف المحفوظة في أي وقت وفي أي مكان",
+      "title": "الوظائف المحفوظة",
+      "emptyState": "لا توجد وظائف محفوظة بعد"
+    },
+    "completeProfile": {
+      "stepCounter": "الخطوة {{value}} من {{total}}",
+      "preferences": {
+        "title": " مرحباً! ما الفرص التي تبحث عنها",
+        "description": "أخبرنا بنوع الفرص التي تلاحقها حتى نتمكن من مطابقتها بالفرصة المناسبة"
+      },
+      "education": {
+        "title": "ما دراستك؟",
+        "description": "أخبرنا ما تعلمته",
+        "studentOrGraduate": "طالب أو خريج",
+        "educationLevelLabel": "ما هو أعلى مستوى تعليمي؟",
+        "addEducationDetails": "أضف التفاصيل حول تعليمك"
+      },
+      "experience": {
+        "title": " ما هي تجربتك",
+        "description": "أخبرنا عن تجربتك المهنية السابقة و العمل التطوعي أو شغفك",
+        "addWorkExperience": "إضافة خبرة العمل",
+        "workExperienceLabel": "هل لديك أي خبرة في العمل",
+        "addSkills": "أضف مهاراتك",
+        "addVolunteering": "أضف نشاطاتك التطوعية أو مشاريع تشعر بالشغف تجاهها",
+        "addVolunteeringDescription": " كيف تقضي وقتك عندما لا تكون في العمل أو المدرسة"
+      },
+      "about": {
+        "title": "أخبرنا عن نفسك",
+        "description": "ساعدنا في التعرف عليك بشكل أفضل قليلاً",
+        "addProfilePhoto": "أضف صورة حسابك الشخصي",
+        "addProfilePhotoDescription": " قم بتحميل صورة مع صورتك لا تتجاوز 5 ميجابايت ولديها أحد الامتدادات التالية png, jpg, jpeg",
+        "addCv": "أضف سيرتك الذاتية",
+        "aboutYou": "نبذة عني",
+        "aboutYouDescription": " عرّف عن نفسك وأهدافك المهنية ونوع الأدوار التي تبحث عنها. هذا هو أول ما يقرأه أصحاب العمل عنك - أخبر قصتك واجعلها ممتعة",
+        "addLanguages": "إضافة لغات",
+        "addAvailability": "إضافة التوفر",
+        "addAvailabilityDescription": "حدد مدى توفرك لمدة 90 يومًا من اليوم. نوصي بتحديث هذا باستمرار",
+        "notifications": "الإشعارات",
+        "aboutMeNotification": "لقد أنشأنا عبارة 'نبذة عني' من أجلك. لا تتردد في تعديله - وجعله يعبر عنك اكثر"
+      }
+    },
+    "profile": {
+      "reachMoreEmployers": "الوصول إلى المزيد من أصحاب العمل",
+      "visibility": {
+        "label": "مدى إمكانية رؤية الحساب الشخصي",
+        "description": " يسمح لك الحساب العام بمشاركة حسابك وإتاحته عبر محركات البحث. لا يتم عرض تفاصيل الاتصال والبيانات الحساسة الأخرى",
+        "preview": "معاينة حسابك الشخصي العام"
+      },
+      "share": {
+        "label": "مشاركة الحساب"
+      },
+      "education": {
+        "addEducation": "إضافة تعليم"
+      },
+      "experience": {
+        "addExperience": "إضافة تجربة"
+      },
+      "certificates": {
+        "addCertificate": "إضافة شهادة"
+      },
+      "volunteering": {
+        "addVolunteering": "إضافة تجربة تطوع"
+      },
+      "language": {
+        "addLanguage": "إضافة لغة"
+      },
+      "skills": {
+        "addSkills": "إضافة مهارات"
+      },
+      "cvFiles": {
+        "addCvFile": "إضافة ملف سيرة ذاتية",
+        "resume": "متابعة"
+      },
+      "additionalDocuments": {
+        "addAdditionalDocument": "إضافة ملف إضافي"
+      },
+      "interests": {
+        "addInterests": "إضافة اهتمامات"
+      },
+      "websites": {
+        "addWebsites": "إضافة مواقع"
+      },
+      "socialLinks": {
+        "addSocialLinks": "إضافة روابط اجتماعية",
+        "social": "التواصل الاجتماعي"
+      },
+      "careerPreferences": {
+        "title": "تحدد تفضيلاتك الوظائف التي ننصح بها"
+      }
+    }
+  },
+  "videoUploadNotice": {
+    "heading": "تم تحميل الفيديو بنجاح",
+    "description": " قد يستغرق الأمر بضع دقائق حتى يظهر في حسابك الشخصي."
+  },
+  "tooltips": {
+    "bulkOperations": {
+      "invite": "دعوة لمقابلة عمل",
+      "downloadCVs": "تنزيل السير الذاتية",
+      "sendMessage": "إرسال رسالة"
+    },
+    "teamMemberAccess": {
+      "jobPostBuy": " لا يمكن شراء منشورات الوظيفة إلا من قِبل المشرف {{adminFullName}} لحساب {{organisationName}}.",
+      "cvSearchBuy": " لا يمكن شراء البحث عن السير الذاتية إلا بواسطة المشرف {{adminFullName}} لحساب {{organisationName}}."
+    }
+  },
+  "socialMedia": {
+    "linkedin": "لينكد إن",
+    "twitter": "تويتر"
+  },
+  "reassessment": {
+    "request": " هل قمت بتحسينات كبيرة في حسابك الشخصي؟ <1>طلب مراجعة الحساب الشخصي</1> للحصول على تصنيف أعلى",
+    "waiting": " تلقى فريقنا طلبك لإعادة التقييم وسنقوم بالرد قريباً.",
+    "askForReassessment": "طلب التقييم"
+  },
+  "rejectedCandidateBox": {
+    "title": "تم رفض حسابك الشخصي",
+    "cannotApply": "<0>لا يمكنك التقدم بطلب للحصول على وظائف حيث تم رفض حسابك الشخصي.</0><1> عرض الرسالة </1>",
+    "content": "لا يتوافق حسابك الشخصي مع معايير Oliv المطلوبة لتفعيل الحساب الشخصي.",
+    "fullMessage": "<0>ربما تم رفض حسابك الشخصي للأسباب التالية:</0><1><0>لا يتوافق حسابك الشخصي مع معايير Oliv المطلوبة لتفعيل الحساب الشخصي.</0><1>تمتلك سنتين أو أكثر من الخبرة في العمل.</1></1><2>نحاول جاهدين أن نضمن حصول طلابنا والخريجين الجدد على فرصة عادلة لإثبات أنفسهم وبدأ وظائفهم، وهذا يتضمن العديد من عمليات الفحص والتحقق.</2><3>نقبل خبرة لمدة سنتين كحد أقصى كقاعدة عامة في أن تكون عضواً في مجتمع Oliv، هناك استثناءات للقاعدة في ظروف خاصة؛ لذا يمكننا إنشاء منطقة آمنة لمرشحينا حيث لا يشعرون بالخوف للتقدم إلى جانب المحترفين وذوي الخبرة.</3><4>أي نوع من الخبرة في مكان العمل لأكثر من 2 سنوات يحمل الكثير من القيمة من تلقاء نفسه ويعطيك ميزة غير عادلة على بقية مجتمعنا ولهذا السبب لا يمكننا الموافقة على حسابك الشخصي، ونأمل أن تقدّم الأمر، يرجى إخبارنا إذا كان بإمكاننا الرد على أي أسئلة أو استفسارات قد تكون لديك.</4><5>بحث موفق.</5>"
+  },
+  "mainNavigation": {
+    "employer": {
+      "hiring": {
+        "heading": "الحلول",
+        "description": "جذب الطلاب الموهوبين والخريجين الجدد"
+      },
+      "eventStaffing": {
+        "heading": "التوظيف للفعاليات",
+        "description": "كل ما تحتاجه لجذب المتطوعين والمروجين"
+      },
+      "emiratisation": {
+        "heading": "التوطين",
+        "description": "أسلوب أفضل لتحقيق أهدافك في عملية التوطين"
+      },
+      "saudization": {
+        "heading": "السعودة",
+        "description": "التوظيف من طرف إلى طرف من قبل متخصصي المواهب في المملكة العربية السعودية"
+      },
+      "customerStories": {
+        "heading": "قصص العملاء",
+        "description": "اطلع كيف ساعدت شركة Oliv الشركات المختلفة على جذب أبرز المواهب"
+      },
+      "helpCenter": {
+        "heading": "مركز المساعدة",
+        "description": "تعلم كيفية نشر الوظائف، وجذب أفضل المواهب والتوظيف على Oliv"
+      },
+      "careers": {
+        "heading": "الوظائف",
+        "description": "هل أنت مهتم بتقديم المزيد من الفرص للشباب الواعدين؟ ابدأ هنا"
+      },
+      "employerBlog": {
+        "heading": "مدونة صاحب العمل",
+        "description": "النصيحة والموارد للمساعدة في تنمية عملك"
+      },
+      "servicesStatus": {
+        "jobPost": "وظيفة باقية",
+        "jobPosts": "وظائف باقية",
+        "noJobPosts": "لا توجد وظائف باقية",
+        "jobSlot": "وظيفة شاغرة باقية",
+        "jobSlots": "وظائف شاغرة باقية",
+        "noJobSlots": "لا توجد وظائف شاغرة باقية",
+        "upgrade": "ترقية",
+        "buyJobPosts": "شراء منشورات",
+        "unlimitedJobSlots": "وظائف شاغرة غير محدودة",
+        "unlimitedJobPosts": "منشورات وظائف غير محدودة",
+        "credits": "{{remainingCredits}} من {{creditsMaxAmount}} اتصالات باقية هذا الشهر"
+      }
+    },
+    "candidate": {
+      "services": {
+        "applicationBoosts": {
+          "title": "تعزيزات طلبات التقديم",
+          "status": "{{count}} تعزيز باقٍ هذا الشهر",
+          "status_plural": "{{count}} تعزيزات باقية هذا الشهر"
+        },
+        "messagesToEmployer": {
+          "title": "مراسلة أصحاب العمل",
+          "status": "{{count}} رسالة باقية هذا الشهر",
+          "status_plural": "{{count}} رسائل باقية هذا الشهر"
+        }
+      },
+      "courses": {
+        "heading": "الأكاديمية",
+        "description": "دورات مجانية على الإنترنت لتقديم الدعم"
+      },
+      "blog": {
+        "heading": "مدونة",
+        "description": "أدلة ونماذج ونصائح للمساعدة في بدء مسيرتك المهنية"
+      },
+      "aboutOliv": {
+        "heading": "نبذة عن Oliv",
+        "description": "اعرف المزيد عن فريقنا وما نحاول القيام به"
+      },
+      "careers": {
+        "heading": "الوظائف",
+        "description": "هل أنت مهتم بتقديم المزيد من الفرص للشباب الواعدين؟ ابدأ هنا"
+      },
+      "support": {
+        "heading": "اتصل",
+        "description": " كل ما تحتاجه للبدء وإتقان Oliv"
+      }
+    },
+    "seo": {
+      "companyProfile": {
+        "title": "وظائف على {{name}}"
+      },
+      "jobDetails": {
+        "title": "وظيفة {{title}} على {{organisationName}} في{{city}}  - Oliv"
+      },
+      "jobOffers": {
+        "title": "منشورات الوظائف"
+      },
+      "jobLinks": {
+        "internships": {
+          "title": " التدريب حسب المجال والقسم - Oliv",
+          "description": " البحث عن التدريب حسب المجال وحسب القسم في Oliv. تساعد Oliv الطلاب والخريجين الجدد مثلك في العثور على وظائف بدوام جزئي والتدريب الداخلي ووظائف الخريجين الجدد"
+        },
+        "graduate-jobs": {
+          "title": " وظائف الخريجين حسب المجال والقسم - Oliv",
+          "description": " البحث عن وظائف الخريجين حسب المجال وحسب القسم في Oliv. تساعد Oliv الطلاب والخريجين الجدد مثلك في العثور على وظائف بدوام جزئي والتدريب الداخلي ووظائف الخريجين."
+        }
+      }
+    }
+  },
+  "mobileBottomNavigation": {
+    "searchJobs": "البحث عن الوظاف",
+    "myApplications": "طلبات التقديم الخاصة بي",
+    "messages": "الرسائل",
+    "profile": "الحساب الشخصي"
+  },
+  "seo": {
+    "companyProfile": {
+      "title": " التدريب ووظائف الخريجين في {{name}} - Oliv"
+    },
+    "jobDetails": {
+      "title": "{{title}} وظيفة في {{organisationName}} في {{city}} — Oliv"
+    },
+    "jobOffers": {
+      "title": "منشورات الوظائف"
+    },
+    "jobLinks": {
+      "internships": {
+        "title": " التدريب حسب المجال والقسم - Oliv",
+        "description": " البحث عن التدريب حسب المجال وحسب القسم في Oliv. تساعد Oliv الطلاب والخريجين الجدد مثلك في العثور على وظائف بدوام جزئي والتدريب الداخلي ووظائف الخريجين الجدد"
+      },
+      "graduate-jobs": {
+        "title": " وظائف الخريجين حسب المجال والقسم - Oliv",
+        "description": " البحث عن وظائف الخريجين حسب المجال وحسب القسم في Oliv. تساعد Oliv الطلاب والخريجين الجدد مثلك في العثور على وظائف بدوام جزئي والتدريب الداخلي ووظائف الخريجين."
+      }
+    }
+  },
+  "notFoundPage": {
+    "header": "أوه لا!",
+    "description": "لم نتمكن من إيجاد الصفحة التي تبحث عنها",
+    "ctaButton": {
+      "employer": "انتقل إلى وظائفي",
+      "candidate": "انتقل إلى لوحة البيانات",
+      "guest": "انتقل إلى الصفحة الرئيسية"
+    }
+  },
+  "privateProfilePage": {
+    "header": "الحساب الشخصي الخاص",
+    "description": "لسوء الحظ، تم الآن تمييز حساب المرشح على أنه خاص",
+    "ctaButton": {
+      "employer": "انتقل إلى وظائفي",
+      "candidate": "انتقل إلى لوحة البيانات",
+      "guest": "انتقل إلى الصفحة الرئيسية"
+    }
+  },
+  "errorBoundary": {
+    "header": "لقد أجرينا بعض التحديثات",
+    "description": "هناك إصدار أحدث من المنصة",
+    "cta": "التحديث الآن"
+  },
+  "thankYouPage": {
+    "candidate": {
+      "header": "شكراً لتأكيد حسابك!",
+      "description": " تم التحقق من حسابك بنجاح. يرجى الانتظار لحظات بينما نعد لوحة البيانات الخاصة بك."
+    },
+    "employer": {
+      "header": " شكراً للتسجيل مع Oliv!",
+      "description": " تم إنشاء حسابك بنجاح. يرجى الانتظار لمدة {{secondsRemaining}} أثناء إعداد لوحة المعلومات الخاصة بك"
+    }
+  },
+  "deleteAccount": {
+    "confirmation": {
+      "form": {
+        "label": "اكتب '{{confirmWord}}' للتأكيد"
+      }
+    },
+    "candidate": {
+      "description": "هل تريد حذف حسابك نهائياً؟",
+      "button": "حذف حسابي",
+      "preConfirmation": {
+        "title": "حذف حساب",
+        "description": " هل أنت متأكد من أنك تريد حذف حسابك الشخصي على Oliv؟ بمجرد الانتهاء من ذلك، سيتم إزالة حسابك الشخصي وجميع تطبيقاتك<1> بشكل دائم </1>من Oliv.",
+        "cancel": "لا، المتابعة باستخدام Oliv",
+        "submit": "نعم، حذف حسابي"
+      },
+      "confirmation": {
+        "title": "تأكيد",
+        "description": "كإجراء احترازي، نود فقط التأكد من أنك لم تضغط على حذف عن طريق الخطأ. يرجى ملاحظة أن هذا الإجراء لا يمكن التراجع عنه. بمجرد حذف حسابك، لا يمكن استرجاع جميع معلومات حسابك الشخصي وتطبيقاتك السابقة وسيتم الحذف<1>بشكل دائم</1>من Oliv. هل أنت متأكد من أنك تريد حذف حسابك الشخصي على Oliv؟",
+        "cancel": "إلغاء",
+        "submit": "نعم، أنا متأكد"
+      }
+    },
+    "employer": {
+      "description": " هل تريد حذف حسابك بشكل نهائي؟",
+      "button": "حذف حسابي",
+      "preConfirmation": {
+        "title": "حذف حساب",
+        "description": "هل أنت متأكد من أنك تريد حذف حسابك الشخصي على Oliv ؟ بمجرد الانتهاء من ذلك، سيتم إزالة حسابك الشخصي وجميع تطبيقاتك <1>بشكل دائم </1>من Oliv.",
+        "cancel": "لا، المتابعة باستخدام Oliv",
+        "submit": "نعم، حذف حسابي"
+      },
+      "confirmation": {
+        "title": "تأكيد",
+        "description": "كإجراء احترازي، نود فقط التأكد من أنك لم تضغط على حذف عن طريق الخطأ. يرجى ملاحظة أن هذا الإجراء لا يمكن التراجع عنه. بمجرد حذف حسابك، لا يمكن استرجاع جميع معلومات حسابك الشخصي وتطبيقاتك السابقة وسيتم الحذف<1>بشكل دائم </1>من Oliv. هل أنت متأكد من أنك تريد حذف حسابك الشخصي على Oliv؟",
+        "cancel": "إلغاء",
+        "submit": "نعم، أنا متأكد"
+      }
+    }
+  },
+  "manageAccount": {
+    "manageYourData": "إدارة بياناتك",
+    "exportData": {
+      "description": " يمكنك تصدير جميع البيانات الشخصية التي نشرتها على Oliv.",
+      "exportData": "تصدير البيانات",
+      "exportDataSuccess": {
+        "title": "تصدير بياناتك",
+        "description": "تم الأمر بنجاح! يرجى التحقق من صندوق البريد الإلكتروني الخاص بك. تم إرسال رابط لتنزيل البيانات التي تم تصديرها إلى البريد الإلكتروني المسجل المرفق."
+      },
+      "exportDataFailed": "لم يتم التصدير. يرجى المحاولة لاحقاً."
+    }
+  },
+  "timeSlots": {
+    "chooseTimeSlot": " حدد الوقت الذي يناسبك بشكل أفضل. يمكنك دائماً الاتصال بصاحب العمل عبر الدردشة للعثور على يوم ووقت آخر للمقابلة.",
+    "requestChange": "طلب شاغر زمني مختلف",
+    "acceptWithTimeSlotDefaultMessage": "لقد قبل {{firstName}} طلب المقابلة لمنصب {{jobOfferTitle}} في </ br>{{timeSlot}}",
+    "bulkTimeSlotsInfo": " إذا كنت ترغب في أوقات شاغرة للمتقدمين لديك، فعليك أن تدعوهم بشكل فردي"
+  },
+  "interviewInviteResponds": {
+    "accept": "لقد قمت بقبول طلب الدعوة للمقابلة",
+    "reject": "لقد قمت برفض طلب الدعوة للمقابلة"
+  },
+  "appNotifications": {
+    "newVersion": {
+      "description": "تحديث جديد متاح! يرجى تحديث الصفحة لعرض التغييرات الجديدة",
+      "cta": "تحديث"
+    },
+    "offline": {
+      "description": "يبدو أنك غير متصل"
+    }
+  },
+  "filters": {
+    "labels": {
+      "rating": "تصنيف الحساب الشخصي: {{value}}",
+      "availableNow": "متوفر الآن",
+      "hasVideoCv": "فيديو السيرة الذاتية"
+    }
+  },
+  "jobAlertsFrequency": {
+    "instant": "فوري",
+    "daily": "يومي",
+    "weekly": "أسبوعي"
+  },
+  "jobsLinks": {
+    "internshipsByDepartment": {
+      "title": "التدريب حسب القسم",
+      "description": "<0>أو اعرض </0><1>وظائف الخريجين حسب القسم<1></1></1>"
+    },
+    "internshipsByIndustry": {
+      "title": "التدريب حسب المجال",
+      "description": "<0>أو اعرض </0><1>وظائف الخريجين حسب المجال<1></1></1>"
+    },
+    "graduateJobsByDepartment": {
+      "title": "وظائف الخريجين حسب القسم",
+      "description": "<0>أو اعرض </0><1>التدريب حسب القسم<1></1></1>"
+    },
+    "graduateJobsByIndustry": {
+      "title": "وظائف الخريجين حسب المجال",
+      "description": "<0>أو اعرض </0><1>التدريب حسب المجال<1></1></1>"
+    }
+  },
+  "notifications": {
+    "candidate": {
+      "searchJobsWithIncompleteProfile": "<0>أكمل</0> حسابك من أجل تقديم الطلبات",
+      "profileReview": {
+        "title": "حسابك قيد المراجعة",
+        "description": " سيتم إرسال طلبك إلى {{organisationName}} بمجرد الموافقة على حسابك الشخصي "
+      },
+      "approvedProfileVisibility": " سيتم عرض طلبك من قبل أصحاب العمل بمجرد الموافقة على حسابك الشخصي",
+      "keepUpToDate": "احرص على تحديث حسابك الشخصي من أجل الحصول على فرص العمل المناسبة",
+      "failedPayment": "Uh oh! There was a problem processing your payment. Please update your <1><0><0>credit card details</0></0></1>.",
+      "updateSalaryRange": "Please <1>update your salary</1> expectations so that we can find you jobs that match you best."
+    }
+  },
+  "olivPlus": {
+    "navTitle": "Oliv Plus",
+    "checkHelpCenter": "للمزيد من المعلومات، تحقق من",
+    "helpCenter": "مركز المساعدة",
+    "smartPopUp": {
+      "externalJobMessageWarning": " بما أنك تقدمت مباشرة إلى صاحب العمل، فأنت غير قادر على إرسال مراسلتهم عبر Oliv",
+      "externalJobBoostWarning": "نظرًا لأنك تقدمت مباشرة إلى صاحب العمل، فأنت غير قادر على تعزيز طلبك",
+      "boostMyApplication": "تعزيز طلبي",
+      "boostButton": "تعزيز!",
+      "messagesLeft": "{{count}} من {{total}} رسالة باقية هذا الشهر",
+      "boostsLeft": "{{count}} من {{total}} تعزيز باقٍ هذا الشهر",
+      "standOutToEmployers": " ميّز نفسك أمام أصحاب العمل مع Oliv Plus",
+      "alreadyBoosted": "لقد عززت بالفعل هذا الطلب",
+      "applicationDeclined": "أنت غير قادر على التعزيز لأن طلبك لم يتم بنجاح",
+      "messageDeclined": "غير قادر على إرسال رسالة إلى صاحب العمل نظرًا لعدم نجاح طلبك",
+      "confirmBoost": {
+        "remainingBoosts": " لديك {{count}} تحسينات لحسابك الشخصي هذا الشهر ",
+        "description": " هل ترغب في استخدام أحد التعزيزات لحسابك الشخصي لميزة التطبيق الخاص بك لهذا المنصب الوظيفي؟",
+        "applyWithBoost": "قدّم طلبك مع تعزيز",
+        "outOfBoosts": " لقد نفدت التعزيزات لهذا الشهر. ولكن لا داعي للقلق، فستتلقى تعزيزات إضافية عند تجديد Oliv Plus في {{formattedDate}}"
+      }
+    },
+    "boostYourApplication": " عزز طلبك إلى أعلى القائمة باستخدام Oliv Plus",
+    "learMore": " تعرف على المزيد حول Oliv Plus",
+    "premiumTooltip": " هذا المتقدم هو عضو متميز بريميوم. يدعم الأعضاء المتميزون لدينا بشكل نشط نمو مجتمع Oliv ونظام دعم المرشحين من خلال عضويتهم الشهرية",
+    "welcomeSection": {
+      "header": " احصل على ضعف الانتباه مع Oliv Plus",
+      "description": "تعزيز طلباتك ونقلها إلى أعلى القائمة وإرسال رسائل مباشرة إلى أصحاب عمل تم التحقق منهم",
+      "isActive": " Oliv Plusنشط",
+      "membershipDetailsButton": " تفاصيل عضوية Oliv Plus",
+      "getOlivPlus": "احصل على Oliv Plus مقابل {{formattedPrice}}/شهرياً",
+      "needSupport": "بحاجة إلى دعم؟",
+      "getInTouch": "Get in touch with us at",
+      "callUsAt": "تواصل معنا",
+      "howItWorks": "هل تتساءل حول كيفية العمل؟",
+      "watchVideo": "شاهد الفيديو"
+    },
+    "benefitsSection": {
+      "header": " لماذا ستحب Oliv Plus؟",
+      "boostApplicationsTitle": "عزز طلباتك",
+      "boostApplicationsDesc": " عزز 5 من طلباتك للعمل كل شهر وانقلها مباشرة إلى أعلى القائمة! لتجذب انتباه أصحاب العمل المفضلين لديك",
+      "messageEmployersTitle": "مراسلة أصحاب العمل الذين تم التحقق منهم",
+      "messageEmployersDesc": " ابدأ المحادثات مع ما يصل إلى 5 من أصحاب العمل كل شهر. ميّز نفسك برسالة مخصصة تصل مباشرة لصندوق الوارد لصاحب العمل",
+      "supportTitle": "الحصول على دعم الأولوية",
+      "supportDesc": " احصل على أفضل نصيحة ودعم من فريق التوظيف المحلي المخصص لدينا، عبر الهاتف والبريد الإلكتروني 5 أيام في الأسبوع"
+    },
+    "companiesSection": {
+      "header": " تم توظيف أعضاء Oliv Plusمن قبل بعض من أفضل العلامات التجارية والشركات شهرة في العالم",
+      "description": " تستخدم أكثر من 1000 شركة Olivلتوظيف الطلاب والخريجين الجدد"
+    },
+    "ctaSection": {
+      "header": " تميز عن غيرك أمام أصحاب العمل مع Oliv Plus",
+      "subscribeToday": "اشترك اليوم مع إمكانية الإلغاء في أي وقت"
+    },
+    "testimonialsSection": {
+      "testimonial1": {
+        "author": "Nouran ElMedany",
+        "jobDetails": " متدربة تصميم جرافيكي إبداعي في @ Turner Broadcasting ",
+        "description": " رحلة البحث عن عمل تشكل تحديًا للخريجين الجدد. يمكنك الضياع وسط كل الأدوار المتاحة وما الذي يجب أن يكون في سيرتك الذاتية، وكيفية تقديم نفسك.. يمكن أن يكون الأمر صعباً للغاية. لكن هذا كله قبل البدء بتقديم الطلبات عبر Oliv. تمنحك Oliv المساعدة التي تحتاجها لتميّز نفسك أمام أصحاب العمل بنصائح رائعة حول كيفية إتقان كتابة حسابك الشخصي وإتقان مقابلاتك. تقدّم لك Oliv الخطوة الأولى نحو وظيفة أحلامك"
+      },
+      "testimonial2": {
+        "author": "Jonathan Paulson",
+        "jobDetails": " متدرب لتنظيم المشاريع التسويقية في @ Startupbootcamp",
+        "description": " خلال الجامعة وخارجها، كانت Oliv تأتيني بفرص كبيرة في الشركات الكبرى. يقوم الفريق حقًا ببناء علاقة قيمة. لقد ملأوا فجوة مفقودة للعديد من المهنيين الشباب في بداية حياتهم المهنية."
+      },
+      "testimonial3": {
+        "author": "Mahitab El-Sawi",
+        "jobDetails": " متدرب في المحتوى التسويقي في @ Chalhoub Group",
+        "description": " لقد كانت Oliv مصدرًا رائعًا لفرص بدء المسيرة المهنية. ما يميز المنصة هو ردود أفعالهم المستمرة والتحديث الدائم، مما يوفر للمرشحين اتصالًا مستمرًا مميزًا، مما يجعلك تشعر بعناية فائقة."
+      },
+      "testimonial4": {
+        "author": "Mikaeel Khataw",
+        "jobDetails": " مساعدة لتطوير الأعمال في @ Oakwood International",
+        "description": " لقد كانت Oliv منصة رائعة بالنسبة لي كخريج جديد يبحث عن تدريب داخلي لتعزيز تجربتي. إنه النظام الأكثر موثوقية الذي استخدمته، وتم الاتصال بي من قبل المنظمات التي تقدمت إليها في فترة قصيرة من الزمن. الفريق في Oliv مفيد للغاية ومستعد دائمًا للمساعدة."
+      },
+      "testimonial5": {
+        "author": "Kaouther Akid",
+        "jobDetails": " منسق التسويق في @ Givaudan",
+        "description": " قدمت لي Oliv الكثير من المساعدة والدعم عندما كنت لا أزال خريجًا حديثًا بدون خبرة عمل في دولة الإمارات العربية المتحدة. بدأت عملي الحالي كمنسق تسويق ومصمم جرافيك في جيفودان كمتدرب داخلي من خلال Oliv. لذلك ، أنا ممتن للأبد. استمروا في هذا لأنّ جهودكم تحدث فرقًا فعليًا."
+      }
+    },
+    "notifications": {
+      "boostSuccess": "تم تعزيز التطبيق – إنه الآن أعلى القائمة!",
+      "boostError": "حدث خطأ ما أثناء تعزيز التطبيق. يرجى المحاولة مرة أخرى لاحقًا أو تواصل مع خدمة العملاء",
+      "messageSent": "تم إرسال الرسالة بنجاح إلى صاحب العمل",
+      "messageError": "فشل إرسال رسالتك. حاول مرة أخرى"
+    },
+    "employerMessageForm": {
+      "placeholder": "اكتب رسالتك هنا",
+      "label": "الرسالة",
+      "defaultMessage": " مرحبًا \n\n أنا مهتم حقًا بهذا الدور. \n\n أعتقد أنني سأكون ملائمًا للغاية / أحب أن أطرح بضعة أسئلة حوله .. \n\nأتطلع للسماع منك. \n\n مع أطيب التمنيات، {{fullName}}"
+    }
+  },
+  "olivia": {
+    "welcomeSection": {
+      "yourShortlistingAssistant": "مساعدك لإعداد القائمة المختصرة الخاصة بك",
+      "shortlistingDescription": " يجب أن تكون قائمة المرشحين الأفضل أفضل. تقوم Olivia بفحص جميع طلباتك الخاصة بالمرشحين الأكثر صلة وتتواصل مع الأفضل لتأكيد:",
+      "listItem1": "اهتمامهم وتوفرهم لوظيفتك",
+      "listItem2": "قدرتهم على التنقل أو الانتقال إلى موقع مكتبك",
+      "listItem3": "قبولهم للأجر المعلن",
+      "shortlistingSummary": " بعد ذلك، سيتم تقديم قائمتك المختصرة لتتمكّن من مراجعتها ويمكنك التواصل مع المرشحين المفضلين لديك"
+    },
+    "shortlistedByOlivia": {
+      "label": " تم الوضع في قائمة مختصرة من قبل Olivia",
+      "tooltip": " أوليفيا هو روبوت Oliv لإعداد القائمة المختصرة. يُطلب من المرشحين الذين لديهم حسابات شخصية ملائمة لوظيفتك تأكيد اهتمامهم وتوفرهم قبل إدراجهم في القائمة المختصرة"
+    }
+  },
+  "checkout": {
+    "labels": {
+      "card-number": {
+        "valid": "Card number",
+        "invalid": "Card number is invalid",
+        "empty": "Card number is a required field"
+      },
+      "expiry-date": {
+        "valid": "Expiry date",
+        "invalid": "Expiry date is invalid",
+        "empty": "Expiry date is a required field"
+      },
+      "cvv": {
+        "valid": "CVV",
+        "invalid": "CVV is invalid",
+        "empty": "CVV is a required field"
+      }
+    },
+    "makePayment": "Make payment",
+    "notifications": {
+      "success": "Your payment was successful! Your account will be automatically activated.",
+      "active": "You already have an active transaction.",
+      "error": "Something went wrong and your payment has not been proceeded. Please review your payment details and try again.",
+      "cancel": "Your payment has been cancelled"
+    },
+    "formHeader": "Enter payment details"
+  },
+  "contact": {
+    "phoneNumber": "اتصل بنا على:",
+    "email": "Need support? Reach us at"
+  },
+  "customPlans":{
+    "title" : "خطط مخصصة",
+    "description" : "هل تبحث عن شيء أكثر تحديدًا؟ في Oliv، تم تصميم حلول التوظيف لدينا لتبسيط عملية البحث عن المواهب، وتلبية احتياجات التوظيف الدقيقة الخاصة بك.",
+    "option" : "إضافات اختيارية",
+    "mediaPlans" : {
+      "point1": {
+        "heading" : "لقطات بريدية كبيرة للبيانات",
+        "dec": "يمكن لفريقنا إعداد رسائل بريد إلكتروني مستهدفة للمرشحين الأعلى تقييمًا الذين اخترتهم، مما يضمن جعل عملية التوظيف أسرع بثلاث مرات."
+      },
+      "point2": {
+        "heading" : "مطابقة المواهب",
+        "dec": "قم بتسليم المهمة الشاقة المتمثلة في غربلة السير الذاتية إلى خبراء التوظيف المخصصين لدينا على متن الطائرة وشاهد السحر يحدث!"
+      },
+      "point3": {
+        "heading" : "التوطين",
+        "dec": "تم تدريب فريقنا للعثور على أفضل المواهب الإماراتية من جميع أنحاء المنطقة، وتعزيز التمثيل الإماراتي داخل شركتك."
+      }
+    }
+  },
+  
+  "contactUsPage": {
+    "form": {
+      "heading":"اتصل بنا",
+      "title": "أبلغ عن الأخطاء، واطلب الميزات، واتصل بفريقنا للحصول على المساعدة في الحساب والفوترة.",
+      "full_name_label": "الاسم الكامل",
+      "full_name_placeholder": "أدخل اسمك الكامل",
+      "email_label": "بريد إلكتروني",
+      "email_placeholder": "أدخل بريدك الإلكتروني الكامل",
+      "phone_label": "رقم التليفون",
+      "phone_placeholder": "رقم التليفون",
+      "description_label": "وصف",
+      "description_placeholder": "تحدث عن المشكلة التي تواجهها",
+      "step1_btn_next": {
+        "invalid": "من فضلك املأ و تابع",
+        "valid": "التالي"
+      },
+      "submit_btn_text": "تقديم الطلب"
+    }
+  }
+
+}

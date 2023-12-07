@@ -1,0 +1,3334 @@
+{
+  "common": {
+    "cancelSubscription": "Cancel Subscription",
+    "undisclosed": "Undisclosed",
+    "contactNumber": "Contact number",
+    "emailAddress": "Email Address",
+    "saved": "Saved",
+    "savedJobs": "Saved jobs",
+    "keyword": "Keyword",
+    "preferences": "Preferences",
+    "emailFrequency": "Email frequency",
+    "seeMore": "See more",
+    "internshipsByDepartment": "Internships by department",
+    "internshipsByIndustry": "Internships by industry",
+    "graduateJobsByDepartment": "Graduate jobs by department",
+    "graduateJobsByIndustry": "Graduate jobs by industry",
+    "for": "for",
+    "created": "Created",
+    "saveSearchCriteriaSuccess": "You got it! Your search has been saved",
+    "saveSearchCriteriaError": "Something went wrong during save your search",
+    "drivingLicenseWithValue": "Driving license: {{value}}",
+    "update": "Mettre à jour",
+    "date": "Date",
+    "from": "De",
+    "to": "À",
+    "shareViaFacebook": "Partager sur Facebook",
+    "shareViaTwitter": "Partager sur Twitter",
+    "shareViaLinkedin": "Partager sur Linkedin",
+    "shareViaWhatsapp": "Partager sur WhatsApp",
+    "shareViaEmail": "Envoyer par e-mail",
+    "copyLink": "Copier lien",
+    "viewMessage": "Voir message",
+    "myApplications": "Mes applications",
+    "profileRating": "Classement profil",
+    "unlimited": "Illimité",
+    "completed": "terminé",
+    "addToFavourite": "Ajouter aux favoris",
+    "provideCompanyDetails": "Donnez les détails de l’entreprise",
+    "or": "ou",
+    "ok": "Ok",
+    "video": "Vidéo",
+    "gallery": "Galerie",
+    "socialProfiles": "Profils sociaux",
+    "readOurStory": "Lire notre histoire",
+    "showMore": "Afficher plus",
+    "viewMore": "View more",
+    "hideMore": "Hide more",
+    "searchResults": "Résultats de recherche",
+    "editJobOffer": "Modifiet annonce",
+    "backToAdmin": "Retourner au panneau d’administrateur",
+    "impersonatingUser": "Vous représentez",
+    "moveTo": "Aller à",
+    "cv": "CV",
+    "optional": "optionnel",
+    "privacyTerm": "En vous enregistrant vous confirmez accepter notre {{termsAndConditionsAndPrivacyPolicy}}.",
+    "termsAndConditionsAndPrivacyPolicy": "Politique de confidentialité et nos Termes et conditions",
+    "nationality": "Nationalité",
+    "dateOfBirth": "Date de naissance",
+    "gender": "Sexe",
+    "inviteToInterview": "Inviter à un entretien",
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "dashboard": "Tableau de bord",
+    "availability": "Disponibilité",
+    "thisIsDemoAccount": "Ceci est votre compte démo. Il a un accès limité aux recherches dans notre communauté et à la publication d’annonces.",
+    "profileCompletion": "Terminer profil",
+    "updateProfile": "Mettre le profil à jour",
+    "viewProfile": "Voir profil",
+    "seeRatingDetails": "Voir les détails de classement",
+    "changeDates": "Changer les dates",
+    "completeProfile": "Compléter le profil",
+    "description": "Description",
+    "employers": "Employeurs",
+    "jobs": "Emplois",
+    "profile": "Profil",
+    "company": "Entreprise",
+    "editCompany": "Modifier entreprise",
+    "companies": "Entreprises",
+    "resources": "Ressources",
+    "studentVisa": "Visa étudiant",
+    "parentVisa": "Visa parent",
+    "spouseVisa": "Visa de conjoint",
+    "visitVisa": "Visa de visite",
+    "emiratiVisa": "Emirati",
+    "citizenVisa": "GCC citoyen",
+    "employeeVisa": "Visa employé",
+    "noVisa": "Je n’ai pas de visa",
+    "saveAndContinue": "Sauvegarder et continuer",
+    "yes": "Oui",
+    "yesIDo": "Oui",
+    "no": "Non",
+    "noIDont": "Non",
+    "university": "Université",
+    "cancel": "Annuler",
+    "submit": "Envoyer",
+    "submitting": "Envoi...",
+    "leaveAndSave": "Sauvegarder",
+    "leave": "Quitter",
+    "saveAsDraft": "Save as draft",
+    "stay": "Stay",
+    "discardChanges": "Discard changes",
+    "leaveWithoutSaving": "Leave without saving",
+    "loading": "Chargement",
+    "fetchingData": "Récupération des données",
+    "loadingJobOffers": "Chargement des données de l’annonce...",
+    "unsavedChanges": "Changements non sauvegardés",
+    "unsavedChangesDescription": "Vous avez des changements non sauvegardés. Souhaitez-vous vraiment quitter?",
+    "present": "Présent",
+    "delete": "Supprimer",
+    "deleteSure": "Êtes vous sûr de vouloir supprimer cet article ?",
+    "previousStep": "Étape précédente",
+    "volunteering": "Volontariat",
+    "studentOrganisation": "Organisme étudiant",
+    "threeItemsMaximum": "3 articles maximum",
+    "noItemsMaximum": "{{number}} articles maximum",
+    "noItemsMaximumNotice": "Vous pouvez choisir jusqu’à {{number}} articles",
+    "noResults": "Aucun résultat trouvé",
+    "uploadedDocuments": "Documents téléchargés",
+    "uploadedDate": "Uploaded date",
+    "uploadFileInfo": "Glissez et déposez pour charger de nouveaux documents ou {{uploadButton}} fichiers depuis votre ordinateur",
+    "uploadProfilePhotoInfo": "Glissez et déposez pour charger de nouvelles photos ou {{uploadButton}} fichiers depuis votre ordinateur",
+    "uploadEmployerProfilePhotoInfo": "Drag & Drop or {{uploadButton}} file from your computer. Profile Picture doesn't exceed 5 MB and has one of the following extensions: png, jpg, jpeg.",
+    "uploadVideoInfo": "Glissez et déposez pour charger une vidéo ou {{uploadButton}} un fichier depuis votre ordinateur",
+    "uploadVideoLoading": "Chargement de votre vidéo, veuillez patienter...",
+    "createProfilePhoto": "Créer photo de profil",
+    "cropImage": "Redimensionner image",
+    "choose": "choisir",
+    "select": "Sélectionner",
+    "save": "Sauvegarder",
+    "sendInvitation": "Envoyer invitation",
+    "apply": "Candidater",
+    "uploadProgress": "Chargement...",
+    "uploadedFile": "Fichier chargé",
+    "uploadedVideo": "Vidéo chargée",
+    "changeFile": "Changer fichier",
+    "changePhoto": "Changer photo",
+    "asap": "DQP",
+    "locationUnavailable": "Lieu non disponible",
+    "specificDate": "Date spécifique",
+    "saveDraft": "Sauvegarder brouillon",
+    "postJob": "Poster annonce",
+    "posted": "Posted",
+    "jobType": {
+      "internship": "Stage",
+      "graduate_job": "Emploi jeune diplômé",
+      "volunteering": "Volontariat",
+      "event_promotion": "Promotion d’événement"
+    },
+    "jobTypeDescription": {
+      "internship": "2-6 month placement",
+      "graduate_job": "Entry-level, full-time",
+      "volunteering": "Unpaid experience",
+      "event_promotion": "Paid, temporary"
+    },
+    "updated": "Mis à jour",
+    "post": "Poster",
+    "preview": "Aperçu",
+    "edit": "Modifier",
+    "share": "Partager",
+    "expires": "Expire",
+    "goBackToOffers": "Retour à la liste des annonces",
+    "search": "rechercher",
+    "readMore": "Lire plus",
+    "readLess": "Lire moins",
+    "follow": "Suivre",
+    "goBackToMyJobs": "Retourner vers mes annonces",
+    "expiresAt": "Expire le : {{date}}",
+    "sendMessage": "Envoyer message",
+    "viewInvitation": "Voir invitation",
+    "about": "A propos",
+    "generalInfo": "Infos générales",
+    "age": " ge",
+    "drivingLicence": "Permis de conduire",
+    "carCapacity": "Véhicule",
+    "yearsOld": "Ans",
+    "graduationDate": "Date du diplôme",
+    "current": "Actuellement",
+    "website": "Site web",
+    "websites": "Sites web",
+    "phoneNumber": "Numéro de téléphone",
+    "email": "E-mail",
+    "attachedCv": "CV joint",
+    "myAccount": "Mon compte",
+    "jobOffers": "Annonces",
+    "activeJobs": "Emploi actif",
+    "activeJobs_plural": "Emplois actifs ({{count}})",
+    "candidates": "Candidats",
+    "companyProfile": "Profil de l’ entreprise ",
+    "settings": "Réglages",
+    "appliedJobs": "Emplois postulés",
+    "followedCompanies": "Entreprises suivies",
+    "testimonials": "Avis",
+    "olivsPick": "Sélectionné par Oliv",
+    "expired": "Expiré",
+    "accepted": "Accepté",
+    "rejected": "Rejeté",
+    "interviewAccepted": "Interview accepted",
+    "interviewDeclined": "Interview declined",
+    "messageEmployer": "Message employer",
+    "inviteToApply": "Inviter à postuler",
+    "moreFilters": "Plus de filtres",
+    "allFilters": "All filters",
+    "clearFilters": "Clear filters",
+    "hideFilters": "Cacher les filtres",
+    "ageWithNumber": " ge : {{age}}",
+    "sortedBy": "Trié par",
+    "talkToSales": "Parler aux ventes",
+    "viewDetails": "View details",
+    "buyCvSearch": "Buy CV Search",
+    "orTalkToSales": "Or talk to sales",
+    "talkToSalesTemplate": "Hi there, I was hoping to learn more about Oliv's pricing.",
+    "moreCandidates": "Plus de candidats",
+    "relevancy": "Pertinence",
+    "repost": "Reposter",
+    "reactivate": "Reactivate",
+    "new": "Nouveau",
+    "uploadedImages": "Images chargées",
+    "showUnviewed": "Voir ceux qui n’ont pas encore été vus seulement",
+    "forgotPassword": "Mot de passe oublié ?",
+    "savePassword": "Sauvegarder mot de passe",
+    "changePassword": "Modifier mot de passe",
+    "id": "id",
+    "availabilityExpired": "Disponibilité dépassée",
+    "updateAvailability": "Modifier le profil pour mettre à jour vos disponibilités.",
+    "notProvided": "Non entré.",
+    "editProfile": "Modifier profil",
+    "aboutMe": "A propos de moi",
+    "changeEmailAddress": "Modifier adresse e-mail",
+    "descriptionWritingTips": "Conseils d’écriture de la description",
+    "needHelp": "Besoin d’aide ?",
+    "gotIt": "J’ai compris",
+    "currentlyUnavailable": "Actuellement non disponible.",
+    "salaryGuide": "Guide des salaires",
+    "okGotIt": "Ok, j’ai compris.",
+    "changePersonalDetails": "Modifier les détails personnels",
+    "changeDetails": "Modifier les détails",
+    "saveChanges": "Sauvegarder les changements",
+    "learnMoreOnOliv": "En savoir plus sur Oliv",
+    "markAsDefault": "Marquer par défaut",
+    "default": "Défaut",
+    "accept": "Accepter",
+    "reject": "Rejeter",
+    "decline": "Decline",
+    "confirm": "Confirmer",
+    "private": "Privé",
+    "public": "Public",
+    "hireMe": "Hire me",
+    "replyToInvitation": "Reply to invitation",
+    "savedSearches": "Saved",
+    "saveSearch": "Save Search",
+    "send": "Send",
+    "filtersWithCount": "{{count}} Filter",
+    "filtersWithCount_plural": "{{count}} Filters",
+    "lastMessage": "Last message",
+    "jobAlerts": "Job alerts",
+    "createJobAlerts": "Create job alerts",
+    "editJobAlert": "Edit job alert",
+    "createJobAlert": "Create job alert",
+    "filters": "Filters",
+    "reset": "Reset",
+    "searchForJobs": "Search for jobs",
+    "applyFilterWithJobsNumber": "Apply ({{count}} jobs)",
+    "applyFilter": "Apply filter",
+    "jobSearch": "Job Search",
+    "sendInvite": "Send invite",
+    "add": "Add",
+    "findJobs": "Find jobs",
+    "applications": "Applications",
+    "chatWithUs": "Chat with us",
+    "done": "Done",
+    "saveAndPublish": "Save and publish",
+    "showMap": "Show map",
+    "hideMap": "Hide map",
+    "myProfile": "My profile",
+    "careerPreferences": "Career preferences",
+    "back": "Back",
+    "greeting": "Hi {{name}}",
+    "uploadDocuments": "Upload documents",
+    "selectUpToThree": "Select up to three",
+    "premium": "premium",
+    "filterBy": "Filter by"
+  },
+  "documentTypes": {
+    "cv": "CV",
+    "project": "Projet",
+    "portfolio": "Portfolio",
+    "certificate": "Certificat"
+  },
+  "authorization": {
+    "cannotBeChanged": "This cannot be changed later.",
+    "createAccount": "Créer un compte",
+    "login": "Se connecter",
+    "loginCandidate": "Connexion candidat",
+    "loginEmployer": "Connexion employeur",
+    "lookingToGetHired": "Vous souhaitez être embauché ? ",
+    "lookingForTalent": "Vous souhaitez embaucher un talent ? ",
+    "loggingIn": "Connexion...",
+    "signingUp": "Signing up...",
+    "signUp": "S’inscrire",
+    "selectAccountType": "Select your account type",
+    "candidateSignUpCTA": "Rejoignez Oliv et rendez le lancement de votre carrière simple, personnel et gratifiant.",
+    "signUpCTA": "Oliv vous aide à trouver des talents émergents, à gérer les candidatures et à embaucher - depuis une plateforme unique.",
+    "noAccount": "Vous n’avez pas de compte Oliv?",
+    "alreadyHaveAccount": "Vous avez déjà un compte Oliv?",
+    "signUpWithFacebook": "S’inscrire avec Facebook",
+    "signUpWithLinkedIn": "S’inscrire avec LinkedIn",
+    "completeRegistration": "Terminer l’inscription",
+    "joinInternsme": "Rejoindre Oliv",
+    "getStarted": "Commencer",
+    "createYourAccount": "Créer votre compte",
+    "linkedIn": "LinkedIn",
+    "google": "Google",
+    "orLoginWith": "Or login with",
+    "orSignupWith": "Or sign up with",
+    "joinOrganisationAccount": "Join {{organisationName}} team account",
+    "joinOrganisationAccountDescription": "Oliv helps you source emerging talent, manage applications and hire — all in one place.",
+    "signupThanksTitle": "Thanks for signing up with Oliv!",
+    "signupThanksSubtitle": "We just need to confirm your registration before getting started. Go to your inbox to <1>confirm your email.</1>",
+    "signupThanksDescription": {
+      "didntReceiveEmail": "Didn't receive your email?",
+      "correctEmail": "Is <1><0>{{email}}</0></1> your correct email?",
+      "checkSpam": "Check your spam folder",
+      "havingTrouble": "Still having trouble?",
+      "contact": "Contact us at <1>team@oliv.com</1>"
+    },
+    "isThirtyTwoOrAbove": "Oliv's mission is to enable youth employment for students and recent graduates looking for work experience. Based on your date of birth, you are not eligible to create a jobseeker profile on Oliv.",
+    "learMore": "Learn more about this.",
+    "isBetweenTwentyEightAndThirtyTwo": "Just a small heads up - Oliv's mission is to help students and recent graduates find work experience. Based on your date of birth, we'll need to know how much prior work experience you have to determine your eligibility for Oliv. As a general rule of thumb, we only accept jobseekers with 6 or less years of work experience. If that's you - please proceed to profile creation!",
+    "signupCancelTitle": "Your information has been deleted!",
+    "signupCancelDescripton": {
+      "info": "This is confirmation that any personal information you entered on Oliv has been deleted.",
+      "farewell": "We wish you the best in your job search!",
+      "signature": "Oliv team",
+      "anyQuestions": "Any questions?"
+    }
+  },
+  "forms": {
+    "profilePicture": {
+      "label": "Profile picture"
+    },
+    "educationSystem": {
+      "label": "Education system",
+      "placeholder": "Select a education system"
+    },
+    "select": {
+      "placeholderEmpty": "---veuillez sélectionner---"
+    },
+    "email": {
+      "label": "Adresse e-mail",
+      "placeholder": "Entrez votre adresse e-mail"
+    },
+    "companyEmail": {
+      "label": "Adresse e-mail de l’entreprise",
+      "placeholder": "Entrez votre adresse e-mail"
+    },
+    "lastName": {
+      "label": "Nom de famille",
+      "placeholder": "Nom de famille"
+    },
+    "firstName": {
+      "label": "Prénom",
+      "placeholder": "Prénom"
+    },
+    "phoneNumber": {
+      "label": "Numéro de téléphone",
+      "placeholder": "par ex. 5x xxx xxxx"
+    },
+    "password": {
+      "label": "Mot de passe",
+      "placeholder": "Minimum 6 symboles"
+    },
+    "newPassword": {
+      "label": "Nouveau mot de passe",
+      "placeholder": "Minimum 6 symboles"
+    },
+    "repeatNewPassword": {
+      "label": "Répéter nouveau mot de passe",
+      "placeholder": "Minimum 6 symboles"
+    },
+    "retypeNewPassword": {
+      "label": "Retaper mot de passe"
+    },
+    "oldPassword": {
+      "label": "Mot de passe actuel"
+    },
+    "gender": {
+      "label": "Sexe",
+      "male": "Masculin",
+      "female": "Féminin"
+    },
+    "nationality": {
+      "label": "Nationalité",
+      "placeholder": "Sélectionnez nationalité"
+    },
+    "currency": {
+      "label": "Select Currency",
+      "placeholder": "Select currency"
+    },
+    "dateOfBirth": {
+      "label": "Date de naissance",
+      "placeholder": "Choisissez une date",
+      "tooltipLabel": "Why does oliv need this?",
+      "tooltipContent": "We take your privacy very seriously, this means the way we process your information is dependant on if you're an adult or child."
+    },
+    "countryOfResidence": {
+      "label": "Pays de résidence",
+      "placeholder": "Sélectionnez pays de résidence"
+    },
+    "city": {
+      "label": "Ville",
+      "placeholder": "Veuillez choisir une ville dans la liste..."
+    },
+    "visaStatus": {
+      "label": "Visa Status in the United Arab Emirates (Valid for UAE jobs only)",
+      "placeholder": "Sélectionnez statut du visa"
+    },
+    "drivingLicence": {
+      "label": "Avez-vous un permis de conduire ?"
+    },
+    "ownCar": {
+      "label": "Possédez - vous un véhicule ? "
+    },
+    "highSchoolName": {
+      "label": "School name",
+      "placeholder": "E.g. Oliv School"
+    },
+    "universityName": {
+      "label": "Nom de l’université",
+      "placeholder": "Par ex. Université Oliv"
+    },
+    "degree": {
+      "label": "Statut du diplôme",
+      "placeholder": "Statut du diplôme"
+    },
+    "major": {
+      "label": "Major",
+      "placeholder": "Par ex. Administration d’entreprise"
+    },
+    "specialisation": {
+      "label": "Spécialisation",
+      "placeholder": "Par ex. Consultant des ventes"
+    },
+    "graduationMonth": {
+      "label": "Date du diplôme /Date attendue du diplôme",
+      "placeholder": "Sélectionnez un mois"
+    },
+    "graduationYear": {
+      "label": " ",
+      "placeholder": "Sélectionnez l’année"
+    },
+    "gradingSystem": {
+      "label": "Système de notation",
+      "placeholder": "Par ex. Pourcentages"
+    },
+    "gradeFormat": {
+      "label": "Format de notation",
+      "placeholder": "Par ex. Pourcentages"
+    },
+    "gradeValue": {
+      "label": "Valeur",
+      "placeholder": "Veuillez remplir"
+    },
+    "location": {
+      "label": "Lieu",
+      "placeholder": "Rechercher un lieu..."
+    },
+    "course": {
+      "label": "Nom du cours / certificat",
+      "placeholder": "Nom du cours / certificat"
+    },
+    "organisation": {
+      "label": "Organisme",
+      "placeholder": "Par ex. Coursera"
+    },
+    "yearOfCompletion": {
+      "label": "Année de finition",
+      "placeholder": "Année de finition"
+    },
+    "courseCertificateName": {
+      "label": "Nom du cours / certificat",
+      "placeholder": "Par ex. Cuisine des olives"
+    },
+    "companyName": {
+      "label": "Nom de l’entreprise",
+      "placeholder": "Par ex. Oliv"
+    },
+    "companySize": {
+      "label": "Taille de l’entreprise",
+      "placeholder": "Taille de l’entreprise"
+    },
+    "companyDescription": {
+      "label": "Description de l’entreprise",
+      "placeholder": "Description de l’entreprise"
+    },
+    "companyWebsiteURL": {
+      "label": "Adresse du site web de l’entreprise",
+      "placeholder": "Par ex. https://entreprise.com"
+    },
+    "companySocialProfiles": {
+      "label": "Médias sociaux de l’entreprise",
+      "placeholder": "Médias sociaux de l’entreprise"
+    },
+    "perks": {
+      "label": "Avantages",
+      "placeholder": "Par ex. Code vestimentaire décontracté"
+    },
+    "position": {
+      "label": "Poste",
+      "placeholder": "Par ex. Exécutif en croissance"
+    },
+    "startDate": {
+      "label": "Date de début",
+      "placeholder": "Date de début"
+    },
+    "endDate": {
+      "label": "Date de fin",
+      "placeholder": "Date de fin"
+    },
+    "interests": {
+      "label": " ",
+      "placeholder": "Veuillez sélectionner"
+    },
+    "role": {
+      "label": "Rôle",
+      "placeholder": "Par ex. Conservateur"
+    },
+    "employmentType": {
+      "label": "Type d’emploi",
+      "placeholder": "Par ex. Volontariat"
+    },
+    "industry": {
+      "label": "Industrie",
+      "placeholder": "Par ex. Design"
+    },
+    "preferredIndustry": {
+      "label": "Industrie préférée",
+      "placeholder": "Par ex. Design"
+    },
+    "preferredDepartment": {
+      "label": "Departement préféré",
+      "placeholder": "Par ex. Logistique"
+    },
+    "preferredLocation": {
+      "label": "Lieu préféré",
+      "placeholder": "Veuillez choisir..."
+    },
+    "activityType": {
+      "label": "Type d’activité",
+      "placeholder": "Par ex. Organisation d’évènements"
+    },
+    "skills": {
+      "placeholder": "Par ex. Gestion de projet",
+      "disabledPlaceholder": "Vous avez déjà choisi {{number}} compétences"
+    },
+    "jobOfferCv": {
+      "placeholder": "Sélectionnez un CV dans votre bibliothèque"
+    },
+    "language": {
+      "label": "Langue",
+      "placeholder": "Langue"
+    },
+    "socialNetworks": {
+      "label": "Réseaux sociaux"
+    },
+    "linkedIn": {
+      "placeholder": "LinkedIn"
+    },
+    "instagram": {
+      "placeholder": "Instagram"
+    },
+    "twitter": {
+      "placeholder": "Twitter"
+    },
+    "startJobOfferDate": {
+      "label": "Quelle est la date de début de l’emploi ?"
+    },
+    "jobDuration": {
+      "label": "Durée de l’emploi",
+      "placeholder": "Sélectionnez"
+    },
+    "jobTitle": {
+      "label": "Titre de l’ emploi ",
+      "placeholder": "Par ex. Interne en marketing"
+    },
+    "jobCategory": {
+      "label": "Catégorie de l’emploi"
+    },
+    "permanentJobOpportunity": {
+      "label": "Acceptez-vous de convertir les internes en employés permanents ?"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Votre description..."
+    },
+    "jobOffers": {
+      "label": "Annonces",
+      "placeholder": "Sélectionnez annonce"
+    },
+    "currentEmailAddress": {
+      "label": "Adresse e-mail actuelle"
+    },
+    "newEmailAddress": {
+      "label": "Nouvelle adresse e-mail",
+      "placeholder": "Par ex. exemple@domaine.com"
+    },
+    "roleDescription": {
+      "label": "Description du rôle",
+      "placeholder": "Par ex. Texte d’exemple"
+    },
+    "requirementsToApply": {
+      "label": "Obligations pour candidater",
+      "placeholder": "Par ex. Texte d’exemple"
+    },
+    "coverLetter": {
+      "placeholder": "Par ex. Texte d’exemple"
+    },
+    "jobOfferNotification": {
+      "placeholder": "Je veux recevoir des alertes et mises à jour des annonces par e-mail."
+    },
+    "promotionalNotification": {
+      "placeholder": "Je souhaite recevoir des e-mails promotionnels des partenaires d’Oliv."
+    },
+    "systemNotification": {
+      "placeholder": "Je veux recevoir des mises à jour promotionnelles et alertes système de la plateforme Oliv."
+    },
+    "weeklyCandidateNotification": {
+      "placeholder": "I want to receive top candidates emails."
+    },
+    "applicationNotificationEnabled": {
+      "placeholder": "Je veux recevoir des alertes et mises à jour des candidatures par e-mail."
+    },
+    "weeklyActiveJobSummaryEnabled": {
+      "placeholder": "I want to receive weekly summary emails."
+    },
+    "completeProfileAlert" : {
+      "placeholder": "Alert me to complete my profile"
+    },
+    "interestingJobsAlert" : {
+      "placeholder": "Alert me about jobs I may be interested in"
+    },
+    "declinedMessage": {
+      "label": "Message",
+      "placeholder": "Votre message..."
+    },
+    "saveSearchName": {
+      "label": "Name"
+    },
+    "includeNotification": {
+      "label": "Send message to the applicant"
+    },
+    "messageTemplate": {
+      "label": "Message template",
+      "placeholder": "Choose one of messages templates",
+      "noAnswer": "No answer",
+      "applicationSubmitted": "Application submitted",
+      "shortlisting": "Shortlisting"
+    },
+    "subject": {
+      "label": "Subject"
+    },
+    "searchKeyword": {
+      "label": "Search keyword",
+      "placeholder": "Search keyword"
+    },
+    "emailFrequency": {
+      "label": "Email frequency",
+      "placeholder": "Select email frequency"
+    },
+    "jobType": {
+      "label": "Job type",
+      "placeholder": "Select job type"
+    },
+    "department": {
+      "label": "Department",
+      "placeholder": "e.g. Logistics"
+    },
+    "commitmentType": {
+      "label": "Commitment type",
+      "placeholder": "Select commitment type"
+    },
+    "teamMembers": {
+      "placeholder": "Enter team member email address"
+    },
+    "teamMembersConversation": {
+      "label": "Select team members",
+      "placeholder": "Select"
+    },
+    "postJobForm": {
+      "tooltips": {
+        "completeCompanyProfile": "Your company’s profile needs to be completed by your team’s administrator, {{adminFullName}}",
+        "noJobPosts": "Your team’s administrator, {{adminFullName}}, needs to purchase job posts. There are none left."
+      }
+    },
+    "handicapDeclaration": {
+      "yes": "Yes, I have a disability",
+      "no": "No, I don’t have a disability",
+      "notDisclose": "I prefer not to disclose",
+      "furtherInformation": "Further information"
+    },
+    "permissions": {
+      "title": "Permissions",
+      "admin": {
+        "label": "Admin",
+        "description": "Can access all job posts, manage settings including billing and team members"
+      },
+      "manager": {
+        "label": "Manager",
+        "description": "Can manage job posts based on permissions and access"
+      },
+      "applications": {
+        "label": "Manage applications",
+        "description": "Can manage applicants, chat, send interview requests, and exports CVs on assigned job posts"
+      },
+      "jobPosts": {
+        "label": "Edit job posts",
+        "description": "Can create new job posts and edit assigned job posts"
+      },
+      "cvSearch": {
+        "label": "Use CV search",
+        "description": "Can contact profiles and exports CVs"
+      },
+      "companyProfile": {
+        "label": "Edit company profile",
+        "description": "Can edit company profile"
+      },
+      "purchasing": {
+        "label": "Purchasing",
+        "description": "Can purchase job posts and CV search contact credits"
+      }
+    },
+    "assignJobPosts": {
+      "title": "Assign job posts",
+      "descriptionAdmin": "Can view applications for all job posts",
+      "descriptionMember": "Can view applications for selected job posts",
+      "jobStatus": "Job status",
+      "statuses": {
+        "all": "All",
+        "active": "Active",
+        "draft": "Brouillon",
+        "inactive": "Désactivée"
+      },
+      "jobPosts": "Annonces"
+    },
+    "salaryExpectations": {
+      "experienceOnly": {
+        "label": "Experience only",
+        "description": "I'm prioritising work experience for now and can accept unpaid internships or work.",
+        "details": "Estimated average monthly salary range {{amount}}"
+      },
+      "expenseCoverage": {
+        "label": "Expense coverage",
+        "description": "I'm looking for my expenses to be covered via a small stipend.",
+        "details": "Estimated average monthly salary range {{amount}}"
+      },
+      "graduateWage": {
+        "label": "Graduate wage",
+        "description": "I'm looking for a full time living wage for a recent graduate."
+      },
+      "notSure": {
+        "label": "I'm not sure",
+        "description": "I haven't really thought about this, I'd like to update this section later."
+      }
+    }
+  },
+  "errors": {
+    "messageTooShort": "Message has to be at least {{chars}} characters long",
+    "messageIsARequiredField": "Message is a required field",
+    "emptyEducationForHighSchool": "Please provide at least one high school",
+    "emptyEducationForUniversity": "Please provide at least one university",
+    "generic": "Une erreur inconnue est survenue. Veuillez contacter notre équipe technique.",
+    "atLeastNSkills": "Vous devez choisir au moins {{count}} compétences.",
+    "atLeastOneTeamMember": "You have to select at least one team member.",
+    "dateSame": "Les dates doivent être différentes",
+    "dateBefore": "Veuillez choisir une date antérieure",
+    "dateLater": "Veuillez choisir une date postérieure",
+    "requiredField": "{{field}} est un champ obligatoire",
+    "passwordTooShort": "Le mot de passe doit faire au moins {{chars}} caractères de long",
+    "invalidEmail": "E-mail invalide",
+    "emailNotProvided": "E-mail absent",
+    "emailAlreadyTaken": "Cette adresse e-mail est déjà utilisée",
+    "invalidPhoneNumber": "Le numéro de téléphone est invalide",
+    "invalidField": "{{field}} est invalide",
+    "descriptionTooShort": "La description doit faire au moins {{chars}} caractères de long",
+    "descriptionIsARequiredField": "La description est obligatoire",
+    "emailDomainBlackList": "Veuillez entrer votre e-mail professionnel",
+    "invalidLinkNoHttp": "URL invalide. Protocole http/https obligatoire",
+    "invalidLink": "URL invalide",
+    "roleDescriptionTooShort": "La description du rôle doit faire au moins {{chars}} caractères de long",
+    "textFieldTooShort": "{{field}} doit faire au moins {{chars}} caractères de long",
+    "textFieldTooLong": "{{field}} ne peut pas dépasser les {{chars}} caractères",
+    "requirementsTooShort": "Les obligations pour postuler doivent faire au moins {{chars}} caractères de long",
+    "roleDescriptionTooLong": "La description du rôle ne doit pas dépasser les {{chars}} caractères",
+    "requirementsTooLong": "La description des exigences pour postuler ne doit pas dépasser les {{chars}} caractères",
+    "coverLetterTooShort": "La lettre de motivation doit faire au moins {{chars}} caractères de long",
+    "coverLetterTooLong": "La lettre de motivation ne doit pas dépasser les {{chars}} caractères",
+    "fileUnsupported": "Désolé, ce format de fichier n’est pas pris en charge.",
+    "imageTooLarge": "Cette image dépasse la limite de {{limit}} MB.Veuillez en choisir une autre.",
+    "invalidSalary": "Valeur du salaire invalide",
+    "repeatPassword": "Votre nouveau mot de passe ne correspond pas à la confirmation du mot de passe.",
+    "wrongCurrentPassword": "Votre mot de passe actuel est invalide.",
+    "charactersLength": "Vous ne pouvez pas utiliser plus de {{limit}} caractères.",
+    "atLeastOneField": "Vous devez au moins ajouter un {{field}}",
+    "salaryMinValue": "La valeur minimale du salaire attendu doit être supérieure à 0",
+    "timeSlotGeneral": "Au moins un créneau horaire doit être entré",
+    "confirmDoesntMatch": "Le texte de confirmation ne correspond pas. Tapez \"{{confirmWord}}\" pour confirmer.",
+    "termsAgree": "Vous devez accepter les termes et conditions pour rejoindre Oliv.",
+    "dateFromPast": "La date ne peut pas être dans le passé",
+    "searchNameTaken": "This search name is already taken",
+    "underageAgreeRequired": "Please confirm parental consent",
+    "transactionCreateError": "Something went wrong during creating transaction",
+    "emailsRequired": "You must provide at least one email address",
+    "emailsNotValid": "Invalid email address: {{emails}}",
+    "emailsAlreadyTaken": "Email already taken: {{emails}}",
+    "emailsAlreadyInvited": "Email already invited: {{emails}}",
+    "emailsDomainBlacklist": "Email hasn't got a company domain: {{emails}}",
+    "atLeastOneJobType": "You have to select at least one job type"
+  },
+  "alerts": {
+    "addJobOfferToBookmarks": "Nice! {{jobTitle}} has been saved for later.",
+    "removeJobOfferFromBookmarks": "{{jobTitle}} has been removed from your saved jobs.",
+    "addJobOfferToBookmarksFailed": "Something went wrong when saving the job.",
+    "deleteJobAlertSuccess": "Your Job alert has been removed.",
+    "deleteJobAlertError": "Failed to delete job alert. Please try again",
+    "editJobAlertSuccess": "Job alert has been successfully updated.",
+    "editJobAlertError": "Failed to update job alert. Please try again",
+    "createJobAlertSuccess": "Sweet! You've set up a new job alert.",
+    "createJobAlertError": "Failed to save job alert. Please try again",
+    "invitationToApplySent": "L’invitation à postuler à bien été envoyée.",
+    "invitationToApplySentError": "Impossible d’envoyer votre invitation à postuler. Veuillez réessayer.",
+    "interviewInvitationSent": "Invitation à un entretien bien envoyée.",
+    "interviewInvitationSentError": "Impossible d’envoyer votre invitation à un entretien. Veuillez réessayer.",
+    "formSuccessfullySaved": "Le formulaire a bien été sauvegardé !",
+    "formSuccessfullyRemoved": "Le lien a bien été supprimé !",
+    "jobOfferApplicationSaved": "La candidature à l’annonce a bien été envoyée !",
+    "jobOfferApplicationError": "Quelque chose s’est mal passé lors de l’envoi de la candidature.",
+    "jobOfferApplicationBulkUpdateSuccess": "Le statut des candidats sélectionnés a bien été changé pour {{status}}.",
+    "jobOfferApplicationBulkUpdateFailed": "Impossible de mettre à jour le statut des candidats sélectionnés. Veuillez réessayer.",
+    "jobOfferApplicationBulkDownloadSuccess": "Succès ! Le lien de téléchargement des CV des candidats sélectionnés à bien été envoyé à votre adresse e-mail.",
+    "jobOfferApplicationBulkDownloadFailed": "Impossible de télécharger les CV des candidats sélectionnés. Veuillez réessayer.",
+    "candidateCvBulkDownloadSuccess": "Succès ! Le lien de téléchargement des CV des candidats sélectionnés a bien été envoyé à votre adresse e-mail.",
+    "candidateCvBulkDownloadFailed": "Impossible de télécharger les CV des candidats sélectionnés. Veuillez réessayer.",
+    "candidateCvBulkDownloadCreditsFailed": "Impossible de télécharger les CV des candidats. Vous n’avez pas assez de crédits pour terminer cette opération.",
+    "jobOfferApplicationStatusChangedToundecided": "{{candidateName}} successfully moved to the undecided ‌list.",
+    "jobOfferApplicationStatusChangedToshortlisted": "{{candidateName}} successfully shortlisted. Nice!",
+    "jobOfferApplicationStatusChangedTocontacted": "{{candidateName}} successfully moved to the contacted list.",
+    "jobOfferApplicationStatusChangedTointerviewed": "{{candidateName}} Applicant successfully moved to the interview list.",
+    "jobOfferApplicationStatusChangedTohired": "You've hired {{candidateName}}! This makes us so happy, you'll never know.",
+    "jobOfferApplicationStatusChangedTodeclined": "{{candidateName}} has been declined.",
+    "jobOfferApplicationStatusChangeFailed": "Uh oh, there was an error. This is embarrassing. Can you try again?",
+    "savingFormFailed": "Quelque chose s’est mal passé lors de la sauvegarde du formulaire. Veuillez réessayer.",
+    "registrationSuccess": "Votre compte a été créé. Veuillez vérifier votre boîte mail et cliquer sur le bouton de vérification.",
+    "loginFailed": "Oh oh, il semble que votre e-mail / mot de passe ne soit pas bon. Réessayez.",
+    "loginWithSocialFailed": "Uh-oh, it looks like something went wrong during social login process. Try again.",
+    "inactiveAccount": "Hmm. Votre adresse e-mail n’a pas encore été vérifiée. Veuillez visiter votre boîte de réception ou <a href=\"{{link}}\">cliquer ici</a> pour envoyer de nouveau l’e-mail de vérification.",
+    "activationEmailResent": "Veuillez visiter votre boîte de réception et cliquer sur le bouton de vérification.",
+    "educationRemoved": "Détails académiques bien supprimés.",
+    "invalidForm": "Certains des champs obligatoires sont manquants. Veuillez remplir tous les champs obligatoires pour continuer",
+    "filesRejected": "Au moins un fichier est invalide",
+    "failedToRemoveFile": "{{name}} n’a pas pu être supprimé. Veuillez réessayer.",
+    "maxFileCount": "Vous pouvez charger jusqu’à {{count}} fichiers.",
+    "fileRemoved": "Fichier '{{name}}' a bien été supprimé.",
+    "fileRejected": "Le fichier chargé est soit invalide, soit corrompu. Veuillez utiliser un fichier différent.",
+    "fileUpdated": "Fichier '{{name}}' a bien été mis à jour.",
+    "fileUploaded": "File '{{name}}' has been successfully uploaded.",
+    "fileToLarge": "Ce fichier dépasse la limite de {{limit}} MB. Veuillez en choisir un différent.",
+    "photoUploaded": "Profile photo has been successfully uploaded.",
+    "photoRemoved": "La photo de profil a bien été supprimée.",
+    "logoRemoved": "Le logo de l’entreprise a bien été supprimé.",
+    "imageFileUploaded": "Le fichier image à bien été chargé.",
+    "imageFileRemoved": "Le fichier image à bien été supprimé.",
+    "fillRequiredJobOfferFields": "Pour poster une annonce vous devez remplir les champs demandés.",
+    "postingJobOfferFailed": "Quelque chose s’est mal passé lors de l’envoi de votre annonce. Veuillez réessayer.",
+    "editingDeactivated": "Vous ne pouvez pas modifier une annonce désactivée.",
+    "sendResetPasswordRequest": "Veuillez vérifier votre boîte de réception et cliquer sur le bouton de réinitialisation du mot de passe.",
+    "resetPasswordSuccess": "Votre mot de passe a bien été changé.",
+    "resetPasswordFailed": "Quelque chose s’est mal passé lors du changement du mot de passe",
+    "bulkInterviewInvitationSent": "Les invitations à un entretien ont bien été envoyées aux candidats sélectionnés.",
+    "bulkInterviewInvitationSentError": "Impossible d’envoyer vos invitations à un entretien. Veuillez réessayer.",
+    "bulkSendMessagesSuccess": "Les messages ont bien été envoyés aux candidats sélectionnés.",
+    "bulkSendMessagesError": "Impossible d’envoyer vos messages. Veuillez réessayer.",
+    "changeEmailSuccess": "Veuillez visiter votre boîte de réception et cliquer sur le bouton de changement de l’e-mail.",
+    "changeEmailFailed": "Quelque chose s’est mal passé lors du changement de l’e-mail",
+    "jobOfferInvalid": "Il semble manquer des détails dans votre annonce. Veuillez ajouter les détails manquants afin que nous puissions la poster immédiatement.",
+    "deleteAccountSuccess": "Votre compte à bien été supprimé. Merci d’avoir utilisé Oliv.",
+    "deleteAccountFailed": "Quelque chose s’est mal passé lors de la suppression du compte.",
+    "deleteEmployerAccountSuccess": "Votre demande à été envoyée. L’équipe d’Oliv vous contactera rapidement.",
+    "deleteEmployerAccountFailed": "Quelque chose s’est mal passé lors de l’envoi de la demande.",
+    "availabilityUpdated": "Vos disponibilités ont bien été mises à jour.",
+    "deleteSearchSuccess": "Your search has been successfully deleted",
+    "deleteSearchFailed": "Something went wrong when deleting search",
+    "fileExists": "Filename already taken.",
+    "subscriptionPlanCancelSuccess": "Subscription plan cancelled successfully",
+    "subscriptionPlanCancelFailed": "Something went wrong during cancelling subscription plan",
+    "jobOfferSuccessfullySaved": {
+      "active": "{{jobTitle}} has been published! Brace yourself for some serious talent.",
+      "draft": "Your job post has been saved as a draft.",
+      "inactive": "{{jobTitle}} has been unpublished! No more applications will be received."
+    },
+    "sendOrganisationInviteSuccess": "We've sent your invitation to your team to join Oliv.",
+    "sendOrganisationInviteFailed": "Something went wrong during sending the invitation",
+    "joinChannelFailed": "Something went wrong during joining conversation.",
+    "addTeamMemberToConversationSuccess": "Your team members have been added to the conversation successfully",
+    "socialLoginFailed": {
+      "linkedIn": "Sorry, our connection with LinkedIn isn't working right now. Can you try signing up via email?",
+      "google": "Sorry, our connection with Google isn't working right now. Can you try signing up via email?"
+    },
+    "editPermissionsSuccess": "Team member permissions have been successfully changed.",
+    "editPermissionsFailed": "Something went wrong while changing team member permissions.",
+    "notAllowedPermission": "You don't have the right permissions. Ask an admin for access.",
+    "updateProfileSuccess": "Your profile has been successfully updated.",
+    "updateProfileFailed": "Something went wrong when updating profile. Please try again.",
+    "updateAboutMeSuccess": "Your profile description has been successfully updated.",
+    "updateGeneralInfoSuccess": "Your general information has been successfully updated.",
+    "updateEducationSuccess": "Your education has been successfully updated.",
+    "updateCertificatesSuccess": "Your certificates have been successfully updated.",
+    "updateExperienceSuccess": "Your experience has been successfully updated.",
+    "updateVolunteeringSuccess": "Your volunteering has been successfully updated.",
+    "updateSkillsSuccess": "Your skills have been successfully updated.",
+    "updateLanguagesSuccess": "Your languages have been successfully updated.",
+    "updateInterestsSuccess": "Your interests have been successfully updated.",
+    "updateSocialLinksSuccess": "Your social links have been successfully updated.",
+    "updateCareerPreferencesSuccess": "Your career preferences have been successfully updated.",
+    "updateCareerPreferencesFailed": "Something went wrong when updating career preferences",
+    "universityDeleteDisabled": "At least one education history is required.",
+    "highSchoolDeleteDisabled": "At least one education history is required.",
+    "experienceDeleteDisabled": "At least one experience history is required.",
+    "volunteeringDeleteDisabled": "At least one volunteering history is required.",
+    "certificateDeleteDisabled": "At least one certificate is required.",
+    "appliedWithCompleteStatus": "Great job! We have received your application. Once your profile has been reviewed by our team, your application will be forwarded to the company.",
+    "copied": "Copied to clipboard."
+  },
+  "profile": {
+    "stepCounter": "Étape {{value}} sur {{total}}",
+    "about": {
+      "title": "About you"
+    },
+    "basics": {
+      "title": "Basiques",
+      "description": {
+        "heading": "Bonjour ! Parlez-nous de vous.",
+        "text": "Aidez-nous à vous connaître un peu mieux et nous commencerons à vous envoyer les meilleures opportunités ! Souvenez-vous que vos détails seront partagés avec notre équipe et les employeur sur Oliv afin de pouvoir vous contacter."
+      },
+      "handicapDeclaration": {
+        "title": "Disabilities and People of Determination",
+        "description": "To help us achieve our objective of empowering <1>People of Determination</1>, we invite you to voluntarily provide demographic information. Inclusion of this information will enable employers who are supporters of People of Determination to identify you."
+      }
+    },
+    "education": {
+      "title": "Formation",
+      "description": {
+        "heading": "Tell us your educational background",
+        "text": "What's the highest level of education you're currently pursuing or have completed?"
+      },
+      "sections": {
+        "educationDetails": {
+          "label": "Détails académiques",
+          "text": "Dites-nous ce que vous avez étudié. Si vous avez plus d’un diplôme, cliquez sur \"Ajouter nouvelle Université\".",
+          "addNew": "Ajouter nouvelle Université"
+        },
+        "highSchoolEducationDetails": {
+          "addNew": "Add new School"
+        },
+        "additionalCertifications": {
+          "label": "Certificats additionnels",
+          "text": "Listez tous les autres cours, programmes et formations que vous aimeriez partager.",
+          "addNew": "Ajouter nouveau certificat"
+        }
+      },
+      "normalizedGrade": {
+        "title": "Normalized grade",
+        "description": "In order to make it possible for employers to filter different formats of candidate grades in a standardized format"
+      }
+
+    },
+    "experience": {
+      "title": "Expérience",
+      "description": {
+        "heading": "Dites-nous en plus sur vos expériences passées.",
+        "text": "Ajoutez les détails de vos stages et emplois à temps partiel ou à temps plein. Vous pouvez mentionner les projets professionnels, de passion et les volontariats."
+      },
+      "sections": {
+        "workExperience": {
+          "label": "Expérience professionnelle",
+          "text": "Veuillez entrer votre expérience professionnelle. Si vous n’en avez pas, vous pouvez ajouter des concours, cours ou projets académiques sur lesquels vous avez travaillé.",
+          "hasExperience": "Avez-vous une expérience professionnelle ?",
+          "iCurrentlyWorkHere": "Je travaille actuellement ici",
+          "description": "Veuillez décrire vos responsabilités principales dans ce poste en particulier. Mentionnez tous les projets spéciaux ou réussites (min. 30 caractères).",
+          "addNew": "Ajouter nouvelle entreprise"
+        },
+        "volunteering": {
+          "label": "Volontariat / autres activités",
+          "header": "Volunteering or other activities",
+          "errorLabel": "Volontariat ou autres activités",
+          "text": "Mentionnez vos expériences de volontariat, vos passe-temps, vos projets, etc.",
+          "iCurrentlyVolunteerHere": "Je fais actuellement du volontariat ici",
+          "addNew": "Ajouter nouvelle activité",
+          "options": {
+            "volunteering": "Volontariat",
+            "studentOrganisations": "Organismes / clubs d’étudiants"
+          }
+        },
+        "interests": {
+          "label": "Intérêts",
+          "text": "Choisissez vos centres d’intérêt. Ce peuvent être des choses que vous faites ou qui vous passionnent."
+        },
+        "skills": {
+          "label": "Compétences",
+          "text": "Nous utiliserons ces compétences pour vous montrer les opportunités les plus appropriées, alors choisissez-les bien - vous ne pouvez en choisir que huit !"
+        }
+      },
+      "autoApproveConfirmation": {
+        "title": "Your confirmation is required",
+        "description": "Hold up there, partner. It looks like you have 6 or more years of work experience. Are you sure you want to continue creating a profile on Oliv? The majority of entry-level career opportunities on Oliv pay between $1,500 - $3,500 gross salary per month, depending on the industry and the location..",
+        "options": {
+          "approve": "I understand and I am interested in job opportunities in this salary range.",
+          "decline": "I do not wish to proceed and would like Oliv to delete any personal information I have entered."
+        }
+      }
+    },
+    "preferences": {
+      "title": "Préférences",
+      "description": {
+        "heading": "Dites-nous vos préférences",
+        "text": "Décrivez un peu plus le type d'opportunités que vous recherchez."
+      },
+      "sections": {
+        "salaryExpectations": {
+          "label": "Attentes salariales",
+          "text": "Quelles sont vosnattentes salariales ?",
+          "paidAndUnpaid": "Rémunéré et non rémunéré",
+          "paid": "Rémunéré seulement",
+          "average": "Aidez-nous à trouver les annonces qui correspondent à vos attentes. Cette information ne sera visible que par l’équipe d’Oliv."
+        },
+        "profileVisibility": {
+          "label": "Visibilité du profil",
+          "text": "<0>Vous avez la possibilité de contrôler la visibilité de votre profil. Un profil public vous permet de partager votre profil et de le rendre accessible aux moteurs de recherche. Un profil privé ne sera visible que par les utilisateurs Oliv enregistrés.</0><1>Voir un exemple de profil public</1>",
+          "hideProfile": "Régler la visibilité de votre profil."
+        },
+        "availability": {
+          "label": "Disponibilité",
+          "text": "Vous ne pouvez régler votre disponibilité que sur 90 jours à partir d’aujourd’hui. Nous vous recommandons de mettre à jour vos dates de disponibilité dès que possible - mais nous vous enverrons un rappel par e-mail, alors ne vous en faites pas !"
+        },
+        "jobPreferences": {
+          "label": "Préférences d’emploi",
+          "text": "Spécifiez le type, l’industrie, le département et le lieu de votre rôle idéal."
+        }
+      }
+    },
+    "additional": {
+      "title": "Additionel",
+      "description": {
+        "heading": "Parlez-nous de vous",
+        "text": "Aidez-nous et nos employeurs à mieux vous connaître !"
+      },
+      "sections": {
+        "aboutYou": {
+          "label": "A propos de moi",
+          "text": "Écrivez une introduction rapide sur vous, vos objectifs de carrière, et le(s) type(s) de rôle(s) que vous recherchez. N’oubliez pas que ce sera la première chose que les employeurs liront sur vous - racontez votre histoire et rendez la intéressante.",
+          "description": "Par ex. Bonjour ! Je suis jeune diplômé de l’Université d’Oliv avec un major en ressources humaines. Je recherche une opportunité qui me permettrait de fusionner ma passion pour les RH et la psychologie, afin de me lancer dans la résolution de conflits / communication lors de crises. J’aime le défi de travailler avec différents types de personnes et trouver des solutions à des problèmes difficiles. Mon atout principal est de savoir rester calme pendant la tempête !"
+        },
+        "languages": {
+          "label": "Langues",
+          "skill": {
+            "reading": "Lu",
+            "speaking": "Parlé",
+            "writing": "Écrit"
+          },
+          "degree": {
+            "basic": "Basique",
+            "intermediate": "Intermédiaire",
+            "fluent": "Courant"
+          },
+          "addNew": "Ajouter une nouvelle langue",
+          "errorLabel": "Langue"
+        },
+        "websites": {
+          "selectType": "Sélectionner type",
+          "placeholder": "Votre page d’accueil, votre portfolio ou un projet, par ex. siteweb.com",
+          "addAnotherWebsite": "Ajouter un nouveau site web",
+          "websiteTypes": {
+            "website": "Site web",
+            "project": "Projet",
+            "portfolio": "Portfolio",
+            "other": "Autre"
+          }
+        },
+        "files": {
+          "selectType": "Sélectionner type",
+          "placeholder": "Le nom de votre document, par ex. mon-CV.pdf"
+        },
+        "socialProfiles": {
+          "label": "Profils sociaux"
+        },
+        "additionalDocuments": {
+          "label": "Documents supplémentaires",
+          "text": "Chargez jusqu’à 5 documents (incluant les projets, portfolios et certificats) qui pourront étayer votre candidature. Vous pourrez attacher un document de moins de 5MB, avec une de ces extensions : doc, docx, xls, xlsx, pdf, png, jpg, jpeg. Gardez à l’esprit que ces fichiers seront visibles par notre équipe et les employeurs enregistrés sur Oliv."
+        },
+        "CV": {
+          "label": "CV",
+          "text": "Chargez jusqu’à 10 documents (incluant les projets, portfolios et certificats) qui pourront étayer votre candidature. Vous pourrez attacher un document de moins de 5MB, avec une de ces extensions : doc, docx, xls, xlsx, pdf, png, jpg, jpeg. Gardez à l’esprit que ces fichiers seront visibles par notre équipe et les employeurs enregistrés sur Oliv.",
+          "defaultCvTooltip": "Votre CV par défaut sera montré aux employeurs lorsqu’ils recherchent des candidats pour un poste vacant."
+        }
+      }
+    },
+    "media": {
+      "title": "Media",
+      "description": {
+        "heading": "Montrez vos dents !",
+        "text": "Ajoutez une photo et/ou une vidéo pour montrer aux employeurs qui vous êtes."
+      },
+      "sections": {
+        "profilePhoto": {
+          "label": "Photo de profil",
+          "text": "Chargez une photo de vous sous l’un des formats suivants : .png, .jpg, .jpeg (max 5 MB)"
+        },
+        "videoCV": {
+          "label": "CV vidéo",
+          "text": "Les candidats avec un CV vidéo ont 9 fois plus de chances d’etre cus par les employeurs. Chargez un CV vidéo de 30 à 60 secondes pour vous présenter. Vous pouvez parler de vos objectifs de carrière, de compétences spéciales, de projets, et des rôles qui vous intéressent."
+        }
+      }
+    },
+    "availabilityTooltip": {
+      "available": "We ask candidates on Oliv to update their availability every 3 months. This candidate has confirmed that they are currently available and open to new opportunities.",
+      "notAvailable": "We ask candidates on Oliv to update their availability every 3 months. This candidate has not confirmed that they are currently available. They may or may not be open to new opportunities."
+    }
+  },
+  "accountVerification": {
+    "success": "Votre compte est maintenant vérifié. Connectez vous !",
+    "fail": "Une erreur s’est produite, veuillez nous contacter."
+  },
+  "changeEmail": {
+    "success": "Votre e-mail a été modifié. Connectez-vous avez la nouvelle adresse e-mail.",
+    "fail": "Une erreur est survenue, veuillez nous contacter."
+  },
+  "remove": {
+    "educationDetails": {
+      "title": "Supprimer des détails académiques.",
+      "description": "Êtes-vous sûr de vouloir supprimer les détails académiques sélectionnés ?"
+    },
+    "highSchoolEducationDetails": {
+      "title": "Remove school details",
+      "description": "Are you sure you want to remove selected school details?"
+    },
+    "certificates": {
+      "title": "Supprimer certificat",
+      "description": "Êtes-vous sûr de vouloir supprimer le certificat sélectionné ?"
+    },
+    "experienceDetails": {
+      "title": "Supprimer détails d’expérience",
+      "description": "Êtes-vous sûr de vouloir supprimer les détails d’expérience sélectionnés ?"
+    },
+    "volunteeringDetails": {
+      "title": "Supprimer détails de volontariat",
+      "description": "Êtes-vous sûr de vouloir supprimer les détails de volontariat sélectionnés ?"
+    },
+    "languageDetails": {
+      "title": "Supprimer détails de langue",
+      "description": "Êtes-vous sûr de vouloir supprimer les détails de langue sélectionnés ?"
+    },
+    "websites": {
+      "title": "Supprimer site web",
+      "description": "Êtes-vous sûr de vouloir supprimer le site web sélectionné ?"
+    },
+    "photo": {
+      "title": "Supprimer photo photo",
+      "description": "Êtes-vous sûr de vouloir supprimer votre photo de profil ?"
+    },
+    "video": {
+      "title": "Supprimer CV vidéo",
+      "description": "Êtes-vous sûr de vouloir supprimer votre CV vidéo ?"
+    },
+    "file": {
+      "title": "Supprimer {{name}}",
+      "description": "Êtes-vous sûr de vouloir supprimer le fichier {{name}} ?"
+    },
+    "fileGeneric": {
+      "title": "Supprimer fichier",
+      "description": "Êtes-vous sûr de vouloir supprimer le fichier ?"
+    },
+    "jobOffer": {
+      "title": "Supprimer annonce",
+      "description": "Êtes-vous sûr de vouloir supprimer l’annonce sélectionnée ?"
+    },
+    "cvAttached": {
+      "title": "Supprimer votre CV",
+      "description": "Êtes-vous sûr de vouloir supprimer ce CV ? Vous avez attaché ce CV à au moins une candidature sur Oliv. Le supprimer effacera toutes vos candidatures avec ce CV.",
+      "confirm": "Oui, supprimer mon CV"
+    },
+    "cvAttachedConfirm": {
+      "title": "Confirmation",
+      "description": "Par mesure de précaution, nous aimerions nous assurer que vous n’ayez pas appuyé sur supprimer par erreur. Notez que cette action ne peut pas être annulée. Une fois votre CV supprimé, toutes vos candidatures effectuées avec ce CV ne pourront pas être récupérées et seront supprimées définitivement d’Oliv. Êtes-vous sûr de vouloir supprimer ce CV ?",
+      "confirm": "Oui, supprimer mon CV"
+    },
+    "savedSearch": {
+      "title": "Delete saved",
+      "description": "Are you sure you want to delete this saved search?",
+      "confirm": "Yes, Delete",
+      "cancel": "No, Cancel"
+    },
+    "socialLinks": {
+      "title": "Remove social link",
+      "description": "Are you sure you want to remove selected social link?"
+    }
+  },
+  "jobOffer": {
+    "editAJob": {
+      "description": {
+        "heading": "Modifier annonce"
+      }
+    },
+    "tag": {
+      "isFeatured": "Mis en avant"
+    },
+    "postAJob": {
+      "description": {
+        "heading": "Poster une annonce",
+        "text": "Parlez-nous de votre rôle et de votre candidat idéal."
+      },
+      "jobDescription": {
+        "label": "Description de l’emploi",
+        "text": "Partagez les responsabilités et exigences pour ce rôle (300-2000 caractères)"
+      },
+      "location": {
+        "label": "Lieu",
+        "text": "Donnez l’adresse de votre entreprise."
+      },
+      "availability": {
+        "label": "Disponibilité",
+        "text": "Ajoutez des détails sur le type d’engagement que nécessite ce rôle.",
+        "duration": {
+          "options": {
+            "overSixMonths": "Plus de 6 mois",
+            "oneToSixmonths": "3 à 6 mois",
+            "oneToThreeMonths": "1 à 3 mois",
+            "lessThanOneMonth": "Moins d’1 mois",
+            "lessThenOneWeek": "Moins d’1 semaine"
+          }
+        },
+        "commitment": {
+          "title": "Engagement",
+          "fullTime": {
+            "label": "Temps plein",
+            "description": "Plus de 30 heures/semaine"
+          },
+          "partTime": {
+            "label": "Temps partiel",
+            "description": "Moins de 30 heures/semaine"
+          },
+          "flexible": {
+            "label": "Flexible",
+            "description": "Selon l’emploi du temps du candidat"
+          }
+        }
+      },
+      "salary": {
+        "label": "Salaire",
+        "text": "Partagez les détails de compensation. Visitez notre guide pour vous aider.",
+        "warning": "Nous recommandons d’inclure un salaire basique. Les opportunités payées attirent de meilleurs talents.",
+        "typeOfJob": {
+          "label": "L’emploi est-il rémunéré ?",
+          "typePaid": "Rémunéré",
+          "typeUnpaid": "Non rémunéré",
+          "typeToBeDiscussed": "À discuter"
+        }
+      },
+      "skills": {
+        "label": "Compétences recherchées",
+        "text": "Ces compétences seront utilisées pour faire correspondre les candidats répondant aux critères de cette annonce. Vous pouvez ajouter jusqu’à 5 compétences."
+      },
+      "languages": {
+        "label": "Langues préférées",
+        "text": "This will be used to check the spoken fluency of your selected languages among the applicants."
+      },
+      "preferredGender": {
+        "male": {
+          "label": "Homme"
+        },
+        "female": {
+          "label": "Femme"
+        },
+        "undisclosed": {
+          "label": "Pas de préférence"
+        },
+        "title": "Sexe souhaité"
+      },
+      "additionalPreferences": {
+        "title": "Préférences additionnelles",
+        "coverLetterRequired": "Je demande une lettre de motivation",
+        "preferredVideoCv": "Je préfère les candidats avec un CV vidéo",
+        "preferredExperience": "Je préfère les candidats avec une première expérience",
+        "isPrivate": "Only show to Oliv community members",
+        "autoShortlistingTitle": "Shortlisting by Olivia",
+        "autoShortlisting": "Shortlist the best candidates for me",
+        "autoShortlistingDescription": "For the best experience on Oliv, we recommend using Olivia for this position."
+      },
+      "notifications": {
+        "title": "Notifications",
+        "newApplications": "Get email notifications for new applications"
+      },
+      "notificationsSection": {
+        "label": "Team Members",
+        "text": "Invite your team to help you find, shortlist, interview and hire talent.",
+        "teamMembersLabel": "Select team members",
+        "inviteTeam": "Invite team members"
+      },
+      "externalLink": {
+        "addLink": {
+          "title": "External career site url",
+          "label": "Add a link to my external career site"
+        },
+        "url": {
+          "label": "Add url"
+        }
+      }
+    },
+    "jobDetails": {
+      "title": "Détails de l'annonce",
+      "description": "Entrez un titre simple pour attirer les candidats sur votre annonce.",
+      "applyForThisJob": "Candidater à cette annonce",
+      "applyNow": "Apply now",
+      "postedOn": "Postée",
+      "employmentType": "Type d’emploi",
+      "availability": "Disponibilité",
+      "jobCategory": "Catégorie d’emploi",
+      "compensation": "Compensation",
+      "startDate": "Date de début",
+      "deadline": "Deadline",
+      "aboutThisRole": "À propos de ce rôle",
+      "requirementsToApply": "Exigences pour candidater",
+      "jobSkills": "Compétences",
+      "jobLocation": "Lieu",
+      "applyForJob": "Candidater à cette offre",
+      "unpaid": "Non rémunéré",
+      "tbd": "A discuter",
+      "viewJobDetails": "Voir les détails de l’annonce",
+      "alreadyApplied": "Vous avez déjà candidaté à cette annonce",
+      "duration": "Duration"
+    },
+    "jobTemplate": {
+      "title": "Select template",
+      "description": "Use one of our popular templates to get started with posting your job. This will auto-populate the job post with relevant details. We highly recommend that you edit your job post to make it unique and a true reflection of the position you are offering.",
+      "fields": {
+        "label": "Start fresh or use a template",
+        "blank": "Start fresh",
+        "popular": "Popular templates",
+        "previous": "Previous job"
+      },
+      "selectTemplate": {
+        "label": "Select template"
+      }
+    },
+    "jobDetailsDrawer": {
+      "applyForAJob": "Candidater pour ce rôle !",
+      "alerts": {
+        "videoCv": {
+          "title": "Un CV vidéo est préféré pour cette annonce",
+          "text": "Avoir un CV vidéo augmente vos chances d’être embauché."
+        }
+      },
+      "sections": {
+        "coverLetter": {
+          "label": "Lettre de motivation",
+          "text": "Cet employeur a demandé une lettre de motivation. Veuillez partager pourquoi ce rôle vous intéresse, pourquoi vous pensez correspondre, et toute autre information qui pourrait plaire à l’employeur ! Si vous avez besoin d’aide, visitez notre guide de lettre de motivation.",
+          "textOptional": "Décrivez pourquoi vous aimeriez travailler là bas et ce qui fait de vous le candidat parfait pour ce rôle."
+        },
+        "selectCv": {
+          "label": "Sélectionnez votre CV",
+          "text": "<0>Attachez Votre CV pour candidater ! N’oubliez pas de souligner votre expérience la plus parlante en haut de page. Si vous avez besoin d’aide pour créer un CV, </0> <1>visitez ce guide !</1>"
+        },
+        "additionalDocuments": {
+          "label": "Documents additionnels",
+          "text": "Vous pouvez ajouter n’importe quoi qui pourrait donner du poids à votre candidature, par exemple des liens vers votre portfolio, des exemples de travaux dessinés ou écrits, ou des projets finaux."
+        }
+      },
+      "externalLink": {
+        "applyBtn": "Apply on company website",
+        "sections": {
+          "selectCv": {
+            "label": "Drop off your CV",
+            "text": "{{companyName}} prefers to receive your application directly on their website. Drop off your CV here and complete your application on the company website."
+          }
+        }
+      }
+    },
+    "invitationToApply": {
+      "status": {
+        "contacted": "Contacted",
+        "applied": "Applied",
+        "invited_to_apply": "Invited to apply"
+      },
+      "alerts": {
+        "noJobOffersAvailableToApply": {
+          "title": "Aucune annonce disponible",
+          "text": "Vous n’avez aucune annonce active, ou vous avez déjà invité ce candidat à candidater à toutes vos annonces actives."
+        }
+      }
+    },
+    "similarJobs": "Similar Jobs",
+    "companySection": {
+      "title": "Tell us about your company!",
+      "description": "This a great opportunity to tell candidates what your company does and why they should be excited to work with you. This will appear on all your job posts and your company profile."
+    }
+  },
+  "employer": {
+    "jobOffers": {
+      "heading": "Mes annonces",
+      "createJob": "Créer annonce",
+      "jobOffersType": {
+        "active": "Active",
+        "draft": "Brouillon",
+        "drafts": "Brouillons",
+        "inactive": "Désactivée",
+        "declined": "Refusée",
+        "applied": "Candidatée",
+        "viewed": "Vue",
+        "interviewRequested": "Entretien demandé",
+        "hired": "Embauché"
+      },
+      "emptyState": {
+        "applied": "<0>There are no live applications. </0><1><0><0>View job opportunities</0></0> to get started</1>",
+        "declined": "<0>There’s nothing here yet.</0><1>And that’s a good thing.</1>",
+        "default": "<0>There’s nothing here yet.</0><1>Try applying to more jobs that are right for you or <1><0>Oliv Academy</0></1> to enhance your profile</1>",
+        "active": "You have no active jobs. Click Post job to start with a blank job post or one of our templates",
+        "draft": "You have no draft jobs.",
+        "inactive": "You have no deactivated jobs."
+      },
+      "untitled": "Annonce sans titre",
+      "atCompany": "à {{name}}",
+      "jobTypes": {
+        "internship": "Stage",
+        "graduate_job": "Emploi jeune diplômé",
+        "volunteering": "Volontariat",
+        "event_promotion": "Promotion d’événement"
+      },
+      "internshipLeadingToPermanent": "Mène à un poste permanent",
+      "commitmentTypes": {
+        "over_30_hrs_weekly": "Temps plein",
+        "less_than_30_hrs_weekly": "Temps partiel",
+        "i_dont_know_yet": "Flexible",
+        "Part-time": "Temps partiel",
+        "Flexible": "Flexible",
+        "Full-time": "Temps plein"
+      },
+      "counters": {
+        "applicants": "Candidats",
+        "shortlisted": "Retenus",
+        "contacted": "Contactés",
+        "interviewed": "Reçus",
+        "hired": "Embauchés"
+      },
+      "findCandidates": "Trouver des candidats",
+      "InviteTeamMembers": "Invite team members",
+      "setAsPrivate": "Marquer comme privée",
+      "setAsPublic": "Marquer comme publique",
+      "deactivate": "Désactiver",
+      "privateJobTooltip": "This job post will be hidden from public search engines (Google, LinkedIn, etc.)"
+    },
+    "applicants": {
+      "applicantsType": {
+        "undecided": "Non décidé",
+        "shortlisted": "Retenu",
+        "contacted": "Contacté",
+        "interviewed": "Reçu",
+        "hired": "Embauché",
+        "declined": "Refusé"
+      },
+      "allApplicants": "Tous les candidats",
+      "allFoundApplicants": "Tous les candidats trouvés",
+      "missingCoverLetter": "Ce candidat n’a pas joint de lettre de motivation.",
+      "attachedCv": "CV joint",
+      "attachedDocuments": "Documents joints",
+      "application": "Demande",
+      "backToApplicants": "Retourner aux candidats",
+      "visaStatus": {
+        "student_visa": "Visa d’étudiant",
+        "parent_visa": "Visa de parent",
+        "spouse_visa": "Visa de conjoint",
+        "visit_visa": "Visa de visite",
+        "emirati_visa": "Emirati",
+        "gcc_citizen": "Citoyen GCC",
+        "employee_visa": "Visa d’employé",
+        "no_visa": "Pas de visa"
+      },
+      "noVideoCv": "Une vidéo n’a pas été chargée.",
+      "emptyState": "Vous n’avez pas de candidats {{status}}.",
+      "shortlistApplicantTooltip": "Shortlist applicant",
+      "declineApplicantTooltip": "Decline applicant",
+      "chatApplicantTooltip": "Message applicant",
+      "phoneApplicantTooltip": "Phone number",
+      "emailApplicantTooltip": "Email"
+    },
+    "candidates": {
+      "backToCandidates": "Retourner aux candidats",
+      "documentsLabel": "Documents",
+      "selectedCandidates": "{{count}} candidats sélectionnés",
+      "selectedCandidates_plural": "{{count}} candidats sélectionnés",
+      "profileRatingTooltipCandidate": "Filter candidates on their profile rating based on our ",
+      "profileRatingTooltipApplicant": "Filter applicants on their profile rating based on our ",
+      "profileRatingTooltipLinkText": "screening process",
+      "candidateAvailabilityTooltipCandidate": "Candidates set dates to show when they are open to opportunities. They can set dates for a 90 day period before being requested to update their availability.",
+      "candidateAvailabilityTooltipApplicant": "Applicants set dates to show when they are open to opportunities. They can set dates for a 90 day period before being requested to update their availability.",
+      "shortListApplicantTooltip": "Shortlist applicant",
+      "declineApplicantTooltip": "Decline applicant",
+      "chatApplicantTooltip": "Message applicant",
+      "shouldBuyCredits": "Access contact details for {{priceWithCurrency}}/mo",
+      "useCreditToInvite": "Use a credit to invite candidate",
+      "contactDetailsModalTitle": "Use a credit to reveal contact details",
+      "emptyState": "Unfortunately, there are currently no candidates who match your search.",
+      "candidateSearchPricing": {
+        "mainHeader": "The world's first screened community of young professionals.",
+        "properties": {
+          "first": "<0>Advanced search and rating filters</0> to narrow down to your ideal fit",
+          "second": "<0>Sort by relevancy and recent activity</0> to find relevant and available talent",
+          "third": "<0>Watch video CVs</0> because there's more to personality than paper"
+        },
+        "buyButton": "Get CV Search for {{currencyWithPrice}}/mo",
+        "liveDemo": "Live Demo"
+      }
+    },
+    "settings": {
+      "membershipDetails": "Détails de l’abonnement",
+      "personalDetails": "Détails personnels",
+      "emailAndPassword": "Mot de passe / e-mail",
+      "membershipAddOns": "Ajouts àl’abonnement",
+      "notifications": "Notifications",
+      "membership": {
+        "serviceNames": {
+          "jobSlots": "Emplacements d’emploi",
+          "jobPosts": "Annonces",
+          "credits": "Crédits",
+          "dedicatedShortlisting": "Service de présélection dédié",
+          "databaseSearch": "Recherche dans la base de données",
+          "companyPage": "Page de l’entreprise"
+        },
+        "alerts": {
+          "expired": "Votre abonnement a expiré. Continuez à utiliser Oliv en contactant notre équipe à <1>team@oliv.com</1>.",
+          "cancelled": "Votre abonnement a été annulé. Continuez à utiliser Oliv en contactant notre équipe à <1>team@oliv.com</1>.",
+          "inactive": "Un lien de paiement a été envoyé sur votre adresse e-mail. Veuillez terminer le paiement afin que nous puissions activer automatiquement votre abonnement."
+        },
+        "empty": {
+          "title": "Hire your company's future leaders",
+          "description": "Get started by choosing the right option for you.",
+          "cta": "See pricing",
+          "contact": "<0>Talk to sales</0> or call <2><0>{{supportPhoneNumber}}</0></2>"
+        },
+        "unlimitedAmount": "Unlimited",
+        "cancelPlan": {
+          "label": "Cancel Plan",
+          "title": "Are you sure you want to cancel?",
+          "description": "By cancelling <1>you will lose access to the world's first screened community of your professionals.</1> If you confirm and end your subscription now, you can still access it until <3><0>{{expiryDate}}</0><3>."
+        }
+      },
+      "questions": "Vous avez des questions sur votre abonnement?",
+      "items": "Articles",
+      "total": "Total",
+      "remaining": "Restant",
+      "expiryDate": "Date d’expiration",
+      "teamMembers": {
+        "title": "Team Members",
+        "emptyState": {
+          "title": "Hire the best people with your best people.",
+          "description": "Invite you teammates to start collaborating on posting jobs, reviewing applications and hiring top talent.",
+          "cta": "Invite team member"
+        },
+        "manageTeamMembers": {
+          "title": "Manage team members",
+          "teamMember": "Team member",
+          "emailAddress": "Email address",
+          "role": "Role"
+        },
+        "pendingInvitations": {
+          "title": "Pending invitations",
+          "inviteSent": "Invite sent"
+        },
+        "roles": {
+          "admin": "admin",
+          "organisation_manager": "manager"
+        }
+      }
+    },
+    "saveSearch": {
+      "emptyState": "Nothing here! You haven’t saved any searches yet."
+    },
+    "inactiveMembershipPricing": {
+      "title": "Attract relevant talent, not just applications",
+      "description": "Start posting jobs by choosing the right option for you.",
+      "cta": "See pricing"
+    }
+  },
+  "meta": {
+    "candidate": {
+      "title": {
+        "profile": "My Profile",
+        "jobs": "Jobs",
+        "dashboard": "{{firstName}} applications | Oliv",
+        "savedJobs": "Saved jobs | Oliv",
+        "jobAlerts": "Job alerts | Oliv",
+        "personalDetails": "Personal details | Oliv",
+        "notifications": "Notifications | Oliv",
+        "profileView": "{{firstName}} Oliv profile | Oliv",
+        "chat":  "Chat | Oliv"
+      }
+    },
+    "candidatePublicProfile": {
+      "description": "See {{firstName}} professional profile on Oliv, a career platform built for talented youth. Learn more about {{firstName}} professional and educational background at {{universityName}}."
+    },
+    "employer": {
+      "title": {
+        "searchProfiles": "Search profiles | Oliv",
+        "postJob": "Post a job | Oliv",
+        "companyProfile": "Company profile | Oliv",
+        "settings": "Settings | Oliv",
+        "personalDetails": "Personal details | Oliv",
+        "notifications": "Notifications | Oliv",
+        "teamMembers": "Team members | Oliv",
+        "dashboard": {
+          "active": "{{companyName}}'s active jobs | Oliv",
+          "draft": "{{companyName}}'s draft jobs | Oliv",
+          "inactive": "{{companyName}}'s deactivated jobs | Oliv"
+        }
+      }
+    }
+  },
+  "modals": {
+    "salaryExpectations": {
+      "title": "Update salary expectation",
+      "description": "Help us find you jobs that match your expectations. This information is only visible to the Oliv team."
+    },
+    "messageEmployer": {
+      "title": "Message employer",
+      "label": "Message",
+      "description": "Get noticed with a personalised message that arrives directly in the employer's Oliv inbox.",
+      "messagesLeft": "{{count}} messages of {{total}} available in your Oliv Plus plan.",
+      "cta": "Not sure what to write? <1>Check out our blog</1> for inspiration and recommendations."
+    },
+    "republishJob": {
+      "confirmPostUsage": {
+        "title": "Are you sure?",
+        "description": "Republishing this job will use another job post, you have {{count}} job posts left. Do you want to republish this job?",
+        "submitButton": "Yes, republish job"
+      },
+      "noJobsLeft":  {
+        "title": "No job posts",
+        "description": "Republishing this job will use another job post, you have no job posts left.",
+        "submitButton": "Buy job posts"
+      }
+    },
+    "editJobAlert": {
+      "title": "Edit a Job Alert",
+      "description": "Your career interests help determine what jobs you're recommended."
+    },
+    "deleteJobAlert": {
+      "title": "Do you want to delete this job alert?",
+      "description": "This job alert will be deleted. You can always set up new job alerts."
+    },
+    "updateAvailability": {
+      "title": "Uh-oh! It appears that you aren't currently available",
+      "editTitle": "Edit availability",
+      "content": "Il semble que vous ne soyez pas disponible actuellement pour une opportunité. Afin de vous assurer que votre profil et vos prochaines demandes d’emploi soient visibles des employeurs, vous devez avoir des dates de disponibilités valides. Mettez vos disponibilités à jour ci-dessous."
+    },
+    "updatedPolicies": {
+      "title": "Nous avons mis à jour notre politique de confidentialité.",
+      "content": "<0>Nous avons récemment mis à jour notre <1>politique de confidentialité</1> selon la Réglementation de la protection des données de l’UE (GRPD). Veuillez cliquer ci-dessous pour en savoir plus.</0><1>En continuant à utiliser Oliv, vous acceptez nos derniers termes et conditions.</1>",
+      "submitButton": "Je comprend",
+      "cancelButton": "En savoir plus"
+    },
+    "jobOfferApplicationBulkDownloadSuccess": {
+      "title": "Application CVs sent",
+      "description": "Success! We've emailed you a link to download the selected CVs."
+    },
+    "candidateCvBulkDownloadSuccess": {
+      "title": "CV candidat envoyé",
+      "description": "Succès ! Le lien de téléchargement des CV des candidats à été envoyé sur votre adresse e-mail."
+    },
+    "companyProfileIncomplete": {
+      "title": "Donner les détails de l’entreprise",
+      "description": "Nous aimerions vous aider à poster votre annonce, mais d’abord veuillez en dire un peu plus sur votre entreprise aux potentiels candidats. Votre annonce sera sauvegardée sous forme de brouillon, afin que vous puissiez y revenir plus tard.",
+      "descriptionShort": "Nous aimerions vous aider à poster votre annonce, mais d’abord veuillez en dire un peu plus sur votre entreprise aux potentiels candidats."
+    },
+    "inviteToInterview": {
+      "title": "Inviter à un entretien",
+      "description": "Il semblerait que vous ayez trouvé chaussure à votre pied ! Pour des conseils sur l'entretien avec des candidats et donner une bonne première impression,",
+      "link": "visitez notre guide.",
+      "timeSlotsTitle": "Créneaux horaires",
+      "timeSlotsContent": "Suggérez jusqu’à 3 créneaux horaires au candidat et rencontrez-vous lorsque vos emplois du temps coïncident",
+      "addNewSlot": "Ajouter un créneau horaire"
+    },
+    "inviteToApply": {
+      "title": "Inviter le candidat",
+      "description": "Il semblerait que vous ayez trouvé chaussure à votre pied ! Invitée ce candidat à postuler à votre annonce."
+    },
+    "notApprovedUserNotice": {
+      "title": "Votre profil n’a pas encore été approuvé",
+      "description": "Votre profil n’a pas été approuvé par notre équipe à succès. L’approbation des profils prend généralement de 2 à 3 jours. Si vous attendez depuis plus longtemps que ça, veuillez nous envoyer un e-mail à team@oliv.com pour être approuvé immédiatement."
+    },
+    "jobOfferNotComplete": {
+      "title": "Il manque des informations nécessaires à cette annonce.",
+      "description": "Cette annonce ne peut pas être postée car certaines informations obligatoires sont manquantes."
+    },
+    "changeApplicationStatus": {
+      "title": "Modifier le statut pour {{status}}",
+      "description": "Êtes-vous sûr de vouloir changer le statut du candidat pour {{status}}?",
+      "declinedTitle": "Decline application"
+    },
+    "noCreditsLeft": {
+      "title": "Pas assez de crédits",
+      "description": "<0>Il semblerait que vous ayez atteint votre quota de crédits pour ce mois-ci. Les crédits sont utilisés pour déverrouiller les profils en invitant les candidats à postuler, en accédant aux détails de contact et en téléchargeant les CV.</0><1><0>Vous voulez plus de crédits ? Contactez nous à </0><1>team@oliv.com</1><2> afin que nous puissions vous aider.</2></1>"
+    },
+    "advisorMessage": {
+      "title": "Send email to candidate"
+    },
+    "deactivateJobOffer": {
+      "title": "Désactiver annonce",
+      "description": "Êtes-vous sûr de vouloir désactiver l’annonce {{jobTitle}} ?"
+    },
+    "jobOfferExpired": {
+      "title": "This job listing is no longer active.",
+      "description": "‌This job listing has been closed. Would you like to view active job posts on Oliv?"
+    },
+    "repostJobOffer": {
+      "title": "Reposter l’annonce",
+      "description": "Voulez-vous réactiver cette annonce ?"
+    },
+    "bulkMessages": {
+      "description": "Les candidats sélectionnés recevront le même message, mais ils ne verront pas les autres destinataires."
+    },
+    "reassessment": {
+      "title": "Avez-vous amélioré votre profil ?",
+      "description": "Si vous avez amélioré ou fait de gros changements à votre profil, vous pouvez demander à notre équipe une réévaluation. (N’abusez pas de cette option et ne demandez une réévaluation que si vous avez fait de grosses améliorations à votre profil)."
+    },
+    "applyWhenProfileNotCompleted": {
+      "title": "Votre profil est incomplet",
+      "description": "Veuillez compléter votre profil avant de postuler à des annonces."
+    },
+    "opportunityTypeHint": {
+      "title": "Type d’emploi",
+      "description": "<0><0>Stage :</0></0><1>AUn emploi à court terme, qui dure généralement 2 à 6 mois, rémunéré ou non, et que l’on réalise pendant ses études ou juste après. Les candidats reçoivent un suivi, une formation et une exposition à tous les différents départements de l’entreprise.</1><2><0>Emploi post-diplôme :</0></2><3>Un programme de placement sur le long terme, rémunéré ou non, qui dure généralement de 9 à 24 mois. Les meilleurs sont souvent embauchés comme employés permanents à la fin du programme. Les candidats reçoivent un suivi, une formations et une exposition à tous les différents départements de l’entreprise.</3><4><0>Emploi à temps partiel :</0></4><5>Un rôle qui ne demande que 15 à 20 heures de travail par semaine.</5><6><0>Emploi à temps plein :</0></6><7>Un rôle qui demande un minimum de 40 heures de travail par semaine.</7><8><0>Volontariat / Promotionnel / Employé d’événement :</0></8><9>Soutien ou travail effectué sur la base du bénévolat, souvent non rémunéré ou compensé par un petit salaire.</9>"
+    },
+    "profileVisibility": {
+      "title": "Partager profil",
+      "description": "Vous devez passer votre profil en public pour le partager."
+    },
+    "cvLinkedToApplicationModal": {
+      "title": "Oh oh ! Ce CV ne peut pas être supprimé.",
+      "description": "Vous avez joint ce CV à une candidature sur Oliv. Puisque votre candidature a déjà été envoyée à l’employeur, vous ne pouvez pas le supprimer. Vous pouvez toujours charger un nouveau CV dans votre profil et le joindre à vos candidatures futures. Si vous avez des questions, veuillez nous <1>contacter</1>. Nous vous aiderons avec plaisir."
+    },
+    "requestTimeSlotChange": {
+      "title": "Demander un autre créneau horaire",
+      "description": "Utilisez cette section pour demander un autre créneau horaire pour l’entretien. Assurez-vous de mentionner pourquoi vous ne pourrez pas aller à l’entretien sur les créneaux déjà suggérés."
+    },
+    "replyToInterviewInvitation": {
+      "title": "Répondre à l’invitation à un entretien",
+      "description": "Acceptez ou rejetez la demande d’entretien ou demandez plus d’onformations par chat.",
+      "noTimeSlotDescription": "Vous avez des questions ? <1>Chattez</1> avec l’employeur pour faire un suivi et discuter de son annonce."
+    },
+    "changeTemplate": {
+      "title": "Are your sure?",
+      "content": "You will lose any unsaved changes that have been performed. Are you sure you would like to proceed?",
+      "submitButton": "Yes, I'm sure",
+      "cancelButton": "Cancel"
+    },
+    "ORGANISATION": {
+      "MEMBERSHIP": {
+        "NO_PLAN": {
+          "title": "Upgrade your account",
+          "description": "This is a demo account. We built it to show you how you can use Oliv to post jobs, view profiles, manage applicants, and even build your employer brand with our community. Our team will get in touch shortly to walk you through our plans and answer any questions you might have.",
+          "contact": "Can’t wait? <1>Talk to sales</1> or call <3>{{supportPhoneNumber}}</3>."
+        },
+        "EXPIRED": {
+          "title": "Renew your membership",
+          "description": "Your membership on Oliv has expired.",
+          "contact": "Need to renew your membership or require additional support? <1>Talk to our team</1> or call <3>{{supportPhoneNumber}}</3>."
+        },
+        "FEATURE_UNAVAILABLE": {
+          "title": "Upgrade your account",
+          "description": "This is a demo account. We built it to show you how you can use Oliv to post jobs, view profiles, manage applicants, and even build your employer brand with our community. Our team will get in touch shortly to walk you through our plans and answer any questions you might have.",
+          "contact": "Can’t wait? <1>Talk to sales</1> or call <3>{{supportPhoneNumber}}</3>."
+        },
+        "NO_JOB_POSTS_LEFT": {
+          "title": "Oops! You've run out of job posts",
+          "description": "Your account has run out of job posts.",
+          "contact": "Need to post a new job or require additional support? <1>Talk to our team</1> or call <3>{{supportPhoneNumber}}</3>."
+        },
+        "JOB_POSTS_FEATURE_EXPIRED": {
+          "title": "Your access to post jobs has expired",
+          "description": "Your access to post jobs on Oliv has expired.",
+          "contact": "Need to post a new job or require additional support? <1>Talk to our team</1> or call <3>{{supportPhoneNumber}}</3>."
+        },
+        "NO_JOB_SLOTS_LEFT": {
+          "title": "Oops! You've run out of job slots",
+          "description": "Your job slots are all currently in use. Deactivate an active job post in order to post a new one.",
+          "contact": "Need to post a job or require additional support? <1>Talk to our team</1> or call <3>{{supportPhoneNumber}}</3>."
+        },
+        "JOB_SLOTS_FEATURE_EXPIRED": {
+          "title": "Your access to post jobs has expired",
+          "description": "Your access to post jobs on Oliv has expired.",
+          "contact": "Need to post a new job or require additional support? <1>Talk to our team</1> or call <3>{{supportPhoneNumber}}</3>."
+        }
+      }
+    },
+    "createJobAlert": {
+      "title": "Create a Job Alert",
+      "description": "Your career interests help determine what jobs you're recommended."
+    },
+    "inactiveMembershipJobsPricing": {
+      "title": "Let's get this job live",
+      "description": "Start posting jobs by choosing the right option for you. Your job post will be saved as a draft.",
+      "cta": "See pricing"
+    },
+    "inviteTeamMembers": {
+      "title": "Invite team members to collaborate",
+      "description": "Give your team access to",
+      "jobPosts": "Post, edit or delete job posts",
+      "candidates": "Contact profiles and download CVs",
+      "hint": "Inviting more than one team member? Enter their emails comma separated."
+    },
+    "addTeamMemberToConversation": {
+      "title": "Team members",
+      "description": "Add team members to join the conversation",
+      "cta": "Add team member"
+    },
+    "deleteOrganisationMember": {
+      "title": "Do you really want to delete this team member?",
+      "description": "Removing your team members will delete all their data and access. All jobs they might have posted will be assigned to you."
+    },
+    "unsavedInvalidJobOffer": {
+      "title": "Missing required information",
+      "description": "You have missing required information in the changes you made. Are you sure you want to discard those changes?"
+    },
+    "editTeamMembersPermissions": {
+      "title": "Change team member access"
+    },
+    "editDetails": {
+      "title": "Edit details"
+    },
+    "editPitch": {
+      "title": "Edit about me"
+    },
+    "editGeneralInfo": {
+      "title": "Edit general info"
+    },
+    "editEducation": {
+      "title": "Edit education"
+    },
+    "addEducation": {
+      "title": "Add education details"
+    },
+    "addExperience": {
+      "title": "Add experience details"
+    },
+    "editExperience": {
+      "title": "Edit experience details"
+    },
+    "editCertificate": {
+      "title": "Edit certificate details"
+    },
+    "addCertificate": {
+      "title": "Add certificate details"
+    },
+    "editVolunteering": {
+      "title": "Edit volunteering details"
+    },
+    "addVolunteering": {
+      "title": "Add volunteering details"
+    },
+    "editSkills": {
+      "title": "Edit skills"
+    },
+    "addLanguage": {
+      "title": "Add language"
+    },
+    "editLanguage": {
+      "title": "Edit language"
+    },
+    "uploadFile": {
+      "title": "Upload file"
+    },
+    "editInterests": {
+      "title": "Edit interests"
+    },
+    "editSocialLinks": {
+      "title": "Edit social links"
+    },
+    "autoApproveSignUpAgeConfirmation": {
+      "title": "Your confirmation is required",
+      "description": "Just a heads up - Oliv's mission is to help students and recent graduates find work experience. As a general rule of thumb, we only accept job seekers with a few years of experience, or less. Your confirmation is required that you still wish to create a profile on Oliv and apply to entry-level career opportunities available on the platform.",
+      "options": {
+        "continue": "I understand and I am willing to apply to entry-level career opportunities on Oliv, many of which prioritise training over large remuneration packages.",
+        "decline": "I do not wish to proceed with account creation, and would like Oliv to delete any personal information I have entered so far."
+      }
+    },
+    "manualPayment": {
+      "title": "Update payment details",
+      "cta": "Charge me now"
+    }
+  },
+  "commitmentJobOfferFilters": {
+    "over_30_hrs_weekly": "Plus de 30 heures par semaine",
+    "less_than_30_hrs_weekly": "Moins de 30 heures par semaine",
+    "i_dont_know_yet": "Je ne sais pas encore"
+  },
+  "rating": {
+    "needsImprovement": "Besoin d’améliorations",
+    "couldBeBetter": "Peut mieux faire",
+    "autoApproved": {
+      "header": "Your profile is approved!",
+      "description": "You can apply to jobs on Oliv, and verified employers will be able to contact you. Find below a few profile optimisation recommendations from Oliv."
+    },
+    "assessment": {
+      "bad": {
+        "label": "Votre profil n’a pas été approuvé.",
+        "description": "Le classement de votre profil est très bas. Lisez nos commentaires et améliorez votre profil pour demander une réévaluation."
+      },
+      "average": {
+        "label": "Votre profil pourrait être amélioré",
+        "description": "Votre profil pourrait être amélioré. Visitez votre profil et mettez-le a jour afin de demander une meilleure évaluation."
+      },
+      "good": {
+        "label": "Votre profil est top !",
+        "description": "Beau travail ! Votre profil a été approuvé. Gardez-le à jour afin de recevoir des opportunités d’emploi adaptées."
+      }
+    },
+    "assessmentDashboard": {
+      "not_approved": {
+        "label": "Your profile is not approved.",
+        "description": "Adjust your profile based on feedback from the Oliv team and ask for another profile review."
+      },
+      "bad": {
+        "label": "Your profile is approved",
+        "description": "Your profile needs improvement. Make changes based on feedback from the Oliv team and ask for a profile review."
+      },
+      "average": {
+        "label": "Your profile is approved",
+        "description": "Great start on your profile! Make changes based on feedback from the Oliv team to attract more employers."
+      },
+      "good": {
+        "label": "Your profile is approved",
+        "description": "Your profile looks great! Keep your profile up to date to receive relevant job opportunities."
+      }
+    },
+    "improvements": {
+      "link": {
+        "0": "En savoir plus",
+        "1": "Plus de conseils"
+      },
+      "grammarAndSpelling": {
+        "label": "Grammaire et orthographe",
+        "description": {
+          "0": "Relisez vos descriptions pour vous assurer qu’il n’y ait pas de fautes d’orthographe ou d’erreurs grammaticales. Cela peut paraître bête mais c’est important. Essayez des outils comme Grammarly pour vous aider.",
+          "1": "Vos professeurs de langue pourraient être fiers de vous. Vous avez fait du beau travail pour éviter les fautes d’orthographe et de grammaire. Cela peut paraître bête mais c’est important."
+        }
+      },
+      "aboutMe": {
+        "label": "A propos de moi",
+        "description": {
+          "0": "C’est généralement une des premières choses qu’un employeur verra sur votre profil. Évitez les déclarations génériques et soyez plus personnel. Pour commencer, vous pouvez parler de vos objectifs de carrière et de votre parcours.",
+          "1": "C’est généralement une des premières choses qu’un employeur verra sur votre profil. Il est important d’être personnel et d’éviter les déclarations génériques, et vous avez fait ça très bien."
+        }
+      },
+      "previousWork": {
+        "label": "Qualité et contenu des emplois précédents",
+        "description": {
+          "0": "Écrire les descriptions des expériences professionnelles passées peut être super difficile - il est important qu’elles ne soient pas trop longue, mais qu’elle aient assez de détails. Essayez d’utiliser ce format : A accompli [X] mesuré par [Y] en faisant [Z].",
+          "1": "Écrire les descriptions des expériences professionnelles passées peut être super difficile. Vous avez bien travaillé en les gardant à la fois courtes et détaillées. You've done a great job by not keeping them too long and adding enough detail. Nous recommandons d’utiliser ce format : A accompli [X] mesuré par [Y] en faisant [Z]."
+        }
+      },
+      "extracurricular": {
+        "label": "Qualité et contenu des activités extra-scolaires",
+        "description": {
+          "0": "Écrire les descriptions des activités peut être super difficile - il est important qu’elles ne soient pas trop longue, mais qu’elle aient assez de détails. Essayez d’utiliser ce format : A accompli [X] mesuré par [Y] en faisant [Z].",
+          "1": "Écrire les descriptions des activités peut être super difficile. Vous avez bien travaillé en les gardant à la fois courtes et détaillées. You've done a great job by not keeping them too long and adding enough detail. Nous recommandons d’utiliser ce format : A accompli [X] mesuré par [Y] en faisant [Z]."
+        }
+      },
+      "profilePhoto": {
+        "label": "Qualité de la photo de profil",
+        "description": {
+          "0": "Les Hommes sont des créatures visuelles, utilisez votre photo pour dégager une personnalité chaude et approchable. Utilisez une photo de haute qualité, en buste ou mi-corps, et n’oubliez pas de sourire !",
+          "1": "Les Hommes sont des créatures visuelles et vous avez bien réussi à dégager une personnalité chaude et approchable. Il est important d’utiliser une photo de haute qualité, en buste ou mi-corps, et n’oubliez pas de sourire !"
+        }
+      },
+      "quality": {
+        "label": "Qualité de la vidéo et du son",
+        "description": {
+          "0": "Essayez d’utiliser ou d’emprunter une caméra haute résolution pour faire une vidéo en mode paysage. Un arrière plan blanc ou uni, en lumière naturelle, est généralement le mieux. Pour un son parfait, essayez d’utiliser un microphone ou de tourner dans une pièce vide au calme.",
+          "1": "Félicitations pour avoir chargé un CV vidéo de haute qualité. Un arrière plan blanc ou clair en lumière du jour est généralement ce qu’il y a de mieux. Pour un son parfait, essayez d’utiliser un microphone ou de tourner dans une pièce vide et calme."
+        }
+      },
+      "creativity": {
+        "label": "Créativité vidéo",
+        "description": {
+          "0": "C’est votre chance de montrer votre merveilleuse personnalité aux employeurs de notre plateforme. Assurez-vous d'être personnel et d'éviter les déclarations génériques.",
+          "1": "C’est votre chance de monter votre merveilleuse personnalité aux employeurs de notre plateforme. Et dis donc, vous êtes merveilleux ! Il est important d’être personnel et d’éviter les déclarations génériques."
+        }
+      },
+      "fluencyAndTone": {
+        "label": "Fluidité et ton de la vidéo",
+        "description": {
+          "0": "Pour qu’une histoire ait du sens, elle doit inspirer. Racontez la vôtre avec clarté et passion. Montrez aux employeurs qui vous êtes vraiment, ce que vous pouvez faire et ce que vous serez un jour.",
+          "1": "Pour qu’une histoire ait du sens, elle doit inspirer. Beau travail, vous avez raconté votre histoire avec clarté et passion. Maintenant, les employeurs pourront voir qui vous êtes vraiment, ce que vous pouvez faire et ce que vous serez un jour."
+        }
+      },
+      "qualityOfVideoCv": {
+        "label": "Quality of video cv",
+        "description": {
+          "0": "Whilst you don't need Steven Speilberg production quality on your Video Cv, it definitely helps to have decent lighting levels and clear audio. The best Video CVs are 30 - 90 seconds in length, and focus on showcasing personality and enthusiasm."
+        }
+      }
+    }
+  },
+  "myApplications": {
+    "applied": {
+      "text": "Postulé",
+      "tooltipText": "Cette section vous montre les annonces auxquelles vous avez postulé."
+    },
+    "viewed": {
+      "text": "Vue",
+      "tooltipText": "Vos candidatures génèrent de l’intérêt ! Les employeurs ont vu vos condidatuees pour ces annonces."
+    },
+    "interviewRequested": {
+      "text": "Entretien demandé",
+      "tooltipText": "Youpi ! Vous avez reçu une demande d’entretien pour les annonces suivantes. Répondez tout de suite."
+    },
+    "hired": {
+      "text": "Embauché",
+      "tooltipText": "Félicitations ! Vous avez reçu une offre d’embauche pour le(s) emploi(s) suivant(s). Répondez dès que possible."
+    },
+    "declined": {
+      "text": "Refusé",
+      "tooltipText": "Malheureusement votre candidature n’a pas été retenue pour ces annonces."
+    }
+  },
+  "searchPlaceholders": {
+    "candidatesSearch": "Search for keywords, skills, majors and more",
+    "jobOfferSearch": "Search for keywords, skills, companies and more"
+  },
+  "searchAttributes": {
+    "major": "Major",
+    "university": "Université",
+    "city": "Ville",
+    "country": "Country",
+    "jobType": "Type d’annonce",
+    "department": "Département",
+    "commitment": "Engagement",
+    "industry": "Industrie",
+    "employmentType": "Type d’emploi",
+    "availability": "Disponibilité",
+    "duration": "Durée",
+    "location": "Lieu",
+    "nationality": "Nationalité",
+    "visaStatus": "Statut du visa",
+    "language": "Langue",
+    "degreeStatus": "Statut du diplôme",
+    "age": " ge",
+    "gender": "Sexe",
+    "videoCv": "CV vidéo",
+    "specialisations": "Spécialisations",
+    "availableNow": "Disponible maintenant",
+    "driversLicence": "Permis de conduire",
+    "countryOfResidence": "Country",
+    "showUnviewedOnly": "Show unviewed only",
+    "category": "Category",
+    "companyType": "Company type",
+    "easyApply": "Easy apply",
+    "easyApplyTooltip": "Only apply to jobs on Oliv, not on external career sites",
+    "loggedInAt": {
+      "title": "Last activity",
+      "sevenDays": "7 days",
+      "thirtyDays": "30 days",
+      "ninetyDays": "90 days",
+      "lastYear": "Last year",
+      "allTime": "All time"
+    },
+    "datePosted": {
+      "title": "Date posted",
+      "all": "All",
+      "day": "Past day",
+      "threeDays": "Past 3 days",
+      "week": "Past week",
+      "month": "Past month"
+    },
+    "viewed": {
+      "label": "Viewed",
+      "all": "All",
+      "viewed": "Viewed",
+      "unviewed": "Not viewed"
+    },
+    "contacted": {
+      "label": "Contacted",
+      "all": "All",
+      "contacted": "Contacted",
+      "notContacted": "Not contacted"
+    }
+  },
+  "roles": {
+    "candidate": "candidat",
+    "employer": "employeur",
+    "guest": "invité"
+  },
+  "payment": {
+    "confirmation": {
+      "authorised": {
+        "text": "Merci pour votre paiement. Votre compte sera automatiquement activé. Pour toute clarification, n’hésitez pas à nous contacter {{contactTeam}}.",
+        "title": "Votre paiement à bien été effectué !"
+      },
+      "cancelled": {
+        "text": "Vous avez annulé votre paiement. Vous pouvez réessayer de payer en utilisant le lien envoyé à votre adresse e-mail ou en cliquant sur le bouton « réessayer » ci-dessous.",
+        "title": "Le paiement a été annulé"
+      },
+      "declined": {
+        "text": "Quelque chose s'est mal passé et votre paiement n’a pas été traité. Veuillez vérifier vos détails de paiement et réessayer.",
+        "title": "Le paiement a été refusé"
+      }
+    },
+    "details": {
+      "welcomeOliv": "Bienvenue sur Oliv !",
+      "purchaseIntroduction": "Il ne vous reste plus qu’une étape pour trouver le meilleur talent et débuter votre carrière au Moyen orient - félicitations ! Si vous avez des questions, contactez nous {{contactTeam}}.",
+      "purchaseValid": "Ce lien de paiement est valide jusqu’au",
+      "vatIdentifier": "InternsME DMCC TRN",
+      "purchaseDetails": "Détails de l’achat",
+      "paymentDetails": "Détails de paiement",
+      "membershipDetails": "Abonnement • {{count}} mois",
+      "membershipDetails_plural": "Abonnement • {{count}} mois",
+      "items": "Articles",
+      "quantity": "Quantité",
+      "numberOfMonths": "Nombre de mois",
+      "jobSlots": "Emplacements d’emploi",
+      "jobPosts": "Annonces",
+      "databaseSearch": "Rechercher dans la base de données",
+      "dedicatedShortlistingService": "Service de présélection dédié",
+      "credits": "Crédits",
+      "companyPage": "Page entreprise",
+      "totalPrice": "Prix total",
+      "vat": "TVA",
+      "grandTotal": "Grand Total"
+    },
+    "continue": {
+      "authorised": "Continuer à utiliser Oliv",
+      "cancelled": "Réessayer",
+      "declined": "Réessayer"
+    },
+    "loading": "Chargement des détails de transaction...",
+    "processing": "Traitement du paiement, veuillez patienter..."
+  },
+  "order": {
+    "title": "So close to hiring top talent.",
+    "summary": "Summary",
+    "review": "Review",
+    "checkout": "Checkout",
+    "questions": {
+      "employer": "Questions? <1>Talk to sales</1>",
+      "candidate": "Questions? <1>Talk to support</1>"
+    },
+    "perJobPost": "per job post",
+    "numberOfJobPosts": "Number of job posts",
+    "jobPostBenefitsTitle": "All Oliv plans include",
+    "databaseSearchBenefitsTitle": "CV Search includes",
+    "cvSearch": "CV search",
+    "cvStartingAt": "Starting at {{priceWithCurrency}}/mo",
+    "olivPlus": {
+      "title": "Almost an Oliv Plus member",
+      "productName": "Oliv Plus",
+      "onlyPriceMonth": "Only {{price}}/month",
+      "monthlyPlan": "Monthly plan",
+      "applicationBoosts": "Application boosts",
+      "directMessages": "Direct messages",
+      "tooltips": {
+        "applicationBoosts": "Boost your applications to the top of employer's list. This feature doubles your application visibility for the career opportunities that you want most.",
+        "directMessages": "Stand out of the crowd by starting the discussion with an employer. Messages arrive directly on their Oliv inbox."
+      },
+      "productBenefits": {
+        "title": "All Oliv Plus plan include",
+        "list": {
+          "boostApplications": "Boost your applications",
+          "messageEmployers": "Message verified employers",
+          "support": "Get priority support"
+        },
+        "renewText": "Your Oliv Plus membership will renew automatically every 30 days.",
+        "termsText": "You can cancel anytime. Check out the full <1>Terms and Conditions</1>.",
+        "checkoutText": "Your payment will be processed by Checkout Ltd, licensed by the UK Financial Conduct Authority under license 900816. Your credit card details will not be stored on Oliv."
+      }
+    }
+  },
+  "company": {
+    "form": {
+      "edit": {
+        "title": "Modifier les détails de l’entreprise",
+        "description": "Donnez aux candidats des détails sur votre entreprise."
+      },
+      "extraFeatures": {
+        "title": "Détails additionnels sur l’entreprise",
+        "description": "Personnalisez le profil de votre entreprise et vos annonces en ajoutant une photo de couverture, une vidéo et une galerie d’images."
+      },
+      "sections": {
+        "description": {
+          "label": "Description de l’entreprise",
+          "text": "Donnez une description courte, expliquant aux candidats pourquoi ils doivent être motivés pour travailler avec vous. (P.S cette description apparaîtra sur toutes vos annonces et sur votre profil d’entreprise.)"
+        },
+        "logo": {
+          "label": "Logo de l’entreprise",
+          "text": "Chargez le logo de votre entreprise. Assurez vous qu’il ne dépasse pas 5MB et qu’il ait une des extensions suivantes : png, jpg, jpeg."
+        },
+        "coverPhoto": {
+          "label": "Photo de couverture",
+          "text": "Chargez une image qui sera affichée en couverture de votre page d’entreprise. Assurez vous qu’elle ne dépasse pas 5MB et qu’elle ait une des extensions suivantes : png, jpg, jpeg."
+        },
+        "perks": {
+          "label": "Avantages",
+          "text": "Sélectionnez jusqu’à 6 aspects qui encourageront les candidats à débuter leur carrière avec votre entreprise."
+        },
+        "video": {
+          "label": "Vidéo",
+          "text": "Ajoutez une vidéo à votre page d’entreprise et vos annonces pour faire sortir votre entreprise du lot pour les candidats."
+        },
+        "images": {
+          "label": "Images",
+          "text": "Chargez jusqu’à 6 images pour donner aux candidats un aperçu de ce que fait votre entreprise et ce à quoi ressemble une journée au bureau. Assurez vous qu’elles ne dépassent pas 5MB et qu’elles aient une des extensions suivantes : png, jpg, jpeg."
+        },
+        "unavailableMediaSections": {
+          "label": "Photo de couverture, vidéo et images",
+          "text": "Personnalisez la page de votre entreprise en déverrouillant l’accès à l’image de couverture, les vidéos et les images."
+        }
+      }
+    },
+    "location": "Lieu",
+    "perks": "Avantages",
+    "company": "الشركة",
+    "description": "Description",
+    "companyProfile": "Profil entreprise",
+    "locationNotSpecified": "Location de base non spécifiée",
+    "descriptionPlaceholder": "Cette entreprise n’a pas encore entré de description.",
+    "IndustryNotSpecified": "Industrie non spécifiée"
+  },
+  "chat": {
+    "unreadMessages": "You have <strong>{{count}} unread</strong> message",
+    "unreadMessages_plural": "You have <strong>{{count}} unread</strong> messages",
+    "recentMessages": "Messages",
+    "noMessagesYet": "Pas encore de messages",
+    "applicantPosition": "Candidat pour",
+    "candidatePosition": "Candidat pour",
+    "viewJobDetails": "Voir les détails de l’annonce",
+    "viewApplication": "Voir candidature",
+    "viewCandidate": "Voir candidat",
+    "dismissChat": "Cacher le chat",
+    "typeYourMessageHere": "Tapez votre message ici...",
+    "loadingMessages": "Chargement des messages",
+    "loadingChannel": "Chargement du canal",
+    "beginningOfConversation": "C’est le tour début de votre conversation avec {{name}}.",
+    "noChats": "Vous n’avez pas de chats pour le moment",
+    "messagesEmptyState": {
+      "employer": "Rechercher des candidats ou choisir un candidat prometteur pour commencer une conversation",
+      "candidate": "Oh, on entend les grillons. Accrochez-vous, des employeurs vous contacteront bientôt !"
+    },
+    "selectChat": "Veuillez sélectionner un chat pour commencer à envoyer des messages",
+    "showPreviousMessages": "Voir les messages précédents",
+    "dismissConfirmation": {
+      "title": "Voulez-vous vraiment terminer ce chat ?",
+      "text": "Le candidat ne pourra plus vous contacter une fois que vous aurez terminé.",
+      "confirm": "Oui, terminer"
+    },
+    "dismissed": {
+      "employer": "Vous avez terminé ce chat. Cliquez sur le bouton débloquer chat en haut pour envoyer des messages.",
+      "candidate": "L’employeur a terminé cette conversation."
+    },
+    "unblockChat": "Débloquer chat",
+    "interviewRequest": "Accepter ou rejeter la demande d’entretien, ou demander plus d’informations",
+    "interviewRequestResponse": {
+      "accept": "Merci beaucoup pour votre invitation d’entretien pour le poste de {{positionTitle}} J’apprécie cette opportunité et j’ai hâte de m’entretenir avec {{companyName}}.",
+      "reject": "Merci beaucoup d’avoir pensé à moi pour le poste de {{positionTitle}} et pour votre invitation d’entretien avec {{companyName}}. Toutefois, je souhaite retirer ma candidature pour ce poste. J’apprécie réellement le temps que vous avez pris pour lire ma candidature. Encore une fois, merci d’avoir pensé à moi."
+    },
+    "defaultMessage": {
+      "title": "Nous sommes là pour vous aider",
+      "description": "Voici quelques lignes directrices pour vous aider à communiquer avec les employeurs sur Oliv",
+      "ctaButton": "En savoir plus"
+    },
+    "joinActiveChannel": "{{candidateName}} is in an active conversation with your team, would you like to join?",
+    "joinConversation": "Join Conversation",
+    "openChat": "Open chat",
+    "settingUp": "Setting up your chat room. We're excited too.",
+    "filters": {
+      "all": "All",
+      "premium": "Premium members",
+      "jobApplicant": "Job applicants",
+      "invitedCandidate": "Invited candidates",
+      "myInvites": "My invites",
+      "myApplications": "My applications",
+      "olivPlus": "Oliv Plus",
+      "olivia": "Olivia",
+      "shortlistByOlivia": "Shortlist by Olivia"
+    },
+    "tags": {
+      "all": "All",
+      "premium": "Premium",
+      "jobApplicant": "Job applicant",
+      "invitedCandidate": "Invited candidate",
+      "myInvites": "My invites",
+      "myApplications": "My applications",
+      "olivPlus": "Oliv Plus"
+    },
+    "awaitingToReplyTooltip": "Awaiting employer reply. You will be able to continue this conversation once the employer replies to this chat thread. <1>Here</1> are some tips on the best ways to initiate chats on Oliv.",
+    "read": "Read",
+    "delivered": "Delivered",
+    "candidatesAwaitingToReply": "{{count}} Candidate waiting your reply.",
+    "candidatesAwaitingToReply_plural": "{{count}} Candidates waiting your reply.",
+    "oliviaIsTyping": "Olivia is typing",
+    "botClosableMessage": {
+      "employer": "Hey there! I'm Olivia, Oliv's shortlisting bot. Whenever you post a role, I keep an eye out for candidates who may be a great fit and the shortlist them for you. Before shortlisting any candidate, I reconfirm their interest, availability and acceptance of the working location and compensation, based on what you've entered in your job post. I usually present shortlists within 7-10 days of a job being posted and will send updates every week or so.",
+      "candidate": "Hey there! I'm Olivia, Oliv's shortlisting bot. I look out for great candidates like you to shortlist directly to employers on Oliv. If I think you may be a strong fit for a role, I'll need to ask you a few questions to reconfirm your interest and availability. Please complete all of my questions within 3 days in order to be shortlisted. And for any other support, reach us anytime at <b><u>olivia@oliv.com</u></b>"
+    },
+    "botDeclineConfirm": "Are you sure?",
+    "botDeclineWithDescriptionConfirm": "Are you sure? Bear in mind that there <strong>may</strong> be scope for discussion about this, if you receive an offer."
+  },
+  "terms": {
+    "termsAndConditions": "Termes et conditions",
+    "Basic": " Ces termes et conditions gouvernants votre relation avec Oliv. (Nous ou l’Entreprise) Veuillez prendre le temps de les lire car ils affectent vos droits et responsabilités vis à vis de la loi. Si vous entrez dans une transaction avec l’Entreprise (que ce soit par e-mail, téléphone, par écrit ou en personne, ou par tout autre moyen), ces Termes et Conditions s’appliqueront et régiront chaque transaction. Si vous avez des questions sur les Termes et Conditions, veuillez nous contacter. Ces Termes et Conditions, modifiés de temps en temps (« ces termes ») s’appliquent à votre utilisation de notre site web, www.oliv.com (« Le site »). Vous devrez lire et sauvegarder une copie de ces termes et Conditions pour une utilisation future. Toutes les politiques, procédures et lignes directrices qui apparaissent sur le site de temps en temps (« les politiques ») doivent être incorporées à ces termes. « Vous/votre » signifie vous, l’utilisateur du site.",
+    "privacyNotice": {
+      "title": "Notice de confidentialité",
+      "description": "Chez Oliv, la confidentialité de nos utilisateurs est notre priorité. Notre <1><0>politique de confidentialité</0></1> a été mise à jour en accord avec la Réglementation générale pour la protection des données de l’Union Européenne (RGPD). Veuillez la lire et accepter nos termes si vous êtes d’accord.",
+      "agree": "J’accepte les <1>Termes et Conditions.</1>",
+      "underageAgree": "Please ask a parent or guardian to review these documents, and by doing so, confirm they have read and accept Oliv’s <1>Privacy Policy</1> and <3>Terms & Conditions</3>."
+    }
+  },
+  "contactPage": {
+    "contactUs": "Nous contacter",
+    "aboutUs": "A propos de nous",
+    "aboutUsMore_1": "Oliv est un portail en ligne créé pour les jeunes de MENA. Nous mettons en relation des étudiants et jeunes diplômés talentueux avec de gros employeurs pour des stages, des emplois à temps partiel et des emplois pour jeunes diplômés. is an online portal made for the youth in MENA.",
+    "aboutUsMore_2": "Le taux de chômage des jeunes en MENA est presque deux fois supérieur à la moyenne mondiale - nous répondons à ce problème grâce à la technologie, en donnant du pouvoir aux communautés et en bâtissant des partenariats.",
+    "companyName": "Oliv (Oliv LCC)",
+    "companyAddressBuilding": "International Business Tower",
+    "companyAddressFloorAndOffice": "Office 1101",
+    "companyAddressDevelopment": "Business Bay",
+    "companyAddressCity": "Dubai, UAE",
+    "companyPostCode": "P.O.Box 309119"
+  },
+  "pricingPage": {
+    "headingPricing": "Facturation simple",
+    "aboutPricing": "Fini les agences de recrutement onéreuses et les sites d’annonces peu fiables. Nos options de facturation flexibles sont conçues pour répondre à vos besoins sans casser votre tirelire.",
+    "questionsPricing": "https://projects.invisionapp.com/d/main/default/#/console/12166634/274456266/inspect",
+    "haveAnyQuestions": "Vous avez une question ?",
+    "plans": {
+      "single": {
+        "howManyHires": "Je souhaite embaucher 1 ou 2 personnes",
+        "planType": "Oliv Lite",
+        "planTypeMore": "Une annonce active pendant 30 jours et la recherche de CV",
+        "planTypeAdvantages": "Oliv Lite comprend :",
+        "oneActiveJob": "1 annonce active",
+        "cvSearch": "Recherche de CV",
+        "handpickedShortlist": "Sélection a la main de 5 candidats"
+      },
+      "multiple": {
+        "howManyHires": "Je souhaite embaucher plusieurs personnes",
+        "planType": "Abonnement",
+        "planTypeMore": "Payez un abonnement et embauchez autant de personnes que nécessaire.",
+        "planTypeAdvantages": "L’abonnement comprend :",
+        "cvSearch": "Recherche de CV",
+        "trackingAndSupport": "Système de suivi et de rapports des candidats",
+        "shortlistingSupport": "Aide à la sélection",
+        "dedicatedManager": "Gestionnaire de compte dédié"
+      }
+    },
+    "faq": {
+      "faqHeading": "Foire aux questions",
+      "faqQuestions": {
+        "aboutProcess": "Quel est le processus légal pour embaucher des stagiaires ?",
+        "aboutProcessAnswer": "Embaucher des stagiaires est légal dans les EAU et toutes les Zones Libres. Le processus diffère selon la zone commerciale, c’est pourquoi nous avons créé un {{internVisaGuide}} pour vous aider. Nous vous suggérons de contacter votre autorité réglementaire pour en savoir plus.",
+        "internVisaGuide": "guide de visa de stage",
+        "aboutShortlisting": "Que signifie présélectionner ?",
+        "aboutShortlistingAnswer": "Votre gestionnaire de compte dédié vous enverra une présélection personnalisée de 5 candidats disponibles et talentueux, afin de faciliter au maximum votre processus d’emploi. Notre service de présélection a un taux de succès de 95%.",
+        "aboutPayment": "Combien dois-je rémunérer les stagiaires et employés junior ?",
+        "aboutPaymentAnswer": "Oliv ne gère pas la compensation qu’un employeur offre à un candidat. Mais nous encourageons toujours un salaire minimal pour augmenter l’attirance de votre annonce. Nous avons créé un {{compensationGuide}} pour vous aider.",
+        "compensationGuide": "guide de compensation",
+        "aboutHiring": "Puis-je embaucher seulement des stagiaires sur votre plateforme ?",
+        "aboutHiringAnswer": "Vous pouvez embaucher bien plus que des stagiaires ! Oliv peut être utilisé pour embaucher des stagiaires et des employés à temps partiel et temps plein. Notre communauté est composée d’étudiants et de jeunes diplômés qui peuvent avoir jusqu’à 3 années d’expérience."
+      }
+    },
+    "buttons": {
+      "getStarted": "Commencer",
+      "contactUs": "Nous contacter"
+    }
+  },
+  "plansPage": {
+    "HeroSection": {
+      "heading": "Land your dream job with",
+      "description": "Get tailored resumes, compelling cover letters, and impressive Linkedin profiles designed by industry experts to help you stand out."
+    },
+    "heading": "A hiring platform that's more than just ad space.",
+    "description": "No more expensive recruiting agencies and unreliable job boards. Choose the right option for you.",
+    "helpCenterCta": "For more billing information, check out our <1>Help Center</1>",
+    "products": {
+      "jobPost": {
+        "title": "Job post",
+        "titlePlural": "Job posts",
+        "description": "For businesses looking to post jobs",
+        "total": "Total",
+        "vatInclusive": "VAT inclusive",
+        "selectLabel": "Save with multiple job posts",
+        "savings": "Save",
+        "customPricing": "Custom pricing",
+        "summaryDescription": "Job posts can be used any time up to 12 months from purchase date.",
+        "benefits": {
+          "expiryPeriod": "Job post active for 30 days",
+          "companyPage": "Branded company page",
+          "applicantFilters": "Applicant tracking and filtering system",
+          "support": "Email, chat and call support"
+        },
+        "freeBtn": "Post jobs for free"
+      },
+      "databaseSearch": {
+        "title": "CV Search",
+        "vatInclusive": "VAT inclusive",
+        "contacts": "Contacts",
+        "summaryDescription": "View unlimited profiles and contact up to 50 profiles every month. Renewed every month automatically until you <1>cancel</1> your plan.",
+        "benefits": {
+          "screenedCommunity": "Screened community",
+          "filters": "Over 15 search and rating filters",
+          "cvs": "Video CVs",
+          "sort": "Sort by relevancy and recent activity"
+        }
+      },
+      "customized": {
+        "title": "Customized",
+        "description": "For businesses looking for custom hiring solutions",
+        "services": {
+          "payPerHire": "Recruiting",
+          "cvSearch": "CV Search",
+          "jobSlots": "Job slots",
+          "subscriptionPlans": "Subscription plans"
+        },
+        "tooltips": {
+          "payPerHire": "Supercharge your hiring efforts by receiving hand-picked shortlists of qualified applicants.",
+          "cvSearch": "Access to the world’s first screened community of young professionals with advanced search, sorting, and rating filters to narrow down to your ideal fit.",
+          "jobSlots": "Job slots represent the number of jobs you can have live at any given time, so you have the flexibility you need to fill roles as they open up.",
+          "subscriptionPlans": "Make an unlimited number of hires at a fixed recurring price on Oliv, so you're able to staff your team with top-tier talent whenever you need to.",
+          "contacts": {
+            "contactsHeader": "Contact credits are used when you",
+            "cvDownload": "Download a CV",
+            "inviteCandidate": "Invite a candidate to apply your job",
+            "revealContact": "Reveal contact details on a profile"
+          }
+        }
+      }
+    },
+    "questions": {
+      "title": "Questions",
+      "description": "Call <1><0>{{supportPhoneNumber}}</0></1> or <3>live chat</3>"
+    },
+    "testimonial" : {
+      "description": "The quality and diversity of candidates available regionally and globally is genuinely second to none.",
+      "author": "Prathna Jham",
+      "jobDetails": "Managing Consultant at Michael Page"
+    },
+    "companies": {
+      "title": "The world's best brands companies rely on Oliv.",
+      "description": "We've helped +1,000 beloved startups, global titans, and everyone in between to hire top talent.",
+      "cta": "Customer stories"
+    }
+  },
+  "aboutPage": {
+    "mainTitle": "We build technology and empower young communities",
+    "mainDescription": "<0>Launched in 2013, we set out to tackle a huge problem - <1>a 30% youth unemployment rate in the MENA region.</1> Oliv helps university students and graduates launch their careers. And we're pretty good at it.</0><1>Today, it's home to thousands of students and graduates where their ambitions are aligned to opportunity. More than 1,000 businesses from startups to Fortune 500s use Oliv to hire top emerging talent to maintain a healthy talent pipeline and grow their business for the future.</1><2>Our goal is to make launching careers simple, personal and rewarding. That's Oliv.</2>",
+    "counters": {
+      "students": "students and grads on Oliv",
+      "businesses": "businesses hire on Oliv",
+      "interviewed": "interviewed every month"
+    },
+    "pressHighlights": {
+      "title": "Press highlights",
+      "description": "Interested in writing about Oliv? Our team loves working with journalists around the world to share compelling, unique stories and data. ",
+      "cta": "View press resources",
+      "articleOne": "U.A.E Innovation Fund Backs Dubai Startup Oliv",
+      "articleTwo": "InternsME.Com Rebrands To Oliv.Com To Cater To All Entry-Level Opportunities",
+      "articleThree": "Oliv wins the Digital Startup of the Year — Enterprise Agility Awards"
+    },
+    "companies": {
+      "title": "The world's best companies rely on Oliv",
+      "description": "More than 1,000 businesses use Oliv to hire for internships, part-time jobs and graduate jobs.",
+      "cta": "Customer stories"
+    },
+    "headquarters": {
+      "title": "Headquartered in Dubai, and growing",
+      "description": "The team at Oliv comes together with a shared deeply meaningful purpose. We believe in putting our talents and passions together towards our mission. Join us to make launching careers simple, personal and more rewarding.",
+      "cta": "View careers"
+    },
+    "insideCtaButtons": {
+      "titleCandidates": "Students and graduates",
+      "descriptionCandidates": "Launch your career",
+      "titleEmployers": "Employers",
+      "descriptionEmployers": "Hire top emerging talent",
+      "getStarted": "Get started",
+      "learnMore": "Learn more"
+    }
+  },
+  "employersPage": {
+    "heading": "Embaucher les meilleurs talents émergents",
+    "headingMore": "Oliv vous aide à embaucher des étudiants talentueux pour des stages, des emplois à temps partiel et des emplois pour jeunes diplômés. {{storyLink}}",
+    "learnMore": "Learn more",
+    "enterYourEmail": "Entrez votre e-mail",
+    "getStared": "Commencer",
+    "getHired": "Vous souhaitez être embauché ?",
+    "forCandidates": "Pour les candidats",
+    "switchButtons":{
+      "firstOption": "Employer",
+      "secondOption": "Candidate"
+    },
+    "ctaButtons": {
+      "postJob": "Post a job",
+      "createDemoAccount": "Create a demo account"
+    },
+    "testimonial": {
+      "text": "With Oliv we can identify top diverse talent — the community and technology enables us to narrow down to exactly who we're looking for",
+      "jobTitle": "human resources manager"
+    },
+    "moreClients": "More than 1,000 companies rely on Oliv to hire top early-career candidates",
+    "moreClientsCTA": "Renseignez vous sur comment ces entreprises utilisent Oliv",
+    "aboutOliv": {
+      "moreAbout": "Attract relevant talent, not just applications",
+      "communityHeading": "Communauté sélectionnée",
+      "communityHeadingMore": "Accédez a des candidats avec visa, sélectionnés selon des critères démographiques, de personnalité et de communication.",
+      "talentHeading": "Powerful technology",
+      "talentHeadingMore": "Une plateforme unique et puissante pour vous aider à trouver. Filtrer, gérer et embaucher les bons candidats.",
+      "supportHeading": "Soutien inégalé",
+      "supportHeadingMore": "Dedicated assistance and everything you need to hire — our resources, experience and recruiting support."
+    },
+    "platformSection": {
+      "communityHeading": "Plongez dans une communauté vérifiée et sélectionnée",
+      "communityHeadingMore": "Chaque candidat passe par un processus de tri qui vérifie son profil. Ses données démographiques, sa personnalité et ses capacités de communication",
+      "communityHeadingCTA": "Contactez nous pour en savoir plus",
+      "learnMore": "Our screening process",
+      "applicantsHeading": "Trouvez des talents, gérez les candidats et embauchez - depuis une seule plateforme",
+      "applicantsHeadingCTA": "Commencer",
+      "applicantsFeatures": {
+        "attractTalent": {
+          "title": "Attract top talent",
+          "description": "‌Build your employer brand with company pages that tell your story and get applications with job post"
+        },
+        "getMatched": {
+          "title": "Get matched",
+          "description": "‌Data from thousands of successful hires are used to run matching algorithms that help you find the right fit"
+        },
+        "manageApplications": {
+          "title": "Manage applications",
+          "description": "‌Filter, track and manage applications through your hiring funnel or reach more candidates in our community"
+        },
+        "message": {
+          "title": "Message",
+          "description": "‌Reach out to your favourite applicants to ask more questions, set up interviews and hire"
+        }
+      }
+    },
+    "supportSection": {
+      "heading": "Gagnez un soutien inégalé",
+      "headingMore": "Pas de centres d’appel, pas de sous-traitants, seulement une assistance réactive et personnelles pour s’assurer que vous embauchiez",
+      "support": "Support",
+      "onBoardingAndResources": {
+        "title": "Onboarding and Resources",
+        "description": "Get set up and start hiring immediately. From the very beginning, your team has the advantage of our knowledge, experience, and best practices."
+      },
+      "dedicatedHiringSupport": {
+        "title": "Dedicated Hiring Support ",
+        "description": "Get a dedicated success manager to supercharge your hiring efforts by receiving hand-picked shortlists of qualified applicants."
+      }
+    },
+    "customersSection": {
+      "ourCustomers": "Our customers",
+      "title": "The world's best companies rely on Oliv",
+      "description": "Join over 1,000+ companies in empowering the youth of the Middle East. We've helped beloved startups, global titans, and everyone in between to find the recruit top millenial talent.",
+      "cta": "Customer stories",
+      "quotation": "2 years ago I applied to a job at Sephora through Oliv... and here I am hiring our next generation.",
+      "author": "Krystal Gonzales",
+      "authorPosition": "Human Resources Executive at Sephora"
+    },
+    "ctaSection": {
+      "heading": "Hire better talent, faster with Oliv",
+      "description": "Tap into a screened community, use technology built for relevancy, and get unparalleled hiring support",
+      "headingPlaceholder": "Entrez votre e-mail",
+      "headingButton": "Commencer"
+    }
+  },
+  "footer": {
+    "candidates": {
+      "jobSeekers": "Chercheurs d’emploi",
+      "forJobSeekers": "Pour les chercheurs d’emploi",
+      "jobs": "Emplois",
+      "signUp": "S’inscrire",
+      "successStories": "Histoires de succès",
+      "blog": "Blog",
+      "faq": "FAQ"
+    },
+    "employers": {
+      "employers": "employeurs",
+      "forEmployers": "Pour les employeurs",
+      "emiratisation": "Emiratisation",
+      "eventStaffing": "Employés pour les événements",
+      "customerStories": "Histoires de clients",
+      "pricing": "Tarifs",
+      "hiring": "Embaucher",
+      "aboutOliv": "A propos d’Oliv",
+      "careers": "Carrières",
+      "employerBlog": "Blog employeur",
+      "solutions": "Solutions"
+
+    },
+    "common": {
+      "resources": "Ressources",
+      "solutions": "Solutions",
+      "navigation": "Navigation"
+    },
+    "contact": {
+      "company": "Blog de l’entreprise",
+      "careers": "Carrières",
+      "careersHiring": "Nous embauchons",
+      "press": "Presse",
+      "giveUsCall": "Appelez-nous : {{callNumber}}",
+      "about": "A propos d’Oliv",
+      "paymentMethods": "Méthodes de paiement"
+    },
+    "bottom": {
+      "termsOfService": "Termes de service",
+      "privacyPolicy": "Politique de confidentialité",
+      "contactUs": "Nous contacter",
+      "copyright": "Copyright © {{year}} Oliv. Tous droits réservés."
+    }
+  },
+  "accessPermissions": {
+    "button": "Invite candidates to apply to jobs by purchasing CV Search",
+    "filter": "Améliorez votre abonnement pour obtenir l’accès.",
+    "accessAlertModal": {
+      "title": "Améliorez votre compte",
+      "description": "<0>Ceci est un compte démo. Nous l’avons conçu pour vous montrer comment vous pouvez utiliser Oliv pour poster des annonces, voir des profils, générer les candidats, et même construire votre image d’employeur auprès de notre communauté.</0><1>Notre équipe vous contactera rapidement pour vous parler de nos abonnements et répondre à toutes les questions que vous pourriez avoir.</1><2>Vous avez hâte ? <1>{t('common.talkToSales')}</1> ou appelez lel <1>{{supportPhoneNumber}}</1>.</2>",
+      "seeMoreCandidates": "Upgrade your membership to gain access."
+    }
+  },
+  "candidatesPage": {
+    "heading": "La meilleure façon de faire décoller votre carrière. Enfin.",
+    "headingMore": "Nous rendons votre recherche de stagiaires et de jeunes diplômés simple, personnelle et gratifiante. {{storyLink}}",
+    "placeholder": "Essayez avec le titre d’un emploi, un major ou un mot clé",
+    "search": "Search jobs",
+    "lookingTalents": "Vous souhaitez embaucher un talent ?",
+    "forEmployers": "Pour les employeurs",
+    "brandsOliv": "Plus de 1 000 entreprises utilisent Oliv pour embaucher des étudiants universitaires et de jeunes diplômés",
+    "switchButtons":{
+      "firstOption": "Candidate",
+      "secondOption": "Employer"
+    },
+    "ctaButtons": {
+      "postJob": "Employer",
+      "createProfile": "Create profile"
+    },
+    "whyOliv": {
+      "moreAbout": "Pourquoi vous aller adorer Oliv",
+      "findHeading": "Jobs right for you",
+      "findHeadingMore": "Make a profile on Oliv and we'll get busy matching your skills and background to the right available opportunities.",
+      "supportHeading": "Real humans, real support",
+      "supportHeadingMore": "Our team is dedicated to helping you at every step of the way, get expert advice and resources to launch your career.",
+      "easyHeading": "Easy job applications",
+      "easyHeadingMore": "Once you're accepted to Oliv, you can start applying to jobs you love, track your progress, and set up job alerts."
+    },
+    "heroesSection": {
+      "heroesHeading": "Rencontrez nos héros",
+      "heroesHeadingMore": "Les entreprises font passer des entretiens à plus de 1 000 étudiants et jeunes diplômés chaque mois sur Oliv",
+      "heroesHeadingCTA": "Apprenez-en plus sur notre communauté",
+      "ahmedName": "Khalid",
+      "ahmedPosition": "Programme de développement des jeunes diplômés",
+      "ahmedCompany": "DMCC",
+      "ahmedAbout": "Moins d’une heure après avoir postulé à l’annonce, j’ai été appelé par Oliv pour passer un entretien dans la même semaine. Oliv a été d’un grand soutien et rapide. C’est de loin le meilleur endroit pour les étudiants et les jeunes simplismes qui veulent commencer leur carrière.",
+      "hanaaName": "Naimah",
+      "hanaaPosition": "Stage",
+      "hanaaCompany": "Colgate",
+      "hanaaAbout": "J’ai trouvé le départ parfait pour ma carrière grâce à Oliv, seulement quelques jours après avoir obtenu mon diplôme ! L’équipe s’est personnellement impliquée dans le processus de candidature en s’assurant que les réponses soient reçues rapidement, pour ne pas perdre de temps. Merci d’avoir pris le temps de m’aider.",
+      "pavanName": "Miqdad",
+      "pavanPosition": "Stage",
+      "pavanCompany": "Mastercard",
+      "pavanAbout": "J’ai obtenu un stage à Mastercard grâce à Oliv. Leur équipe m’a donné d’excellents conseils et ont été d’un grand soutien pendant tout le processus. Je ne doute pas qu’Oliv travaillera d’arrache-pied pour vous aider à trouver un emploi et atteindre vos objectifs !",
+      "seeMoreStories": "Voir d’autres histoires"
+    },
+    "ctaSection": {
+      "headingEasyFree": "Commencer est simple. Et totalement gratuit, pour toujours.",
+      "headingPlaceholder": "Entrez votre e-mail",
+      "headingButton": "Commencer"
+    },
+    "coursesSection": {
+      "heading": "Skill up with free video courses.",
+      "description": "Oliv Academy is a learning hub with free courses designed to help you launch your career — covering CV writing, cover letters, interview prep and lots more.",
+      "cvCourse": {
+        "heading": "CV Writing 101",
+        "description": "A recruiter only looks at a CV for 6 to 8 seconds. What should you write to make them read for longer? We've created this..."
+      },
+      "interviewCourse": {
+        "heading": "Interviewing Skills",
+        "description": "A quick 11-step course to help students and recent graduates prepare, practice, and tackle job interviewing and following up..."
+      },
+      "free": "Free",
+      "viewCourse": "View course"
+    },
+    "promotedJobOffersSection": {
+      "heading": "Oliv is where jobs do grow on trees. Sort of.",
+      "cta": "More jobs"
+    }
+  },
+  "jobOfferApplications": {
+    "selectedApplicants": "{{count}} candidat sélectionné",
+    "selectedApplicants_plural": "{{count}} candidats sélectionnés"
+  },
+  "files": {
+    "downloading": "Téléchargement des fichiers. Vous serez automatiquement redirigé vers les annonces dans {{timeout}} secondes.",
+    "candidateDownloading": "Vous serez automatiquement redirigé vers votre tableau de bord dans {{timeout}} secondes."
+  },
+  "navLinks": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "forEmployers": "Pour les employeurs"
+  },
+  "resetPassword": {
+    "init": {
+      "send": {
+        "title": "Entrez votre adresse e-mail.",
+        "text": "Vous recevrez un e-mail avec les instructions pour vous aider à réinitialiser votre mot de passe."
+      },
+      "success": {
+        "title": "Nous vous avons envoyé un petit quelque chose dans votre boîte de réception.",
+        "text": "Nous avons envoyé un message à <1><0>{{email}}</0></1> contenant un lien pour vous aider à réinitialiser votre mot de passe. Vérifiez vos spams si vous ne le voyez pas.",
+        "wrongEmail": "Oups, j’ai entré la mauvaise adresse mail.",
+        "resendEmail": "Vous n’avez pas reçu l’e-mail ? <1>Cliquez ici</1> et nous vous le renverrons."
+      }
+    },
+    "finish": {
+      "title": "Réinitialiser votre mot de passe",
+      "text": "Entrez votre nouveau mot de passe top secret (min. 6 caractères)."
+    }
+  },
+  "candidatesList": {
+    "starRatingHover": "{{value}} étoiles ou plus",
+    "starRatingHoverMax": "{{value}} étoiles",
+    "sortDropdown": {
+      "Candidates": "Pertinence",
+      "CandidatesByLoggedInAtDesc": "Dernière connexion"
+    }
+  },
+  "jobOffersList": {
+    "title": "Recherchez des stages et des emplois pour jeunes diplômés",
+    "sortDropdown": {
+      "JobOffers": "Pertinence",
+      "jobOffersByPublishedAtDesc": "Date"
+    },
+    "emptyState": "Unfortunately, there are currently no jobs that match your search.",
+    "emptyStateMobile": {
+      "title": "No results found.",
+      "description": "Try removing filters or rephrasing your search."
+    },
+    "checkAvailableJobs": "Check available jobs"
+  },
+  "applicantsList": {
+    "sortDropdown": {
+      "Candidates": "Pertinence",
+      "CandidatesByApplicationDate": "Date"
+    }
+  },
+  "candidate": {
+    "dashboard": {
+      "notApprovedNotification": {
+        "below": "Oh oh ! Vous n’avez pas complété au moins 80% de votre profil pour qu’il soit approuvé.",
+        "above": "Nous sommes en cours de vérification de votre profil, mais cela peut prendre 1 à 2 jours. Nous vous répondrons avec des commentaires afin d’approuver votre profil."
+      }
+    },
+    "settings": {
+      "renewalDate": "Renewal Date",
+      "expiryDate": "Expiry Date",
+      "remainingTooltip": "Maximum amount of boosts/messages is 15",
+      "applicationBoost": "Application Boosts",
+      "messagesToEmployer": "Messages to employer",
+      "membershipDetails": "Membership details",
+      "emailAndPassword": "Mot de passe / e-mail",
+      "notifications": "Notifications",
+      "cancelSuccess": "Your subscriptions was successfully cancelled",
+      "cancelError": "Something went wrong, please try again.",
+      "cancelSubscriptionModal": {
+        "title": "Are you sure you want to cancel your Oliv Plus membership?",
+        "description": "By cancelling your membership, you will not be billed at the next scheduled billing date. Any existing boosts and messages to employers will remain intact. Unused boosts and messages will remain available for you to use. Should you wish to resume Oliv Plus, you will need to start a new membership after the end of your current billing cycle.",
+        "cancelButton": "No, thanks",
+        "submitButton": "Yes, cancel"
+      },
+      "alerts": {
+        "inactive": "Your membership is inactive. <1>Start a new membership</1> to resume Oliv Plus."
+      }
+    },
+    "shareProfile": "Visitez mon profil professionnel sur #Oliv, une plateforme d’emploi pensée pour les jeunes.",
+    "applyForJob": {
+      "shareFilesInfo": "En postulant à cette annonce, vous partagerez votre profil Oliv, vos détails de contact et votre CV avec cette entreprise."
+    },
+    "publicProfileTitle": "Profil professionnel de {{firstName}}",
+    "jobAlerts": {
+      "guestTitle": "Sign up to create job alerts",
+      "guestDescription": "Job alerts help you get notified about new jobs that match your preferences, so you never miss out on an opportunity!",
+      "title": "Job Alerts",
+      "description": "Your career interests help determine what jobs you’re recommended.",
+      "emptyState": "No job alerts yet.",
+      "disabledButtonTooltip": "Start by entering a keyword or phrase in the search bar to create job alerts"
+    },
+    "savedJobs": {
+      "guestTitle": "Sign up to save jobs for later",
+      "guestDescription": "Join Oliv and and save interesting jobs so you'll never miss out and access all of your saved jobs anytime and anywhere!",
+      "title": "Saved Jobs",
+      "emptyState": "No saved jobs yet."
+    },
+    "completeProfile": {
+      "stepCounter": "Étape {{value}} sur {{total}}",
+      "preferences": {
+        "title": "Hi! What opportunities are you looking for?",
+        "description": "Tell us the type of opportunities you're after so we can match you to the right ones."
+      },
+      "education": {
+        "title": "What have you been studying?",
+        "description": "Tell us what you have been learning about.",
+        "studentOrGraduate": "student or graduate",
+        "educationLevelLabel": "What's your highest level of education?",
+        "addEducationDetails": "Add your education details"
+      },
+      "experience": {
+        "title": "What's your experience?",
+        "description": "Tell us about your previous professional experiences, voluntary work or passion projects.",
+        "addWorkExperience": "Add your work experience",
+        "workExperienceLabel": "Do you have any work experience?",
+        "addSkills": "Add your skills",
+        "addVolunteering": "Add your volunteering activities or passion projects",
+        "addVolunteeringDescription": "What you spend time on when you're not at work or school"
+      },
+      "about": {
+        "title": "Tell us about yourself!",
+        "description": "Help us get to know you a bit better.",
+        "addProfilePhoto": "Add your profile photo",
+        "addProfilePhotoDescription": "Upload an image with your photo that doesn't exceed 5 MB and has one of the following extensions: png, jpg, jpeg.",
+        "addCv": "Add your CV",
+        "aboutYou": "About me",
+        "aboutYouDescription": "Introduce yourself, your career goals, and the type of roles are looking for. This is the first thing employers will read about you — tell your story and make it interesting.",
+        "addLanguages": "Add languages",
+        "addAvailability": "Add your availability",
+        "addAvailabilityDescription": "Set your availability for 90 days from today. We recommend keeping your availability up to date.",
+        "notifications": "Notifications",
+        "aboutMeNotification": "We've created an 'about me' statement for you. Please feel free to edit it - and make it more personal!"
+      }
+    },
+    "profile": {
+      "reachMoreEmployers": "Reach more employers",
+      "visibility": {
+        "label": "Visibilité du profil",
+        "description": "A public profile allows you to share your profile and makes it accessible via search engines. Contact details and other sensitive data are not shown.",
+        "preview": "Preview your public profile"
+      },
+      "share": {
+        "label": "Partager profil"
+      },
+      "education": {
+        "addEducation": "Add education"
+      },
+      "experience": {
+        "addExperience": "Add experience"
+      },
+      "certificates": {
+        "addCertificate": "Add certificate"
+      },
+      "volunteering": {
+        "addVolunteering": "Add volunteering"
+      },
+      "language": {
+        "addLanguage": "Add language"
+      },
+      "skills": {
+        "addSkills": "Add skills"
+      },
+      "cvFiles": {
+        "addCvFile": "Add CV file",
+        "resume": "Resume"
+      },
+      "additionalDocuments": {
+        "addAdditionalDocument": "Add additional document"
+      },
+      "interests": {
+        "addInterests": "Add interests"
+      },
+      "websites": {
+        "addWebsites": "Add websites"
+      },
+      "socialLinks": {
+        "addSocialLinks": "Add social links",
+        "social": "Social"
+      },
+      "careerPreferences": {
+        "title": "Your preferences determine what jobs you're recommended"
+      }
+    }
+  },
+  "videoUploadNotice": {
+    "heading": "Vidéo chargée avec succès",
+    "description": "Cela peut prendre quelques minutes avant qu'elle ne soit visible sur votre profil."
+  },
+  "tooltips": {
+    "bulkOperations": {
+      "invite": "Inviter à un entretien",
+      "downloadCVs": "Télécharger les CV",
+      "sendMessage": "Envoyer message"
+    },
+    "teamMemberAccess": {
+      "jobPostBuy": "Job posts can only be purchased by the administrator {{adminFullName}} of {{organisationName}} account.",
+      "cvSearchBuy": "CV Search can only be purchased by the administrator {{adminFullName}} of {{organisationName}} account."
+    }
+  },
+  "socialMedia": {
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter"
+  },
+  "reassessment": {
+    "request": "Made significant improvements on your profile? <1>Ask for a profile review</1> for a higher rating.",
+    "waiting": "Notre équipe a bien reçu votre demande de réévaluation et reviendra vers vous rapidement.",
+    "askForReassessment": "Demander une réévaluation"
+  },
+  "rejectedCandidateBox": {
+    "title": "Votre profil a été rejeté",
+    "cannotApply": "<0>Vous ne pouvez pas postuler à des offres car votre profil a été rejeté. </0><1>Voir le message</1>",
+    "content": "Malheureusement, votre profil ne remplit pas les critères d’Oliv pour activer votre profil.",
+    "fullMessage": "<0>Votre profil a pu être rejeté pour les raisons suivantes :</0><1><0>Votre profil ne remplit pas les standards nécessaires pour son activation.</0><1>Vous avez au moins 2 ans d'expérience.</1></1><2>Nous travaillons très dur pour nous assurer que nos étudiants et jeunes diplômés aient la possibilité de faire leurs preuves et de lancer leur carrière. Cela implique plusieurs processus de tri et de vérifications.</2><3>Nous utilisons un maximum de 2 années d’expérience comme référence pour faire partie de la communauté Oliv, mais il y a des exceptions lors de circonstances spéciales. Cela nous permet de créer une zone sécuritaire pour les Candidats où ils ne se sentent pas intimidés par des professionnels plus matures et expérimentés.</3><4>Tout type d’expérience professionnelle de plus de 2 ans possède beaucoup de valeur et vous donne un avantage injuste sur le reste de la communauté, c’est pourquoi nous ne pouvons pas approuver votre profil. Nous espérons que vous comprendrez, mais n’hésitez pas à nous contacter si vous avez des questions.</4><5>Bonne recherche.</5>"
+  },
+  "mainNavigation": {
+    "employer": {
+      "hiring": {
+        "heading": "Embaucher",
+        "description": "Apportez des étudiants talentueux et de jeunes diplômés"
+      },
+      "eventStaffing": {
+        "heading": "Employés d’évènements",
+        "description": "Tout ce dont vous aurez besoin pour attirer des bénévoles et promoteurs"
+      },
+      "emiratisation": {
+        "heading": "Emiratisation",
+        "description": "Une meilleure façon d’atteindre vos objectifs d’Emiratisation"
+      },
+      "saudization": {
+        "heading": "Saudization",
+        "description": "End-to-end recruiting by KSA talent specialists"
+      },
+      "customerStories": {
+        "heading": "Histoires de clients",
+        "description": "Découvrez comment Oliv a aidé des entreprises à attirer les meilleurs talents"
+      },
+      "aboutOliv": {
+        "heading": "A propos d’Oliv",
+        "description": "Apprenez-en un peu plus sur notre équipe et sur ce que nous essayons de faire"
+      },
+      "careers": {
+        "heading": "Carrières",
+        "description": "Vous avez envie de donner du pouvoir aux jeunes grâce à des opportunités ? Dites nous bonjour !"
+      },
+      "employerBlog": {
+        "heading": "Blog employeur",
+        "description": "Conseils et ressources pour vous aider à développer votre entreprise"
+      },
+      "servicesStatus": {
+        "jobPost": "job left",
+        "jobPosts": "jobs left",
+        "noJobPosts": "No jobs left",
+        "jobSlot": "job slot left",
+        "jobSlots": "job slots left",
+        "noJobSlots": "No job slots left",
+        "upgrade": "Upgrade",
+        "buyJobPosts": "Buy job posts",
+        "unlimitedJobSlots": "Unlimited job slots",
+        "unlimitedJobPosts": "Unlimited job posts",
+        "credits": "{{remainingCredits}} of {{creditsMaxAmount}} contacts left this month"
+      }
+    },
+    "candidate": {
+      "services": {
+        "applicationBoosts": {
+          "title": "Application boosts",
+          "status": "{{count}} boost left",
+          "status_plural": "{{count}} boosts left"
+        },
+        "messagesToEmployer": {
+          "title": "Messages to employer",
+          "status": "{{count}} message left",
+          "status_plural": "{{count}} messages left"
+        }
+      },
+      "courses": {
+        "heading": "Académie",
+        "description": "Formations gratuites en ligne pour booster vos applications."
+      },
+      "blog": {
+        "heading": "Blog",
+        "description": "Guides, modèles et conseils pour vous aider à lancer votre carrière"
+      },
+      "aboutOliv": {
+        "heading": "A propos d’Oliv",
+        "description": "Apprenez-en un peu plus sur notre équipe et sur ce que nous essayons de faire."
+      },
+      "careers": {
+        "heading": "Carrières",
+        "description": "Vous avez envie de donner du pouvoir aux jeunes grâce à des opportunités ? Dites nous bonjour !"
+      },
+      "support": {
+        "heading": "Contact",
+        "description": "Everything you need to get started and master Oliv."
+      }
+    }
+  },
+  "mobileBottomNavigation": {
+    "searchJobs": "Search Jobs",
+    "myApplications": "My applications",
+    "messages": "Messages",
+    "profile": "Profile"
+  },
+  "seo": {
+    "companyProfile": {
+      "title": "Stages et emplois pour jeunes diplômés à {{name}} — Oliv"
+    },
+    "jobDetails": {
+      "title": "Emploi de {{title}} à {{organisationName}} à {{city}} — Oliv"
+    },
+    "jobOffers": {
+      "title": "Annonces"
+    },
+    "jobLinks": {
+      "internships": {
+        "title": "Internships by industry and department - Oliv",
+        "description": "Find internships by industry and internships by department at Oliv. Oliv helps students and recent graduates like you find part-time jobs, internships and graduate jobs."
+      },
+      "graduate-jobs": {
+        "title": "Graduate jobs by industry and department - Oliv",
+        "description": "Find graduate jobs by industry and graduate jobs by department at Oliv. Oliv helps students and recent graduates like you find part-time jobs, internships and graduate jobs."
+      }
+    }
+  },
+  "notFoundPage": {
+    "header": "Oups !",
+    "description": "Nous n’avons pas trouvé la page que vous recherchiez",
+    "ctaButton": {
+      "employer": "Aller à mes annonces",
+      "candidate": "Aller à mon tableau de bord",
+      "guest": "Aller à la page d’accueil"
+    }
+  },
+  "privateProfilePage": {
+    "header": "Private profile",
+    "description": "Unfortunately this candidate profile has now been marked as private.",
+    "ctaButton": {
+      "employer": "Aller à mes annonces",
+      "candidate": "Aller à mon tableau de bord",
+      "guest": "Aller à la page d’accueil"
+    }
+  },
+  "errorBoundary": {
+    "header": "We've made some updates.",
+    "description": "There's a newer version of the platform.",
+    "cta": "Update now"
+  },
+  "thankYouPage": {
+    "candidate": {
+      "header": "Merci d’avoir vérifié votre compte !",
+      "description": "Votre compte a bien été vérifié. Veuillez patienter pendant que nous mettons votre tableau de bord en place."
+    },
+    "employer": {
+      "header": "Thanks for signing up with Oliv!",
+      "description": "Your account has been successfully created. Please wait for {{secondsRemaining}}s while we set up your dashboard."
+    }
+  },
+  "deleteAccount": {
+    "confirmation": {
+      "form": {
+        "label": "Tapez '{{confirmWord}}' pour confirmer"
+      }
+    },
+    "candidate": {
+      "description": "Souhaitez-vous supprimer définitivement votre compte ?",
+      "button": "Supprimer mon compte",
+      "preConfirmation": {
+        "title": "Supprimer compte",
+        "description": "Êtes-vous sûr de vouloir supprimer votre profil sur Oliv ? Une fois confirmé, votre profil et toutes vos candidatures seront supprimés <1>définitivement</1> d’Oliv.",
+        "cancel": "Non, continuer à utiliser Oliv",
+        "submit": "Oui, supprimer mon compte"
+      },
+      "confirmation": {
+        "title": "Confirmation",
+        "description": "Par mesure de précaution, nous voulons nous assurer que vous n’ayez pas cliqué sur supprimer par erreur. Notez que cette action ne peut pas être annulée. Une fois votre compte supprimé, toutes vos informations de profil et vos candidatures ne pourront pas être récupérées et seront <1>définitivement</1> supprimés d’Oliv. Êtes-vous sûr de vouloir supprimer votre profil sur Oliv?",
+        "cancel": "Annuler",
+        "submit": "Oui, je suis sûr"
+      }
+    },
+    "employer": {
+      "description": "Souhaitez-vous supprimer votre compte de façon permanente ?",
+      "button": "Demander suppression du compte",
+      "preConfirmation": {
+        "title": "Demander suppression du compte",
+        "description": "Êtes-vous sûr de vouloir demander la suppression de votre profil sur Oliv ?",
+        "cancel": "Annuler",
+        "submit": "Oui, supprimer mon compte"
+      },
+      "confirmation": {
+        "title": "Confirmation",
+        "description": "Par mesure de précaution, nous voulons simplement nous assurer que vous n’ayez pas cliqué sur supprimer par erreur. Cela nous enverra une demande de suppression de votre compte sur Oliv.",
+        "cancel": "Annuler",
+        "submit": "Oui, je suis sûr"
+      }
+    }
+  },
+  "manageAccount": {
+    "manageYourData": "Gérer vos données",
+    "exportData": {
+      "description": "Vous pouvez exporter toutes les données personnelles que vous avez fournies à Oliv.",
+      "exportData": "Exporter données",
+      "exportDataSuccess": {
+        "title": "Exporter vos données",
+        "description": "Succès ! Veuillez vérifier votre boîte de réception. Un lien de téléchargement a été envoyé à l'adresse e-mail enregistrée."
+      },
+      "exportDataFailed": "Impossible d’exporter les données. Veuillez réessayer."
+    }
+  },
+  "timeSlots": {
+    "chooseTimeSlot": "Sélectionnez l’heure qui vous convient le mieux. Vous pouvez toujours contacter l’employeur par chat pour trouver un autre créneau pour l’entretien.",
+    "requestChange": "Demander un autre créneau",
+    "acceptWithTimeSlotDefaultMessage": "{{firstName}} a accepté votre demande d’entretien pour l’emploi {{jobOfferTitle}} le </ br>{{timeSlot}}",
+    "bulkTimeSlotsInfo": "Si vous souhaitez suggérer des créneaux à vos candidats, vous devrez les inviter individuellement."
+  },
+  "interviewInviteResponds": {
+    "accept": "Vous avez accepté la demande d’entretien",
+    "reject": "Vous avez refusé la demande d’entretien"
+  },
+  "appNotifications": {
+    "newVersion": {
+      "description": "New update available! Please refresh the page to view the new changes.",
+      "cta": "Refresh"
+    },
+    "offline": {
+      "description": "You seem to be offline"
+    }
+  },
+  "filters": {
+    "labels": {
+      "rating": "Profile rating: {{value}}",
+      "availableNow": "Available now",
+      "hasVideoCv": "Video CV"
+    }
+  },
+  "jobAlertsFrequency": {
+    "instant": "Instant",
+    "daily": "Daily",
+    "weekly": "Weekly"
+  },
+  "jobsLinks": {
+    "internshipsByDepartment": {
+      "title": "Internships by department",
+      "description": "<0>Or see </0><1>graduate jobs by department<1></1></1>"
+    },
+    "internshipsByIndustry": {
+      "title": "Internships by industry",
+      "description": "<0>Or see </0><1>graduate jobs by industry<1></1></1>"
+    },
+    "graduateJobsByDepartment": {
+      "title": "Graduate jobs by department",
+      "description": "<0>Or see </0><1>internships by department<1></1></1>"
+    },
+    "graduateJobsByIndustry": {
+      "title": "Graduate jobs by industry",
+      "description": "<0>Or see </0><1>internships by industry<1></1></1>"
+    }
+  },
+  "notifications": {
+    "candidate": {
+      "searchJobsWithIncompleteProfile": "<0>Complete</0> your profile to apply to jobs.",
+      "profileReview": {
+        "title": "Your profile is in review",
+        "description": "Your application will be sent to {{organisationName}} once your profile is approved."
+      },
+      "approvedProfileVisibility": "Your application will be seen by employers once your profile is approved.",
+      "keepUpToDate": "Keep your profile up to date in order to receive the right job opportunities.",
+      "failedPayment": "Uh oh! There was a problem processing your payment. Please update your <1><0><0>credit card details</0></0></1>.",
+      "updateSalaryRange": "Please <1>update your salary</1> expectations so that we can find you jobs that match you best."
+    }
+  },
+  "olivPlus":  {
+    "navTitle": "Oliv Plus",
+    "checkHelpCenter": "For more information, check out our",
+    "helpCenter": "Help Center",
+    "smartPopUp": {
+      "externalJobMessageWarning": "As you have applied directly to the employer, you are unable to message them on Oliv",
+      "externalJobBoostWarning": "As you have applied directly to the employer, you are unable to boost your application",
+      "boostMyApplication": "Boost my application",
+      "boostButton": "Boost!",
+      "messagesLeft": "{{count}} of {{total}} messages left.",
+      "boostsLeft": "{{count}} of {{total}} boost left.",
+      "standOutToEmployers": "Stand out to employers with Oliv Plus",
+      "alreadyBoosted": "You've already boosted this application.",
+      "applicationDeclined": "You aren't able to boost as your application has been unsuccessful",
+      "messageDeclined": "You aren't able to message employer as your application has been unsuccessful",
+      "confirmBoost": {
+        "remainingBoosts": "You have {{count}} profile boosts left.",
+        "description": "Would you like to use one of your profile boosts to feature your application for this job post?",
+        "applyWithBoost": "Apply with boost",
+        "outOfBoosts": "You’ve run out of profile boosts for this month. But don't worry, you'll receive additional boosts when your Oliv Plus renews on {{formattedDate}}"
+      }
+    },
+    "boostYourApplication": "Boost your application to the top of the list with Oliv Plus.",
+    "learMore": "Learn more about Oliv Plus",
+    "premiumTooltip": "This applicant is a premium member. Our premium members actively support the growth of Oliv's community and candidate support system through their monthly membership.",
+    "welcomeSection": {
+      "header": "Get double the attention with Oliv Plus",
+      "description": "Boost your applications to the top of the list and send direct messages to verified employers",
+      "isActive": "Oliv Plus is active",
+      "membershipDetailsButton": "My Oliv Plus membership details",
+      "getOlivPlus": "Get Oliv Plus for {{formattedPrice}}/month",
+      "needSupport": "Need support?",
+      "callUsAt": "Call us at",
+      "getInTouch": "Get in touch with us at",
+      "howItWorks": "Wondering how it works?",
+      "watchVideo": "Watch this video"
+    },
+    "benefitsSection": {
+      "header": "Why you’ll love Oliv Plus",
+      "boostApplicationsTitle": "Boost your applications",
+      "boostApplicationsDesc": "Boost 5 of your job applications each month right to the top of the list! Increase your visibility to your favourite employers.",
+      "messageEmployersTitle": "Message verified employers",
+      "messageEmployersDesc": "Start conversations with up to 5 employers each month. Stand out with a tailored message that arrives directly in the employer's inbox.",
+      "supportTitle": "Get priority support",
+      "supportDesc": "Access to the best advice and support from our dedicated local employability team, via phone and email 5 days per week."
+    },
+    "companiesSection": {
+      "header": "Oliv Plus members have been hired by some of the world's best-known brands and companies",
+      "description": "More than 1,000 top companies use Oliv to hire students and fresh graduates"
+    },
+    "ctaSection": {
+      "header": "Stand out to employers with Oliv Plus.",
+      "subscribeToday": "Subscribe today and cancel anytime"
+    },
+    "testimonialsSection": {
+      "testimonial1": {
+        "author": "Nouran ElMedany",
+        "jobDetails": "Creative Graphic Design Intern @ Turner Broadcasting",
+        "description": "The job hunting journey is challenging for fresh graduates. You get lost with all the roles out there, what should be in your CV, how to introduce yourself.. it can be overwhelming. But that was until I start applying through Oliv. Oliv gives you the help you need to stand out to employers with great tips on how to perfect your profile and master your interviews. Oliv gives you the first and right step towards your dream job."
+      },
+      "testimonial2": {
+        "author": "Jonathan Paulson",
+        "jobDetails": "Entrepreneurial Marketing Intern @ Startupbootcamp",
+        "description": "Right through university and out of it, Oliv has been matching me up with great opportunities at great companies. The team really builds a valuable relationship and goes the extra mile for me. They filled a missing gap for a lot of us young professionals early in our careers."
+      },
+      "testimonial3": {
+        "author": "Mahitab El-Sawi",
+        "jobDetails": "Content Marketing Trainee @ Chalhoub Group",
+        "description": "Oliv has really been a wonderful source of career-launching opportunities. What makes the platform stand out is their constant feedback and update calls, providing candidates with constant human contact, making you feel well taken care of."
+      },
+      "testimonial4": {
+        "author": "Mikaeel Khataw",
+        "jobDetails": "Business Development Associate @ Oakwood International",
+        "description": "Oliv has been a phenomenal platform for me as a fresh graduate looking for internships to enhance my experience. It is the most reliable platform I have used, and I was contacted by the organisations I had applied to in a short period of time. The team at Oliv are extremely helpful and are always willing to help."
+      },
+      "testimonial5": {
+        "author": "Kaouther Akid",
+        "jobDetails": "Marketing Coordinator @ Givaudan",
+        "description": "Oliv gave me lots of help and support when I was still a recent graduate with no work experience in the UAE. My current job as a marketing coordinator & graphic designer at Givaudan started as an internship I found through Oliv. For that, I'm forever grateful. Keep doing what you're doing because you are really making a difference!"
+      }
+    },
+    "notifications": {
+      "boostSuccess": "Application boosted - you're at the top of the list!",
+      "boostError": "Something went wrong during boosting an application. Please try again later or contact our customer service.",
+      "messageSent": "Message has been successfully sent to the employer.",
+      "messageError": "Failed to send your message. Please try again."
+    },
+    "employerMessageForm": {
+      "placeholder": "Type your message here",
+      "label": "message",
+      "defaultMessage": "Hello,\n\nI'm really interested in this role.\n\nI believe I'd be a great fit because.. / I'd love to ask a couple of questions about it..\n\nI look forward to hearing from you. \n\nBest regards,\n{{fullName}}"
+    }
+  },
+  "olivia": {
+    "welcomeSection": {
+      "yourShortlistingAssistant": "your shortlisting assistant",
+      "shortlistingDescription": "Shortlisting the best candidates should be effortless. Olivia screens all of your applications for the most relevant candidates and reaches out to the best to confirm:",
+      "listItem1": "Their interest & availability for your role",
+      "listItem2": "Their ability to commute or relocate to your office location",
+      "listItem3": "Their acceptance of your advertised compensation",
+      "shortlistingSummary": "Your shortlist will then be presented for you to review and you can get in touch with the candidates you're most excited about."
+    },
+    "shortlistedByOlivia": {
+      "label": "Shortlisted by Olivia",
+      "tooltip": "Olivia is Oliv's shortlisting bot. Candidates with well suited profiles for your role are asked to reconfirm their interest and availability before being shortlisted"
+    }
+  },
+  "checkout": {
+    "labels": {
+      "card-number": {
+        "valid": "Card number",
+        "invalid": "Card number is invalid",
+        "empty": "Card number is a required field"
+      },
+      "expiry-date": {
+        "valid": "Expiry date",
+        "invalid": "Expiry date is invalid",
+        "empty": "Expiry date is a required field"
+      },
+      "cvv": {
+        "valid": "CVV",
+        "invalid": "CVV is invalid",
+        "empty": "CVV is a required field"
+      }
+    },
+    "makePayment": "Make payment",
+    "notifications": {
+      "success": "Your payment was successful! Your account will be automatically activated.",
+      "active": "You already have an active transaction.",
+      "error": "Something went wrong and your payment has not been proceeded. Please review your payment details and try again.",
+      "cancel": "Your payment has been cancelled"
+    },
+    "formHeader": "Enter payment details"
+  },
+  "contact": {
+    "phoneNumber": "ou appelez-nous au",
+    "email": "Besoin de soutien? Contactez-nous à",
+    "full": ""
+  },
+  "contactUsPage": {
+    "form": {
+      "heading":"Contactez-nous",
+      "title":"Signalez les bugs, demandez des fonctionnalités et contactez notre équipe pour obtenir de l'aide en matière de compte et de facturation.",
+      "full_name_label": "nom et prénom",
+      "full_name_placeholder": "Entrez votre nom complet",
+      "email_label": "Email",
+      "email_placeholder": "entrez votre email complet",
+      "phone_label": "numéro de téléphone",
+  
+      "description_placeholder": "Parlez du problème auquel vous êtes confronté",
+      "step1_btn_next": {
+        "invalid": "من فضلك املأ و تابع",
+        "valid": "التالي"
+      },
+      "submit_btn_text": "Envoyer la demande"
+    }
+  }
+}
