@@ -1,1 +1,2 @@
 webpackJsonp([38],{2047:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=r(28),c=r(19),u=r(23),o=r(68),f=r(244),i=r(2587),a=function(e){return{user:e.user,role:u.f.employer.name,redirectPath:u.f.employer.impersonationRedirectPath}},b=function(e){return{loggedIn:function(t){return e(Object(o.f)(t))},logout:function(){return e(Object(o.k)())},fetchUserById:function(t){return e(Object(f.c)(t))}}};t.default=Object(c.g)(Object(n.b)(a,b)(i.a))}});
+//# sourceMappingURL=ImpersonateEmployerDefaultConnector.eeb65b83.chunk.js.map

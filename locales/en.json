@@ -2253,8 +2253,8 @@
     "IndustryNotSpecified": "Industry not specified"
   },
   "chat": {
-    "unreadMessages": "You have <strong>{{count}} unread</strong> message",
-    "unreadMessages_plural": "You have <strong>{{count}} unread</strong> messages",
+    "unreadMessages": "<strong>{{count}} unread</strong>",
+    "unreadMessages_plural": "<strong>{{count}} unread</strong>",
     "recentMessages": "Messages",
     "noMessagesYet": "No messages yet",
     "applicantFor": "Applicant for",
@@ -3264,6 +3264,10 @@
       "support": {
         "heading": "Contact",
         "description": "Everything you need to get started and master Oliv."
+      },
+      "partners": {
+        "heading": "Partners",
+        "description": "Avail exclusive deals through our partner program."
       }
     }
   },

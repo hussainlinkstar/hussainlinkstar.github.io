@@ -2236,8 +2236,8 @@
     "IndustryNotSpecified": "لم يتم تحديد المجال"
   },
   "chat": {
-    "unreadMessages": "You have <strong>{{count}} unread</strong> message",
-    "unreadMessages_plural": "You have <strong>{{count}} unread</strong> messages",
+    "unreadMessages": "<strong>{{count}} unread</strong>",
+    "unreadMessages_plural": "<strong>{{count}} unread</strong>",
     "recentMessages": "الرسائل",
     "noMessagesYet": "لا توجد رسائل بعد",
     "applicantPosition": "مقدم طلب لمنصب",
