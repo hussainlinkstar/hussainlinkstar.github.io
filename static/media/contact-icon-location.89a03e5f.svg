@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="43px" viewBox="0 0 31 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>location icon@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Contact-us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-265.000000, -291.000000)">
+        <g id="location-icon" transform="translate(256.000000, 288.000000)">
+            <polygon id="Shape" points="0 0 48 0 48 48 0 48"></polygon>
+            <path d="M24.4285714,4.28571429 C16.6095918,4.28571429 10.2857143,10.5904286 10.2857143,18.3857143 C10.2857143,28.9607143 24.4285714,44.5714286 24.4285714,44.5714286 C24.4285714,44.5714286 38.5714286,28.9607143 38.5714286,18.3857143 C38.5714286,10.5904286 32.247551,4.28571429 24.4285714,4.28571429 Z M24.4285714,23.4214286 C21.6404082,23.4214286 19.377551,21.1654286 19.377551,18.3857143 C19.377551,15.606 21.6404082,13.35 24.4285714,13.35 C27.2167347,13.35 29.4795918,15.606 29.4795918,18.3857143 C29.4795918,21.1654286 27.2167347,23.4214286 24.4285714,23.4214286 Z" id="Shape" stroke="#4353FF" stroke-width="2" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
