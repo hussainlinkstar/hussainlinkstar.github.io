@@ -1,4 +1,0 @@
-google.com, pub-3992393056167515, RESELLER, f08c47fec0942fa0
-google.com, 27367402, RESELLER, f08c47fec0942fa0
-indexexchange.com, 187558, DIRECT
-rubiconproject.com, 19512, DIRECT, 0bfd66d529a55807
