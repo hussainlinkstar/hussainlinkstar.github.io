@@ -1480,9 +1480,6 @@
         "hired": "Hired",
         "declined": "Declined"
       },
-      "atsDrawer": {
-        "heading": "Score Details"
-      },
       "allApplicants": "All applicants",
       "allFoundApplicants": "All found applicants",
       "missingCoverLetter": "This candidate didn't attach a cover letter.",
@@ -2529,7 +2526,8 @@
   "topMenuBar": {
     "candidate": "Candidate",
     "employer": "Employer",
-    "careerPro": "CareerPro"
+    "careerPro": "CareerPro",
+    "perks": "Perks"
   },
   "eventStaffing" : {
     "hero" : {
